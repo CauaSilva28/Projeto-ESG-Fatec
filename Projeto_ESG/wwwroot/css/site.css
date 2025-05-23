@@ -1,0 +1,40 @@
+:root, :root[data-theme='light']{
+  --cor-fundo:#E7E7E7;
+  --cor-fundo2:#C0C0C0;
+  --cor-fundo3:#170826;
+
+  --cor-padrao:#651BB3;
+  --cor-padrao-escura:#320046;
+  
+  --cor-texto:#000;
+}
+
+html {
+  font-family: arial;
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color:var(--cor-fundo);
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
