@@ -1,103 +1,139 @@
-/*Header*/
+/*Animação suave de transição entre seções*/
+html{
+    scroll-behavior: smooth;
+}
+
+/*Tamanho da scrollbar*/
+::-webkit-scrollbar {
+    width: 9px;
+}
+
+/*Cor padrão da barra de rolagem*/
+::-webkit-scrollbar-thumb {
+    background: #a18afd;
+    border-radius: 10px;
+}
+
+/*Cor ao usuário passar o mouse por cima*/
+::-webkit-scrollbar-thumb:hover {
+    background: var(--cor-padrao);
+}
 
 header{
     background-image: linear-gradient(#000, transparent);
-    display:flex;
+    display: flex;
     justify-content: space-between;
     align-items: center;
-    padding:1vw 10vw;
-    width:100%;
-    position:fixed;
+    padding: 1vw 10vw;
+    width: 100%;
+    position: fixed;
 }
+
 @media (max-width: 1400px) {
     header{
-        padding:2vw 5vw;
+        padding: 2vw 5vw;
     }
 }
+
 header .logoHeader{
-    width:40px;
+    width: 40px;
 }
+
 header nav{
-    display:flex;
-    gap:4vw;
-    align-items:center;
+    display: flex;
+    gap: 4vw;
+    align-items: center;
 }
+
 header nav a{
     text-decoration: none;
-    color:#fff;
+    color: #fff;
     transition: 0.5s;
 }
+
 header nav a:hover{
-    color:var(--cor-padrao);
-    scale:1.05;
+    color: var(--cor-padrao);
+    scale: 1.05;
 }
+
+header nav a:not(:hover){
+    transition: 3s;
+}
+
 header nav i{
-    color:#fff;
-    background-color:var(--cor-padrao);
-    border-radius:100%;
-    width:30px;
+    color: #fff;
+    background-color: var(--cor-padrao);
+    border-radius: 100%;
+    width: 30px;
     height: 30px;
-    display:flex;
+    display: lex;
     align-items: center;
     justify-content: center;
     transition: 0.5s;
+    padding: 5px;
 }
+
 header nav i:hover{
-    background-color:#fff;
-    color:var(--cor-padrao);
+    background-color: #fff;
+    color: var(--cor-padrao);
 }
 
 /*Home*/
 
 #home{
-    width:100%;
-    padding:5vw 12vw 6vw 12vw;
+    width: 100%;
+    padding: 5vw 12vw 6vw 12vw;
     background-image: url(../img/fundoHome.jpg);
     background-repeat: no-repeat;
-    background-size:cover;
-    display:flex;
+    background-size: cover;
+    display: flex;
     justify-content: space-between;
     align-items: center;
-    gap:5vw;
+    gap: 5vw;
 }
+
 @media (max-width: 1400px) {
     #home{
-        padding:10vw 5vw;
+        padding: 10vw 5vw;
     }
 }
+
 @media (max-width: 1000px) {
     #home{
         flex-direction: column-reverse;
         justify-content: center;
-        padding:15vw 5vw;
+        padding: 15vw 5vw;
         background-position: center;
     }
 }
 
 #home img{
-    width:550px;
+    width: 550px;
 }
+
 @media (max-width: 1200px) {
     #home img{
-        width:450px;
+        width: 450px;
     }
 }
+
 @media (max-width: 900px) {
     #home img{
-        width:350px;
+        width: 350px;
     }
 }
 
 #home .homeText{
-    color:#fff;
-    display:flex;
+    color: #fff;
+    display: flex;
     flex-direction: column;
-    gap:1vw;
-    width:40%;
+    gap: 1vw;
+    width: 40%;
 }
+
 @media (max-width: 1000px) {
     #home .homeText{
-        width:90%;
+        width: 90%;
         text-align: center;
         align-items: center;
     }
@@ -106,64 +142,78 @@ header nav i:hover{
 #home .homeText h1{
     text-transform: uppercase;
     font-weight: bold;
-    font-size:45px;
+    font-size: 45px;
 }
+
 @media (max-width: 1100px) {
     #home .homeText h1{
-        font-size:35px;
+        font-size: 35px;
     }
 }
 
 #home .homeText button{
-    width:60%;
-    padding:10px 0;
-    font-size:18px;
-    border-radius:0.5em;
-    border:none;
+    width: 60%;
+    padding: 10px 0;
+    font-size: 18px;
+    border-radius: 0.5em;
+    border: none;
     background-image: linear-gradient(90deg, var(--cor-padrao), #000 150%);
-    color:#fff;
-    box-shadow:1px 1px 5px 2px #000;
+    color: #fff;
+    box-shadow: 1px 1px 5px 2px #000;
     transition: 0.5s;
 }
+
 #home .homeText button:hover{
-    scale:1.05
+    scale: 1.05
 }
 
-/*Dadps*/
+/*Dados*/
 #casos{
-    margin-top:-2vw;
+    margin-top: -2vw;
 }
 
 .casosDados{
-    background-image:linear-gradient(90deg, #000, var(--cor-padrao));
+    background-image: linear-gradient(90deg, #000, var(--cor-padrao));
     box-shadow: 1px 1px 7px 3px #000;
     color:#fff;
-    text-align:center;
-    width:60%;
-    padding:1.5vw 0vw;
-    border-radius:10em;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    margin-left:auto;
-    margin-right:auto;
-    gap:8vw;
+    text-align: center;
+    width: 60%;
+    padding: 1.5vw 0vw;
+    border-radius: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 8vw;
 }
+
 @media (max-width: 1000px) {
     .casosDados{
-        width:80%;
+        width: 80%;
     }
 }
+
 @media (max-width: 800px) {
     .casosDados{
-        width:40%;
-        border-radius:2em;
-        padding:5vw;
-        gap:15vw;
+        width: 40%;
+        border-radius: 2em;
+        padding: 5vw;
+        gap: 15vw;
         flex-direction: column;
     }
 }
+
 .casosDados h2{
-    font-size:45px;
+    font-size: 45px;
     font-weight: bolder;
+}
+
+.casosText p{
+    text-align: center;
+    padding-top: 3em;
+    margin: 0 auto;
+    width: 50%;
+    justify-content: center;
+    font-size: 1.2em;
 }

@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.container{
+    margin: 0;
+}
+
+#login{
+    margin: 0;;
+    width: 50%;
+    height: 100vh;
+    background-color: var(--cor-padrao);
+}
+
+.container #login .logo{
+    margin: 4em;
+    width: 40px;
+}
+
+#login .btnLogin{
+    width: 60%;
+    padding: 10px 0;
+    font-size: 18px;
+    border-radius: 0.5em;
+    border: none;
+    background-color: var(--cor-padrao);
+    color: #fff;
+    box-shadow: 1px 1px 5px 2px #000;
+    transition: 0.5s;
+}

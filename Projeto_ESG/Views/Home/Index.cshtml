@@ -3,7 +3,7 @@
 }
 
 <header>
-    <img src="~/img/logo.png" alt="Logo SafeWay" class="logoHeader">
+    <img src="~/img/logo.png" alt="Logo-SafeWay" class="logoHeader">
 
     <nav>
         <a href="#home">Home</a>
@@ -11,7 +11,9 @@
         <a href="#sobre">Sobre</a>
         <a href="#denuncia">Denúncia</a>
 
-        <i class="bi bi-person-fill"></i>
+        <a asp-controller="Home" asp-action="Login" style="margin: 1em;">
+            <i class="bi bi-person-fill"></i>
+        </a>
     </nav>
 </header>
 
@@ -41,5 +43,9 @@
             <h2>200+</h2>
             <span>Lorem ipsum dolor</span>
         </div>
+    </div>
+
+    <div class="casosText">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam. </p>
     </div>
 </section>
