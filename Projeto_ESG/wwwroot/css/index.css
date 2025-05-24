@@ -6,7 +6,7 @@ header{
     padding: 1vw 10vw;
     width: 100%;
     position: fixed;
-    z-index:9999;
+    z-index: 9999;
 }
 
 @media (max-width: 1400px) {
@@ -35,6 +35,7 @@ header nav a:hover{
     color: var(--cor-padrao);
     scale: 1.05;
 }
+
 header nav a:not(:hover){
     transition: 1.5s;
 }
@@ -56,11 +57,73 @@ header nav i:hover{
     background-color: #fff;
     color: var(--cor-padrao);
 }
+
 header nav i:not(:hover){
     transition: 1.5s;
 }
 
 /*Home*/
+
+.Perfil {
+    position: relative;
+    display: inline-block;
+}
+
+.Perfil:hover .dropdown-menu {
+    display: block; 
+}
+
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%; 
+    right: 0;
+    background: var(--cor-padrao);
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    padding: 10px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.dropdown-menu i{
+    margin-top: 10px;
+    background-color: #fff;
+    color: var(--cor-padrao);
+}
+
+.dropdown-menu i:hover{
+    background-color: #fff;
+    color: var(--cor-padrao-escura);
+}
+
+.dropdown-menu a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.dropdown-menu a:hover {
+    background: var(--cor-padrao-escura);
+    color: #fff;
+}
+
+.dropdown-menu h2 {
+    text-transform: none;
+    margin-top: 10px;
+    font-size: 13px;
+    color: #fff;
+}
+
+.divisor {
+    height: 1px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
 
 #home{
     width: 100%;
@@ -187,7 +250,8 @@ header nav i:not(:hover){
 #casos .casosDados{
     background-image: linear-gradient(90deg, #000, var(--cor-padrao));
     box-shadow: 1px 1px 7px 3px #000;
-    color:#fff;
+    color: #fff;
+    z-index: 10;
     text-align: center;
     width: 60%;
     padding: 1.5vw 1vw;
@@ -195,11 +259,28 @@ header nav i:not(:hover){
     display: flex;
     align-items: center;
     justify-content: center;
-    margin:0 auto;
+    margin: 0 auto;
     gap: 8vw;
 }
+
+#casos .casosDados:hover {
+    filter: invert(5%);
+}
+
+#casos .casosDados:not(:hover) {
+    transition: 2s;
+}
+
 #casos .casosDados h2{
     color:#fff;
+}
+
+#casos .Abs1 img{
+    position: absolute; 
+    z-index: -1;
+    right: 0;
+    width: 25%;
+    height: 20%;
 }
 
 @media (max-width: 1000px) {
@@ -216,6 +297,12 @@ header nav i:not(:hover){
         gap: 15vw;
         flex-direction: column;
     }
+
+    #casos .Abs1 img{
+        width: 35%;
+        height: 10%;
+    }
+
 }
 
 #casos .casosDados h2{
@@ -230,142 +317,171 @@ header nav i:not(:hover){
 }
 
 #casos .casosText{
-    margin:0 auto;
-    width:40%;
+    margin: 0 auto;
+    width: 40%;
     text-align: center;
-    margin-top: 4vw;
+    margin-top: 6vw;
 }
+
 @media (max-width: 1100px) {
     #casos .casosText{
-        width:70%;
+        width: 70%;
     }
 }
 
 #casos .casosAtencao{
-    margin-top:4vw;
-    width:100%;
+    margin-top: 8vw;
+    width: 100%;
     height: 55vh;
     display: flex;
     align-items: center;
 }
+
 @media (max-width: 800px) {
     #casos .casosText{
         margin-top: 10vw;
     }
     #casos .casosAtencao{
-        margin-top:10vw;
+        margin-top: 10vw;
     }
 }
 
 #casos .casosAtencao img{
-    width:75%;
-    height:100%;
+    width: 75%;
+    height: 100%;
     object-fit: cover;
     object-position: top;
 }
+
 #casos .casosAtencao .casosAtencaoContainer{
     position: absolute;
-    right:0;
-    width:35%;
+    right: 0;
+    width: 35%;
     text-align: end;
-    display:flex;
+    display: flex;
     flex-direction: column;
-    align-items:center;
+    align-items: center;
     justify-content: center;
-    gap:1vw;
+    gap: 1vw;
     padding-right: 10vw;
 }
+
 @media (max-width: 1400px) {
     #casos .casosAtencao .casosAtencaoContainer{
-        width:50%;
+        width: 50%;
     }
     #casos .casosAtencao img{
         object-fit: cover;
         object-position: right;
     }
 }
+
 @media (max-width: 1000px) {
     #casos .casosAtencao img{
-        width:100%;
+        width: 100%;
         object-position: top;
     }
     #casos .casosAtencao .casosAtencaoContainer{
         background-image: linear-gradient(-90deg, var(--cor-fundo) 10%, #e7e7e786 70%, transparent);
-        height:57vh;
-        width:55%;
+        height: 57vh;
+        width: 55%;
     }
 }
+
 #casos .casosAtencao .casosAtencaoContainer h2 span{
-    color:var(--cor-padrao);
+    color: var(--cor-padrao);
 }
 
 #casos .casosNoticia{
-    margin-top:4vw;
-    width:100%;
-    display:flex;
+    margin-top: 4vw;
+    width: 100%;
+    display: flex;
     flex-direction: column;
-    align-items:center;
+    align-items: center;
     justify-content: center;
-    gap:2vw;
+    gap: 2vw;
 }
+
 @media (max-width: 800px) {
     #casos .casosNoticia{
         margin-top: 10vw;
-        gap:6vw;
+        gap: 6vw;
     }
 }
-#casos .casosNoticia .casosNoticiaContainer{
-    width:100%;
-    display:flex;
-    align-items:center;
-    justify-content: center;
-    gap:6vw;
+
+#casos .Abs2 img{
+    position: absolute; 
+    z-index: -1;
+    left: 0;
+    width: 25%;
+    height: 20%;
 }
+
+@media (max-width: 800px) {
+    #casos .Abs2 img{
+        width: 45%;
+        height: 15%;
+    }
+}
+
+#casos .casosNoticia .casosNoticiaContainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6vw;
+}
+
 @media (max-width: 1000px) {
     #casos .casosNoticia .casosNoticiaContainer{
         flex-direction: column;
     }
 }
+
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard{
-    background-color:var(--cor-fundo2);
-    box-shadow:0px 0px 8px #636363;
-    border-radius:1em 1em 0 0;
+    background-color: var(--cor-fundo2);
+    box-shadow: 0px 0px 8px #636363;
+    border-radius: 1em 1em 0 0;
     overflow: hidden;
-    width:350px;
-    display:flex;
+    width: 350px;
+    display: flex;
     flex-direction: column;
     justify-content: center;
-    gap:1vw; 
-    cursor:pointer;
+    gap: 1vw; 
+    cursor: pointer;
     transition: 0.5s;
 }
+
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard:hover{
-    scale:1.03;
+    scale: 1.03;
 }
 
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg{
-    width:100%;
-    height:220px;
+    width: 100%;
+    height: 220px;
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
-    display:flex;
+    display: flex;
     flex-direction: column;
     justify-content: end;
 }
+
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg span{
-    font-size:20px;
-    color:#fff;
-    padding:0 0 20px 20px;
+    font-size: 20px;
+    color: #fff;
+    padding: 0 0 20px 20px;
 }
+
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg span::after{
-    content:"";
-    width:70px;
-    height:2px;
-    background-color:var(--cor-padrao);
-    display:block;
+    content: "";
+    width: 70px;
+    height: 2px;
+    background-color: var(--cor-padrao);
+    display: block;
 }
+
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard p{
-    padding:15px;
-    text-align:center;
+    padding: 15px;
+    text-align: center;
 }

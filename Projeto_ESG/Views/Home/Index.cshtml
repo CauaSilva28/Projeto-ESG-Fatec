@@ -3,7 +3,9 @@
 }
 
 <header>
-    <img src="~/img/logo.png" alt="Logo-SafeWay" class="logoHeader">
+    <a href="#home">
+        <img src="~/img/logo.png" alt="Logo-SafeWay" class="logoHeader">
+    </a>
 
     <nav>
         <a href="#home">Home</a>
@@ -11,9 +13,22 @@
         <a href="#sobre">Sobre</a>
         <a href="#denuncia">Denúncia</a>
 
-        <a asp-controller="Home" asp-action="Login">
-            <i class="bi bi-person-fill"></i>
-        </a>
+        <div class="Perfil">
+            <a asp-controller="Home" asp-action="Login">
+                <i class="bi bi-person-fill"></i>
+            </a>
+            <div class="dropdown-menu">
+                <center>
+                    <i class="bi bi-person-fill"></i>
+                    <h2>Desconectado</h2>
+                </center>
+                <a asp-controller="Home" asp-action="Home">Página Inicial</a>
+                <div class="divisor"></div>
+                <a asp-controller="Home" asp-action="Login">Entrar na conta</a>
+                <div class="divisor"></div>
+            </div>
+        </div>
+
     </nav>
 </header>
 
@@ -28,20 +43,25 @@
 </section>
 
 <section id="casos">
+
+    <div class="Abs1">
+        <img src="~/img/Abstrata1.png" alt="Forma roxa abstrata">
+    </div>
+
     <div class="casosDados">
         <div class="align-items-center">
-            <h2>200+</h2>
-            <span>Lorem ipsum dolor</span>
+            <h2>1800+</h2>
+            <span>Feminicídios (2024)</span>
         </div>
         
         <div class="align-items-center">
-            <h2>200+</h2>
-            <span>Lorem ipsum dolor</span>
+            <h2>1200+</h2>
+            <span>Feminicídios (2023)</span>
         </div>
 
         <div class="align-items-center">
-            <h2>200+</h2>
-            <span>Lorem ipsum dolor</span>
+            <h2>1100+</h2>
+            <span>Feminicídios (2022)</span>
         </div>
     </div>
 
@@ -56,6 +76,10 @@
             <h2>Cuidado ao andar <span>sozinho(a)!</span></h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diamporttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam. </p>
         </div>
+    </div>
+
+    <div class="Abs2">
+        <img src="~/img/Abstrata2.png" alt="Forma roxa abstrata">
     </div>
 
     <div class="casosNoticia">
