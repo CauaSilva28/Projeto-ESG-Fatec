@@ -1,27 +1,31 @@
-html, body {
-    height: 100%;
-    width: 100%;
+.containerLogin {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
     overflow: hidden;
 }
 
-.container{
-    margin: 0;
-}
-
-#login{
-    margin: 0;;
-    width: 50%;
-    height: 100vh;
-    background-color: var(--cor-padrao);
-}
-
-.container #login .logo{
+.container #info .logo{
     margin: 4em;
     width: 40px;
 }
 
-#login .btnLogin{
-    width: 60%;
+#info, #login {
+    width: 50%;
+    height: 100vh;
+}
+
+#info {
+    background-color: #8fee77;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#info .btnLogin{
+    width: 50%;
     padding: 10px 0;
     font-size: 18px;
     border-radius: 0.5em;
@@ -30,4 +34,96 @@ html, body {
     color: #fff;
     box-shadow: 1px 1px 5px 2px #000;
     transition: 0.5s;
+}
+
+#login {
+    background-color: #E7E7E7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#loginText  {
+    color: #000;
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 2em;
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    width: 100%;
+    opacity: .7;
+}
+
+.inputContainer label {
+    font-size: 1em;
+    margin-bottom: .5em;
+    color: #000;
+}
+
+.inputContainer input {
+    border: none;
+    border-bottom: 2px solid var(--cor-padrao);
+    background: #b8b8b8;
+    padding: 8px 150px;
+    font-size: 16px;
+    color: #fff;
+    outline: none;
+}
+
+.inputContainer input::placeholder {
+    color: transparent;
+}
+
+#btnEntrar {
+    margin-top: 3.5em;
+    background-color: var(--cor-padrao);
+    color: #fff;
+    width: 100%;
+    padding: 8px 10px;
+}
+
+#btnEntrar:hover {
+    background-color: var(--cor-padrao-escura);
+    transition: 1s;
+}
+
+#btnEntrar:not(:hover) {
+    transition: 3s;
+}
+
+#irLogin {
+    margin-top: 1.5em;
+    justify-content: end;
+    width: 67.5%;
+}
+
+/* Inputs não estão responsivos */
+#loginFormatacao {
+    width: 67.5%;
+    max-width: 100%;
+}
+
+#loginFormatacao input {
+    width: 100%;
+}
+
+.containerHr {
+    padding-top: 5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 67.5%;
+    gap: 30%; /* espaço entre as linhas, opcional */
+}
+
+.linha {
+    flex: 1; /* cada linha ocupa metade do espaço disponível */
+    height: 2px;
+    background-color: var(--cor-padrao);
 }

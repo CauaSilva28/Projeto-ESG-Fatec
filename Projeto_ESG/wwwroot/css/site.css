@@ -9,25 +9,52 @@
   --cor-texto:#000;
 }
 
-html {
-  font-family: arial;
-  font-size: 14px;
+/*Tamanho da scrollbar*/
+::-webkit-scrollbar {
+    width: 9px;
 }
 
-@media (min-width: 768px) {
+/*Cor padrão da barra de rolagem*/
+::-webkit-scrollbar-thumb {
+    background: #a18afd;
+    border-radius: 10px;
+}
+
+/*Cor ao usuário passar o mouse por cima*/
+::-webkit-scrollbar-thumb:hover {
+    background: var(--cor-padrao);
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: arial;
+  font-size: 18px;
+  position: relative;
+  min-height: 100%;
+}
+
+@media (max-width: 768px) {
   html {
     font-size: 16px;
   }
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+@media (max-width: 400px) {
+  html {
+    font-size: 12px;
+  }
 }
 
 body {
+  font-family:arial;
   background-color:var(--cor-fundo);
   margin-bottom: 60px;
+}
+
+h2{
+  text-transform: uppercase;
+  color:var(--cor-texto);
+  font-family: arial black;
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {

@@ -1,24 +1,3 @@
-/*Animação suave de transição entre seções*/
-html{
-    scroll-behavior: smooth;
-}
-
-/*Tamanho da scrollbar*/
-::-webkit-scrollbar {
-    width: 9px;
-}
-
-/*Cor padrão da barra de rolagem*/
-::-webkit-scrollbar-thumb {
-    background: #a18afd;
-    border-radius: 10px;
-}
-
-/*Cor ao usuário passar o mouse por cima*/
-::-webkit-scrollbar-thumb:hover {
-    background: var(--cor-padrao);
-}
-
 header{
     background-image: linear-gradient(#000, transparent);
     display: flex;
@@ -27,6 +6,7 @@ header{
     padding: 1vw 10vw;
     width: 100%;
     position: fixed;
+    z-index:9999;
 }
 
 @media (max-width: 1400px) {
@@ -55,9 +35,8 @@ header nav a:hover{
     color: var(--cor-padrao);
     scale: 1.05;
 }
-
 header nav a:not(:hover){
-    transition: 3s;
+    transition: 1.5s;
 }
 
 header nav i{
@@ -66,7 +45,7 @@ header nav i{
     border-radius: 100%;
     width: 30px;
     height: 30px;
-    display: lex;
+    display: flex;
     align-items: center;
     justify-content: center;
     transition: 0.5s;
@@ -76,6 +55,9 @@ header nav i{
 header nav i:hover{
     background-color: #fff;
     color: var(--cor-padrao);
+}
+header nav i:not(:hover){
+    transition: 1.5s;
 }
 
 /*Home*/
@@ -102,13 +84,29 @@ header nav i:hover{
     #home{
         flex-direction: column-reverse;
         justify-content: center;
-        padding: 15vw 5vw;
+        padding: 22vw 5vw;
         background-position: center;
     }
 }
 
 #home img{
+    animation: imgScale 5s infinite ease-in-out;
     width: 550px;
+}
+
+@keyframes imgScale{
+    0%{
+        scale:1;
+        transform:translateY(0vw);
+    }
+    50%{
+        scale:1.02;
+        transform:translateY(-1vw);
+    }
+    100%{
+        scale:1;
+        transform:translateY(0vw);
+    }
 }
 
 @media (max-width: 1200px) {
@@ -162,6 +160,15 @@ header nav i:hover{
     box-shadow: 1px 1px 5px 2px #000;
     transition: 0.5s;
 }
+@media (max-width: 400px){
+    #home .homeText h1{
+        font-size:25px;
+    }
+
+    #home .homeText button{
+        font-size:14px;
+    }
+}
 
 #home .homeText button:hover{
     scale: 1.05
@@ -171,31 +178,38 @@ header nav i:hover{
 #casos{
     margin-top: -2vw;
 }
+@media (max-width: 1000px) {
+    #casos{
+        margin-top: -6vw;
+    }
+}
 
-.casosDados{
+#casos .casosDados{
     background-image: linear-gradient(90deg, #000, var(--cor-padrao));
     box-shadow: 1px 1px 7px 3px #000;
     color:#fff;
     text-align: center;
     width: 60%;
-    padding: 1.5vw 0vw;
+    padding: 1.5vw 1vw;
     border-radius: 10em;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin:0 auto;
     gap: 8vw;
+}
+#casos .casosDados h2{
+    color:#fff;
 }
 
 @media (max-width: 1000px) {
-    .casosDados{
+    #casos .casosDados{
         width: 80%;
     }
 }
 
 @media (max-width: 800px) {
-    .casosDados{
+    #casos .casosDados{
         width: 40%;
         border-radius: 2em;
         padding: 5vw;
@@ -204,16 +218,154 @@ header nav i:hover{
     }
 }
 
-.casosDados h2{
+#casos .casosDados h2{
     font-size: 45px;
     font-weight: bolder;
 }
 
-.casosText p{
+@media (max-width: 400px){
+    #casos .casosDados h2{
+        font-size: 32px;
+    }
+}
+
+#casos .casosText{
+    margin:0 auto;
+    width:40%;
     text-align: center;
-    padding-top: 3em;
-    margin: 0 auto;
-    width: 50%;
+    margin-top: 4vw;
+}
+@media (max-width: 1100px) {
+    #casos .casosText{
+        width:70%;
+    }
+}
+
+#casos .casosAtencao{
+    margin-top:4vw;
+    width:100%;
+    height: 55vh;
+    display: flex;
+    align-items: center;
+}
+@media (max-width: 800px) {
+    #casos .casosText{
+        margin-top: 10vw;
+    }
+    #casos .casosAtencao{
+        margin-top:10vw;
+    }
+}
+
+#casos .casosAtencao img{
+    width:75%;
+    height:100%;
+    object-fit: cover;
+    object-position: top;
+}
+#casos .casosAtencao .casosAtencaoContainer{
+    position: absolute;
+    right:0;
+    width:35%;
+    text-align: end;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
     justify-content: center;
-    font-size: 1.2em;
+    gap:1vw;
+    padding-right: 10vw;
+}
+@media (max-width: 1400px) {
+    #casos .casosAtencao .casosAtencaoContainer{
+        width:50%;
+    }
+    #casos .casosAtencao img{
+        object-fit: cover;
+        object-position: right;
+    }
+}
+@media (max-width: 1000px) {
+    #casos .casosAtencao img{
+        width:100%;
+        object-position: top;
+    }
+    #casos .casosAtencao .casosAtencaoContainer{
+        background-image: linear-gradient(-90deg, var(--cor-fundo) 10%, #e7e7e786 70%, transparent);
+        height:57vh;
+        width:55%;
+    }
+}
+#casos .casosAtencao .casosAtencaoContainer h2 span{
+    color:var(--cor-padrao);
+}
+
+#casos .casosNoticia{
+    margin-top:4vw;
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    gap:2vw;
+}
+@media (max-width: 800px) {
+    #casos .casosNoticia{
+        margin-top: 10vw;
+        gap:6vw;
+    }
+}
+#casos .casosNoticia .casosNoticiaContainer{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    gap:6vw;
+}
+@media (max-width: 1000px) {
+    #casos .casosNoticia .casosNoticiaContainer{
+        flex-direction: column;
+    }
+}
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard{
+    background-color:var(--cor-fundo2);
+    box-shadow:0px 0px 8px #636363;
+    border-radius:1em 1em 0 0;
+    overflow: hidden;
+    width:350px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:1vw; 
+    cursor:pointer;
+    transition: 0.5s;
+}
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard:hover{
+    scale:1.03;
+}
+
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg{
+    width:100%;
+    height:220px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: end;
+}
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg span{
+    font-size:20px;
+    color:#fff;
+    padding:0 0 20px 20px;
+}
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg span::after{
+    content:"";
+    width:70px;
+    height:2px;
+    background-color:var(--cor-padrao);
+    display:block;
+}
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard p{
+    padding:15px;
+    text-align:center;
 }

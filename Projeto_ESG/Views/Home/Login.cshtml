@@ -2,36 +2,49 @@
     ViewData["Title"] = "Login";
 }
 
-<div class="container">
-    <section id="login">
+<div class="containerLogin">
 
+    <style>
+        body {
+            overflow: hidden;
+        }
+    </style>
+   
+    <section id="info">
         <img src="~/img/logo.png" alt="Logo-SafeWay" class="logo">
 
-        <div class="loginText"></div>
-            <h1>Seja Bem vindo(a)!</h1>
+        <div class="infoText">
+            <h2>Seja Bem-vindo(a)!</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam.</p>
             <button class="btnLogin">Entrar sem conta</button>
         </div>
-
     </section>
 
-    <!--
-    <section id="registro">
-        <h1>Login</h1>
+    <section id="login">
+        <h1 id="loginText">Login</h1>
+       
+        <div id="loginFormatacao">
         <form method="post" action="#">
             <div class="inputContainer">
-                <input type="text" name="username" placeholder="Usuário" required>
+                <label for="username">Email</label>
+                <input type="text" name="email" id="email" required>
             </div>
             <div class="inputContainer">
-                <input type="password" name="password" placeholder="Senha" required>
+                <label for="password">Senha</label>
+                <input type="password" name="password" id="password" required>
             </div>
-            <button type="submit">Entrar</button>
+            <button type="submit" id="btnEntrar">Entrar</button>
         </form>
-        <p>Não tem uma conta? <a href="#">Crie uma agora!</a></p>
+        </div>
+
+        <div id="irLogin">
+            <p style="margin-bottom: 20px;">Não tem conta? <a href="#" style="color: var(--cor-padrao); text-decoration: underline;">Cadastrar</a></p>
+        </div>
+
+        <div class="containerHr">
+            <div class="linha"></div>
+            <div class="linha"></div>
+        </div>
 
     </section>
-    -->
-    
 </div>
-    
-</section>
