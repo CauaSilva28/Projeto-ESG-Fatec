@@ -42,6 +42,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: relative;
+    background-image: url('MockupApagado.png');
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 #loginText  {
@@ -70,9 +75,12 @@
     border: none;
     border-bottom: 2px solid var(--cor-padrao);
     background: #b8b8b8;
-    padding: 8px 150px;
+    width: 100%;
+    padding: 8px;
     font-size: 16px;
-    color: #fff;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: var(--cor-padrao-escura);
     outline: none;
 }
 
@@ -101,6 +109,7 @@
     margin-top: 1.5em;
     justify-content: end;
     width: 67.5%;
+    z-index: 1;
 }
 
 /* Inputs não estão responsivos */
@@ -119,11 +128,11 @@
     justify-content: space-between;
     align-items: center;
     width: 67.5%;
-    gap: 30%; /* espaço entre as linhas, opcional */
+    gap: 30%;
 }
 
 .linha {
-    flex: 1; /* cada linha ocupa metade do espaço disponível */
+    flex: 1;
     height: 2px;
     background-color: var(--cor-padrao);
 }

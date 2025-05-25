@@ -316,7 +316,6 @@ c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\bundle\Projeto_ESG.styles.css
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\projectbundle\Projeto_ESG.bundle.scp.css
-c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-93te1mzk4m.gz
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-8mj43bsspp.gz
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\n7wdgzvdqw-61n19gt1b8.gz
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-xtxxf3hu2r.gz
@@ -395,4 +394,5 @@ c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.pdb
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.genruntimeconfig.cache
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
-c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-3k4b78qyyz.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-fy2sxx3fsc.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-7ttjvjv2t4.gz
