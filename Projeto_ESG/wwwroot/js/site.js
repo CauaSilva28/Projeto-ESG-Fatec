@@ -1,4 +1,21 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿const servicos = new Swiper('.telas-swiper', {
+    direction: 'horizontal',
+    loop: true,
+    effect: 'coverflow',
+    grabCursor:true,
+    centeredSlides:true,
+    speed:800,
+    slidesPerView:"auto",
+    coverflowEffect:{
+        rotate:30,
+        stretch:80,
+        depth:800,
+        modifier:1.5,
+        slideShadows:false,
+    },
 
-// Write your JavaScript code.
+    pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+    },
+  });

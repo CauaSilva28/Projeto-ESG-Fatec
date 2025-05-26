@@ -235,7 +235,7 @@ header nav i:not(:hover){
     scale: 1.05
 }
 
-/*Dados*/
+/*Casos*/
 #casos{
     margin-top: -2vw;
 }
@@ -318,7 +318,7 @@ header nav i:not(:hover){
     margin: 0 auto;
     width: 40%;
     text-align: center;
-    margin-top: 6vw;
+    margin-top: 5vw;
 }
 
 @media (max-width: 1100px) {
@@ -328,7 +328,7 @@ header nav i:not(:hover){
 }
 
 #casos .casosAtencao{
-    margin-top: 8vw;
+    margin-top: 5vw;
     width: 100%;
     height: 55vh;
     display: flex;
@@ -384,10 +384,6 @@ header nav i:not(:hover){
         height: 57vh;
         width: 55%;
     }
-}
-
-#casos .casosAtencao .casosAtencaoContainer h2 span{
-    color: var(--cor-padrao);
 }
 
 #casos .casosNoticia{
@@ -482,4 +478,141 @@ header nav i:not(:hover){
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard p{
     padding: 15px;
     text-align: center;
+}
+
+/*Sobre*/
+#sobre{
+    margin-top:5vw;
+}
+@media (max-width: 1000px) {
+    #sobre{
+        margin-top:10vw;
+    }
+}
+
+#sobre .sobreContainer{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    gap:10vw;
+}
+@media (max-width: 1000px) {
+    #sobre .sobreContainer{
+        flex-direction: column;
+        gap:5vw;
+    }
+}
+#sobre .sobreContainer .sobreText{
+    width:35%;
+    display:flex;
+    flex-direction: column;
+    gap:1vw;
+}
+@media (max-width: 1400px) {
+    #sobre .sobreContainer .sobreText{
+        width:50%;
+    }
+}
+@media (max-width: 1000px) {
+    #sobre .sobreContainer .sobreText{
+        width:75%;
+    }
+    #sobre .sobreContainer .sobreText h2{
+        text-align:center;
+    }
+    #sobre .sobreContainer .sobreText p{
+        text-align:justify;
+    }
+}
+
+#sobre .sobreContainer .sobreText p{
+    text-indent: 20px;
+}
+#sobre .sobreContainer img{
+    width:250px;
+    transition: 0.5s;
+}
+#sobre .sobreContainer img:hover{
+    rotate:10deg;
+    scale:1.1;
+}
+#sobre .sobreContainer img:not(:hover){
+    transition: 1s;
+}
+@media (max-width: 1000px) {
+    #sobre .sobreContainer img{
+        width:200px;
+    }
+}
+
+#sobre .sobreFuncao{
+    margin-top:4vw;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap:5vw;
+}
+@media (max-width: 1000px) {
+    #sobre .sobreFuncao{
+        margin-top: 10vw;
+        flex-wrap: wrap;
+    }
+}
+#sobre .sobreFuncao .sobreFuncaoElemento{
+    width:150px;
+    display:flex;
+    flex-direction: column;
+    gap:0.5vw;
+    text-align: center;
+}
+#sobre .sobreFuncao .sobreFuncaoElemento i{
+    font-size:50px;
+    color:var(--cor-padrao);
+}
+
+.sobreTelas{
+    margin-top: 5vw;
+    width:100%;
+    height:70vh;
+    background-image: url(../img/fundoTelas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sobreTelas h2{
+    color:#fff;
+}
+
+/* Slide swiper */
+.sobreTelas .telas-swiper .swiper-slide img{
+    width:250px;
+}
+.sobreTelas .telas-swiper{
+    width:35%;
+    height:80%;
+}
+@media (max-width: 1000px) {
+    .sobreTelas{
+        padding:5vw 0;
+        height:80vh;
+    }
+    .sobreTelas .telas-swiper .swiper-slide img{
+        width:200px;
+    }
+    .sobreTelas .telas-swiper{
+        height:100%;
+    }
+}
+.sobreTelas .telas-swiper .swiper-slide{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.telas-swiper .swiper-pagination-bullet {
+    width:12px;
+    height:12px;
+    background-color: #fff;
 }

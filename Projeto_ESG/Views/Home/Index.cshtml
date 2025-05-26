@@ -14,14 +14,13 @@
         <a href="#denuncia">Denúncia</a>
 
         <div class="Perfil">
-            <a asp-controller="Home" asp-action="Login">
-                <i class="bi bi-person-fill"></i>
-            </a>
+            <i class="bi bi-person-fill"></i>
+            
             <div class="dropdown-menu">
-                <center>
+                <div class="d-flex flex-column align-items-center justify-content-center">
                     <i class="bi bi-person-fill"></i>
                     <h2>Desconectado</h2>
-                </center>
+                </div>
                 <a asp-controller="Home" asp-action="Home">Página Inicial</a>
                 <div class="divisor"></div>
                 <a asp-controller="Home" asp-action="Login">Entrar na conta</a>
@@ -49,17 +48,17 @@
     </div>
 
     <div class="casosDados">
-        <div class="align-items-center">
+        <div>
             <h2>1800+</h2>
             <span>Feminicídios (2024)</span>
         </div>
         
-        <div class="align-items-center">
+        <div>
             <h2>1200+</h2>
             <span>Feminicídios (2023)</span>
         </div>
 
-        <div class="align-items-center">
+        <div>
             <h2>1100+</h2>
             <span>Feminicídios (2022)</span>
         </div>
@@ -111,4 +110,62 @@
         </div>
     </div>
     
+</section>
+
+<section id="sobre">
+    <div class="sobreContainer">
+        <div class="sobreText">
+            <h2>Sobre o <span>aplicativo</span></h2>
+            <div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis.</p>
+            </div>
+        </div>
+        <img src="~/img/appSobre.png" alt="Tela do celular com o aplicativo">
+    </div>
+
+    <div class="sobreFuncao"> 
+        <div class="sobreFuncaoElemento">
+            <i class="bi bi-gear"></i>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
+        </div>
+
+        <div class="sobreFuncaoElemento">
+            <i class="bi bi-gear"></i>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
+        </div>
+
+        <div class="sobreFuncaoElemento">
+            <i class="bi bi-gear"></i>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
+        </div>
+
+        <div class="sobreFuncaoElemento">
+            <i class="bi bi-gear"></i>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
+        </div>
+    </div>
+
+    <div class="sobreTelas">
+        <h2>Disponível no mobile!</h2>
+
+        <!-- Slide Swiper -->
+        <div class="swiper telas-swiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <img src="~/img/telas/celularTela1.png" alt="Tela inicial do aplicativo">
+                </div>
+
+                <div class="swiper-slide">
+                   <img src="~/img/telas/celularTela1.png" alt="Tela inicial do aplicativo">
+                </div>
+
+                <div class="swiper-slide">
+                   <img src="~/img/telas/celularTela1.png" alt="Tela inicial do aplicativo">
+                </div>
+            </div>
+            <div id="btn-servicos" class="swiper-pagination"></div>
+            <div id="back-slides-servicos"></div>
+        </div>
+    </div>
 </section>

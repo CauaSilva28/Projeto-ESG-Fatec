@@ -217,7 +217,6 @@ e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debu
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\bundle\Projeto_ESG.styles.css
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\projectbundle\Projeto_ESG.bundle.scp.css
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\n7wdgzvdqw-61n19gt1b8.gz
-e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-xtxxf3hu2r.gz
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\8zg8rv5hrv-bqjiyaj88i.gz
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\873mt89rjd-c2jlpeoesf.gz
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6ch57mx9p7-erw9l3u2r3.gz
@@ -293,9 +292,6 @@ e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debu
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jga8mg3qg6-bysyavwfom.gz
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vldryq44yc-bysyavwfom.gz
-e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-93te1mzk4m.gz
-e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-ll4cpof2hu.gz
-e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-8mj43bsspp.gz
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.Development.json
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.json
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.runtime.json
@@ -396,3 +392,7 @@ c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-fy2sxx3fsc.gz
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-7ttjvjv2t4.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-7ttjvjv2t4.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-65ssez1dqm.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-dm0vo1nsvg.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-oi8si8po11.gz

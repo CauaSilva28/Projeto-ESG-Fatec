@@ -56,6 +56,9 @@ h2{
   color:var(--cor-texto);
   font-family: arial black;
 }
+h2 span{
+    color: var(--cor-padrao);
+}
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
   color: var(--bs-secondary-color);
