@@ -1,6 +1,65 @@
 ﻿@{
     ViewData["Title"] = "Cadastro";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<div class="containerLogin">
+
+    <style>
+        body {
+            overflow: hidden; /* Impede o scroll da página */
+        }
+    </style>
+   
+    <section id="info">
+        <img src="~/img/logo.png" alt="Logo-SafeWay" class="logo">
+
+        <div class="efeitoSup">
+            <img src="~/img/EfeitoRoxo.png" alt="Efeito roxo">
+        </div>
+        
+        <div class="infoText">
+            <h2>Seja bem vindo(a)!</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam.</p>
+            <a asp-controller="Home" asp-action="Index">
+                <button class="btnLogin">Entrar sem conta</button>
+            </a>
+        </div>
+
+        <div class="efeitoInf">
+            <img src="~/img/EfeitoRoxo.png" alt="Efeito roxo">
+        </div>
+    </section>
+
+    <section id="login">
+
+        <h1 id="loginText">Cadastro</h1>
+       
+        <div id="loginFormatacao">
+            <form method="post" action="#">
+                <div class="inputContainer">
+                    <label for="username">Nome</label>
+                    <input type="text" name="nome" id="nome" required>
+                </div>
+                <div class="inputContainer">
+                    <label for="email">Email</label>
+                    <input type="email" name="email" id="email" required>
+                </div>
+                <div class="inputContainer">
+                    <label for="password">Senha</label>
+                    <input type="password" name="password" id="password" required>
+                </div>
+                <button type="submit" id="btnEntrar">Entrar</button>
+            </form>
+        </div>
+
+        <div id="irLogin">
+            <p style="margin-bottom: 20px; color: var(--cor-padrao-escura);">Possui cadastro? <a style="color: var(--cor-padrao); text-decoration: underline;" asp-controller="Home" asp-action="Login">Entrar</a></p>
+        </div>
+
+        <div class="containerHrCad">
+            <div class="linha"></div>
+            <div class="linha"></div>
+        </div>
+
+    </section>
+</div>

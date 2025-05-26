@@ -6,17 +6,27 @@
 
     <style>
         body {
-            overflow: hidden;
+            overflow: hidden; /* Impede o scroll da página */
         }
     </style>
    
     <section id="info">
         <img src="~/img/logo.png" alt="Logo-SafeWay" class="logo">
 
+        <div class="efeitoSup">
+            <img src="~/img/EfeitoRoxo.png" alt="Efeito roxo">
+        </div>
+        
         <div class="infoText">
-            <h2>Seja Bem-vindo(a)!</h2>
+            <h2>Que bom te ver novamente!</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam.</p>
-            <button class="btnLogin">Entrar sem conta</button>
+            <a asp-controller="Home" asp-action="Index">
+                <button class="btnLogin">Entrar sem conta</button>
+            </a>
+        </div>
+
+        <div class="efeitoInf">
+            <img src="~/img/EfeitoRoxo.png" alt="Efeito roxo">
         </div>
     </section>
 
@@ -38,7 +48,7 @@
         </div>
 
         <div id="irLogin">
-            <p style="margin-bottom: 20px; color: var(--cor-padrao-escura);">Não tem conta? <a href="#" style="color: var(--cor-padrao); text-decoration: underline;">Cadastrar</a></p>
+            <p style="margin-bottom: 20px; color: var(--cor-padrao-escura);">Não tem conta? <a style="color: var(--cor-padrao); text-decoration: underline;" asp-controller="Home" asp-action="Cadastro">Cadastrar</a></p>
         </div>
 
         <div class="containerHr">
