@@ -178,7 +178,7 @@ header nav i:not(:hover){
 
 @media (max-width: 900px) {
     #home img{
-        width: 350px;
+        width: 300px;
     }
 }
 
@@ -445,6 +445,11 @@ header nav i:not(:hover){
     cursor: pointer;
     transition: 0.5s;
 }
+@media (max-width: 1000px) {
+    #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard{
+        width:300px;
+    }
+}
 
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard:hover{
     scale: 1.03;
@@ -603,7 +608,8 @@ header nav i:not(:hover){
         width:200px;
     }
     .sobreTelas .telas-swiper{
-        height:100%;
+        height:90%;
+        width:50%;
     }
 }
 .sobreTelas .telas-swiper .swiper-slide{
@@ -615,4 +621,113 @@ header nav i:not(:hover){
     width:12px;
     height:12px;
     background-color: #fff;
+}
+/* Fim Slide swiper */
+
+.sobreEsg{
+    margin-top:5vw;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:10vw;
+}
+@media (max-width: 1000px) {
+    .sobreEsg{
+        margin-top:10vw;
+        flex-direction: column;
+    }  
+}
+.sobreEsg img{
+    width:400px;
+}
+.sobreEsg .sobreEsgText{
+    display:flex;
+    flex-direction: column;
+    gap:1vw;
+    width:30%;
+}
+@media (max-width: 1400px) {
+    .sobreEsg .sobreEsgText{
+        width:40%;
+    }  
+}
+
+.sobreEsg .sobreEsgText p{
+    text-indent: 20px;
+}
+@media (max-width: 1000px) {
+    .sobreEsg .sobreEsgText{
+        width:80%;
+    } 
+    .sobreEsg .sobreEsgText p{
+        text-align:justify;
+    }
+    .sobreEsg img{
+        width:300px;
+    }
+}
+
+.sobreComp{
+    margin-top:5vw;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:2vw;
+}
+@media (max-width: 1000px) {
+    .sobreComp{
+        margin-top: 10vw;
+        gap:8vw;
+    }
+}
+.sobreComp .sobreCompItem{
+    width:60%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    gap:3vw;
+    background-color: var(--cor-padrao-escura);
+    color:#fff;
+    padding:1vw 2vw;
+    border-radius: 2em;
+    box-shadow:0px 0px 5px #000;
+}
+@media (max-width: 1000px) {
+    .sobreComp .sobreCompItem{
+        flex-direction: column;
+        text-align: center;
+        padding:3vw;
+    }
+}
+@media (max-width: 1400px) {
+    .sobreComp .sobreCompItem{
+        width:80%;
+    }
+}
+.sobreComp .sobreCompItem i{
+    font-size:60px;
+}
+.sobreComp .sobreCompItem .sobreItemText h3{
+    font-size:22px;
+    font-weight: bold;
+}
+.sobreComp .sobreCompItem .sobreItemText p{
+    margin: 0;
+}
+
+/* Denuncia */
+#denuncia{
+    width:50%;
+    text-align:center;
+    display:flex;
+    flex-direction: column;
+    gap:1vw;
+    margin:5vw auto 0 auto;
+}
+@media (max-width: 1000px) {
+    #denuncia{
+        margin-top:10vw;
+        width:80%;
+    }
 }
