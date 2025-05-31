@@ -33,6 +33,7 @@
 
 #info .efeitoSup img{
     position: absolute;
+     z-index:0;
     top: 0;
     width: 75%;
     height: 60%;
@@ -41,6 +42,7 @@
 
 #info .efeitoInf img{
     position: absolute;
+    z-index:0;
     top: 0;
     width: 55%;
     height: 60%;
@@ -82,6 +84,11 @@
 #info .btnLogin:not(:hover){
     background-color: var(--cor-padrao);
     transition: 1s;
+}
+
+.infoText{
+    position: relative;
+    z-index:1;
 }
 
 #login {
@@ -142,6 +149,7 @@
     color: #fff;
     width: 100%;
     padding: 8px 10px;
+    border:none;
 }
 
 #btnEntrar:hover {
