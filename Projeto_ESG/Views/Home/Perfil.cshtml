@@ -3,7 +3,7 @@
 }
 
 <header>
-    <a href="#home">
+    <a asp-controller="Home" asp-action="Index">
         <img src="~/img/logo.png" alt="Logo-SafeWay" class="logoHeader">
     </a>
 
@@ -26,12 +26,18 @@
 </header>
 
 <section class="perfilInicio">
-    <div class="perfilInicioBanner">
+    <img src="~/img/perfil.jpg" alt="Foto de perfil">
+    <form class="formDadosInicio">
+        <input type="text" name="nome">
+        <input type="text" name="descricao">
+        <div class="botoes">
+            <button>Aplicar</button>
+            <button>Editar</button>
+        </div>
+    </form>
+</section>
 
-    </div>
-
-    <div class="perfilInicioDados">
-
-    </div>
+<section class="perfilDados">
+    
 </section>
 

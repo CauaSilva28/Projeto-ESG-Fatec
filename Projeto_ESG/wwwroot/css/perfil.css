@@ -1,0 +1,10 @@
+.perfilInicio{
+    width:100%;
+}
+
+.perfilInicio .banner{
+    padding-top:10vh;
+    width:100%;
+    height:40vh;
+    background-color: #fff;
+}

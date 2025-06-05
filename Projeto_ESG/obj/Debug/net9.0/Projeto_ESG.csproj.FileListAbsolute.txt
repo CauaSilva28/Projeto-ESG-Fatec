@@ -392,9 +392,6 @@ c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-65ssez1dqm.gz
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-dm0vo1nsvg.gz
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-mymsb5qj24.gz
-e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jga8mg3qg6-chtihh52oe.gz
-e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vldryq44yc-chtihh52oe.gz
-e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-sx8tw458v4.gz
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-qdcnh77smt.gz
 c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.Development.json
 c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.json
@@ -497,3 +494,7 @@ c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Proj
 c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.genruntimeconfig.cache
 c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
 c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-5ipweew5fc.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-qc0h8qlhd0.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jga8mg3qg6-chtihh52oe.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vldryq44yc-chtihh52oe.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-ftste2ulij.gz
