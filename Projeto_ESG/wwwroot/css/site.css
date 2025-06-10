@@ -2,10 +2,8 @@
   --cor-fundo:#E7E7E7;
   --cor-fundo2:#C0C0C0;
   --cor-fundo3:#170826;
-
   --cor-padrao:#651BB3;
   --cor-padrao-escura:#320046;
-  
   --cor-texto:#000;
 }
 
@@ -56,6 +54,7 @@ h2{
   color:var(--cor-texto);
   font-family: arial black;
 }
+
 h2 span{
     color: var(--cor-padrao);
 }

@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Projeto_ESG
 build_property.RootNamespace = Projeto_ESG
-build_property.ProjectDir = e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\
+build_property.ProjectDir = c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG
+build_property.MSBuildProjectDirectory = c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[e:/Área de Trabalho/github meus projetos/Projeto-ESG-Fatec/Projeto_ESG/Views/Home/Cadastro.cshtml]
+[c:/Users/mathe/OneDrive/Documentos/Projetos Programação/Projeto-ESG-Fatec/Projeto_ESG/Views/Home/Cadastro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3Ryby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Área de Trabalho/github meus projetos/Projeto-ESG-Fatec/Projeto_ESG/Views/Home/Index.cshtml]
+[c:/Users/mathe/OneDrive/Documentos/Projetos Programação/Projeto-ESG-Fatec/Projeto_ESG/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Área de Trabalho/github meus projetos/Projeto-ESG-Fatec/Projeto_ESG/Views/Home/Login.cshtml]
+[c:/Users/mathe/OneDrive/Documentos/Projetos Programação/Projeto-ESG-Fatec/Projeto_ESG/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Área de Trabalho/github meus projetos/Projeto-ESG-Fatec/Projeto_ESG/Views/Home/Perfil.cshtml]
+[c:/Users/mathe/OneDrive/Documentos/Projetos Programação/Projeto-ESG-Fatec/Projeto_ESG/Views/Home/Perfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJmaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Área de Trabalho/github meus projetos/Projeto-ESG-Fatec/Projeto_ESG/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/mathe/OneDrive/Documentos/Projetos Programação/Projeto-ESG-Fatec/Projeto_ESG/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Área de Trabalho/github meus projetos/Projeto-ESG-Fatec/Projeto_ESG/Views/_ViewImports.cshtml]
+[c:/Users/mathe/OneDrive/Documentos/Projetos Programação/Projeto-ESG-Fatec/Projeto_ESG/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Área de Trabalho/github meus projetos/Projeto-ESG-Fatec/Projeto_ESG/Views/_ViewStart.cshtml]
+[c:/Users/mathe/OneDrive/Documentos/Projetos Programação/Projeto-ESG-Fatec/Projeto_ESG/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Área de Trabalho/github meus projetos/Projeto-ESG-Fatec/Projeto_ESG/Views/Shared/_Layout.cshtml]
+[c:/Users/mathe/OneDrive/Documentos/Projetos Programação/Projeto-ESG-Fatec/Projeto_ESG/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-19ktz6iqgo
