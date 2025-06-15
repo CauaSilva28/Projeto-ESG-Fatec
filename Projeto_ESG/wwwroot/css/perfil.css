@@ -21,6 +21,17 @@
     flex-direction: column;
     gap:10px;
 }
+@media (max-width: 1000px) {
+    .perfilInicio{
+        padding-left:4vw;
+    }
+    .perfilInicio img{
+        width:140px;
+    }
+    .perfilInicio .formDadosInicio{
+        width:45%;
+    }
+}
 .perfilInicio .formDadosInicio input{
     width:100%;
     background-color: #fff;
@@ -50,4 +61,134 @@
     color:var(--cor-padrao);
 }
 
+.perfilHome{
+    display:flex;
+    flex-direction: column;
+    gap:10px;
+    width:70%;
+    margin:15vh auto 0 auto;
+}
+.perfilHome p{
+    text-indent: 20px;
+}
+.perfilHome .perfilHomeDados{
+    margin-top:5vh;
+    display:flex;
+    flex-direction: column;
+    gap:10px;
+}
+.perfilHome .perfilHomeDados h3{
+    font-size:16px;
+    font-weight: bold;
+}
+.perfilHome .perfilHomeDados .perfilDadosContainer{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+}
+@media (max-width: 1000px) {
+    .perfilHome .perfilHomeDados .perfilDadosContainer{
+        flex-direction: column;
+        justify-content: center;
+        gap:20px;
+    }
+}
+.perfilHome .perfilHomeDados .perfilDadosContainer .dados{
+    width:250px;
+    height:270px;
+    background-color: #F3E8FF;
+}
+.formDepoimento{
+    margin-top:10vh;
+    display:flex;
+    flex-direction: column;
+    gap:10px;
+}
+.formDepoimento textarea{
+    max-height:15vh;
+    min-height: 15vh;
+    border:2px solid var(--cor-padrao);
+}
+.formDepoimento button{
+    width:20%;
+    padding:10px 0;
+    border:none;
+    border-radius:1em;
+    background-color: var(--cor-padrao);
+    color:#fff;
+    box-shadow:1px 1px 4px #000;
+    margin-top:2vh;
+    transition: 0.5s;
+}
+.formDepoimento button:hover{
+    scale:1.05;
+}
+@media (max-width: 1000px) {
+    .formDepoimento button{
+        width:40%;
+    }
+}
+.depoimentosPessoal, .depoimentosComunidade{
+    margin-top:10vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:20px;
+}
 
+.depoimentosPessoal h2, .depoimentosComunidade h2{
+    text-align: center;
+}
+.depoimentoCard{
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px 50px;
+    background-color: var(--cor-fundo2);
+    box-shadow:1px 1px 4px #000;
+}
+@media (max-width: 1000px) {
+    .depoimentoCard{
+        flex-direction: column;
+        justify-content: center;
+        gap:20px;
+        padding:30px 10px;
+        text-align: center;
+    }
+}
+.depoimentoCard p{
+    margin:0;
+}
+.depoimentoCard .depoimentoCardText{
+    width:80%;
+}
+.depoimentoCard img{
+    width:110px;
+    border-radius:100%;
+}
+.depoimentoCard h3{
+    font-size:20px;
+    font-weight:bold;
+}
+.depoimentoCard button{
+    border:none;
+    border-radius:1em;
+    padding:5px 15px;
+    color:#fff;
+    background-color: var(--cor-padrao);
+    transition: 0.5s;
+}
+.depoimentoCard button:hover{
+    background-color: #fff;
+    color:var(--cor-padrao);
+}
+.depoimentoCard i{
+    color:#898989;
+    font-size:25px;
+    cursor:pointer;
+    transition: 0.5s;
+}
+.depoimentoCard i:hover{
+    color:#5e5e5e;
+}
