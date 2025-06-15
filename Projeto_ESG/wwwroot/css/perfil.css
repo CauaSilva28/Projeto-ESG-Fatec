@@ -98,18 +98,18 @@
     height:270px;
     background-color: #F3E8FF;
 }
-.formDepoimento{
+#formDepoimento{
     margin-top:10vh;
     display:flex;
     flex-direction: column;
     gap:10px;
 }
-.formDepoimento textarea{
+#formDepoimento textarea{
     max-height:15vh;
     min-height: 15vh;
     border:2px solid var(--cor-padrao);
 }
-.formDepoimento button{
+#formDepoimento button{
     width:20%;
     padding:10px 0;
     border:none;
@@ -120,15 +120,15 @@
     margin-top:2vh;
     transition: 0.5s;
 }
-.formDepoimento button:hover{
+#formDepoimento button:hover{
     scale:1.05;
 }
 @media (max-width: 1000px) {
-    .formDepoimento button{
+    #formDepoimento button{
         width:40%;
     }
 }
-.depoimentosPessoal, .depoimentosComunidade{
+#depoimentosPessoal, #depoimentosComunidade{
     margin-top:10vh;
     display:flex;
     flex-direction: column;
@@ -136,8 +136,13 @@
     gap:20px;
 }
 
-.depoimentosPessoal h2, .depoimentosComunidade h2{
+#depoimentosPessoal h2, #depoimentosComunidade h2{
     text-align: center;
+}
+#depoimentosPessoal span{
+    text-align:center;
+    color:#969696;
+    font-size:16px;
 }
 .depoimentoCard{
     width:100%;
@@ -159,6 +164,7 @@
 }
 .depoimentoCard p{
     margin:0;
+    word-wrap: break-word;
 }
 .depoimentoCard .depoimentoCardText{
     width:80%;
@@ -171,7 +177,7 @@
     font-size:20px;
     font-weight:bold;
 }
-.depoimentoCard button{
+#depoimentosPessoal .depoimentoCard button{
     border:none;
     border-radius:1em;
     padding:5px 15px;
@@ -179,16 +185,32 @@
     background-color: var(--cor-padrao);
     transition: 0.5s;
 }
-.depoimentoCard button:hover{
+#depoimentosPessoal .depoimentoCard button:hover{
     background-color: #fff;
     color:var(--cor-padrao);
 }
-.depoimentoCard i{
+.depoimentoCard .depoimentoLike{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.depoimentoCard .depoimentoLike span{
+    font-size:14px;
+}
+.depoimentoLike button{
+    background-color: transparent;
+    border:none;
+}
+.depoimentoCard .depoimentoLike button i{
     color:#898989;
     font-size:25px;
     cursor:pointer;
     transition: 0.5s;
 }
-.depoimentoCard i:hover{
+.depoimentoCard .depoimentoLike button i:hover{
     color:#5e5e5e;
+}
+.depoimentoCard .depoimentoLike .active{
+    color:#fd3287 !important;
 }

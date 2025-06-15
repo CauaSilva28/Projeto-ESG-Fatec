@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "96MMIgMP9do7TR1AlHgMJbnt9NbNODNBzul4CW2Vccw=",
+  "Hash": "F9LjCirUJ5dU91lOnYy48RLjTAMCs/svlFjRQkoICpY=",
   "Source": "Projeto_ESG",
   "BasePath": "_content/Projeto_ESG",
   "Mode": "Default",
@@ -1382,12 +1382,12 @@
       "OriginalItemSpec": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\zn8rzj5zn7-komyo8yvxl.gz",
+      "Identity": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\zn8rzj5zn7-2gxs445wei.gz",
       "SourceId": "Projeto_ESG",
       "SourceType": "Discovered",
       "ContentRoot": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Projeto_ESG",
-      "RelativePath": "css/perfil#[.{fingerprint=komyo8yvxl}]?.css.gz",
+      "RelativePath": "css/perfil#[.{fingerprint=2gxs445wei}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\css\\perfil.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "driqv9d6o4",
-      "Integrity": "eXQes1R8VNcLRuQ2zFu11eQnupL8f8SudBOyUCD6GTA=",
+      "Fingerprint": "3nxvwxxn4i",
+      "Integrity": "D9De8PVYj/pBUbM6p9ZSXuAlEw9UahlX8WUeDKFTdgM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\css\\perfil.css"
@@ -1543,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "komyo8yvxl",
-      "Integrity": "rEDMAtbuCB3xt8qTrwxYQtoI0Iut1KbIM+WZJpvR/gY=",
+      "Fingerprint": "2gxs445wei",
+      "Integrity": "rgPxHZSu01v11lHdShuZUq/oK/bXb+kBrOrA336AX2s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\perfil.css"
@@ -3910,13 +3910,13 @@
       ]
     },
     {
-      "Route": "css/perfil.css",
-      "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\zn8rzj5zn7-komyo8yvxl.gz",
+      "Route": "css/perfil.2gxs445wei.css",
+      "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\zn8rzj5zn7-2gxs445wei.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001041666667"
+          "Quality": "0.000928505107"
         }
       ],
       "ResponseHeaders": [
@@ -3926,19 +3926,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "959"
+          "Value": "1076"
         },
         {
           "Name": "ETag",
-          "Value": "\"eXQes1R8VNcLRuQ2zFu11eQnupL8f8SudBOyUCD6GTA=\""
+          "Value": "\"D9De8PVYj/pBUbM6p9ZSXuAlEw9UahlX8WUeDKFTdgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 02:26:42 GMT"
+          "Value": "Sun, 15 Jun 2025 19:42:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3954,18 +3954,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rEDMAtbuCB3xt8qTrwxYQtoI0Iut1KbIM+WZJpvR/gY=\""
+          "Value": "W/\"rgPxHZSu01v11lHdShuZUq/oK/bXb+kBrOrA336AX2s=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "2gxs445wei"
+        },
+        {
+          "Name": "label",
+          "Value": "css/perfil.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-rEDMAtbuCB3xt8qTrwxYQtoI0Iut1KbIM+WZJpvR/gY="
+          "Value": "sha256-rgPxHZSu01v11lHdShuZUq/oK/bXb+kBrOrA336AX2s="
         }
       ]
     },
     {
-      "Route": "css/perfil.css",
+      "Route": "css/perfil.2gxs445wei.css",
       "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\css\\perfil.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3975,7 +3983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4115"
+          "Value": "4722"
         },
         {
           "Name": "Content-Type",
@@ -3983,121 +3991,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rEDMAtbuCB3xt8qTrwxYQtoI0Iut1KbIM+WZJpvR/gY=\""
+          "Value": "\"rgPxHZSu01v11lHdShuZUq/oK/bXb+kBrOrA336AX2s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 02:26:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rEDMAtbuCB3xt8qTrwxYQtoI0Iut1KbIM+WZJpvR/gY="
-        }
-      ]
-    },
-    {
-      "Route": "css/perfil.css.gz",
-      "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\zn8rzj5zn7-komyo8yvxl.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "959"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eXQes1R8VNcLRuQ2zFu11eQnupL8f8SudBOyUCD6GTA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 02:26:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eXQes1R8VNcLRuQ2zFu11eQnupL8f8SudBOyUCD6GTA="
-        }
-      ]
-    },
-    {
-      "Route": "css/perfil.komyo8yvxl.css",
-      "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\zn8rzj5zn7-komyo8yvxl.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001041666667"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "959"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eXQes1R8VNcLRuQ2zFu11eQnupL8f8SudBOyUCD6GTA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 02:26:42 GMT"
+          "Value": "Sun, 15 Jun 2025 19:42:35 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"rEDMAtbuCB3xt8qTrwxYQtoI0Iut1KbIM+WZJpvR/gY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "komyo8yvxl"
+          "Value": "2gxs445wei"
         },
         {
           "Name": "label",
@@ -4105,13 +4013,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rEDMAtbuCB3xt8qTrwxYQtoI0Iut1KbIM+WZJpvR/gY="
+          "Value": "sha256-rgPxHZSu01v11lHdShuZUq/oK/bXb+kBrOrA336AX2s="
         }
       ]
     },
     {
-      "Route": "css/perfil.komyo8yvxl.css",
-      "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\css\\perfil.css",
+      "Route": "css/perfil.2gxs445wei.css.gz",
+      "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\zn8rzj5zn7-2gxs445wei.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4120,7 +4028,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4115"
+          "Value": "1076"
         },
         {
           "Name": "Content-Type",
@@ -4128,56 +4036,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rEDMAtbuCB3xt8qTrwxYQtoI0Iut1KbIM+WZJpvR/gY=\""
+          "Value": "\"D9De8PVYj/pBUbM6p9ZSXuAlEw9UahlX8WUeDKFTdgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 02:26:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "komyo8yvxl"
-        },
-        {
-          "Name": "label",
-          "Value": "css/perfil.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rEDMAtbuCB3xt8qTrwxYQtoI0Iut1KbIM+WZJpvR/gY="
-        }
-      ]
-    },
-    {
-      "Route": "css/perfil.komyo8yvxl.css.gz",
-      "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\zn8rzj5zn7-komyo8yvxl.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "959"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eXQes1R8VNcLRuQ2zFu11eQnupL8f8SudBOyUCD6GTA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 02:26:42 GMT"
+          "Value": "Sun, 15 Jun 2025 19:42:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4195,7 +4058,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "komyo8yvxl"
+          "Value": "2gxs445wei"
         },
         {
           "Name": "label",
@@ -4203,7 +4066,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-eXQes1R8VNcLRuQ2zFu11eQnupL8f8SudBOyUCD6GTA="
+          "Value": "sha256-D9De8PVYj/pBUbM6p9ZSXuAlEw9UahlX8WUeDKFTdgM="
+        }
+      ]
+    },
+    {
+      "Route": "css/perfil.css",
+      "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\zn8rzj5zn7-2gxs445wei.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000928505107"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1076"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D9De8PVYj/pBUbM6p9ZSXuAlEw9UahlX8WUeDKFTdgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 19:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rgPxHZSu01v11lHdShuZUq/oK/bXb+kBrOrA336AX2s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rgPxHZSu01v11lHdShuZUq/oK/bXb+kBrOrA336AX2s="
+        }
+      ]
+    },
+    {
+      "Route": "css/perfil.css",
+      "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\css\\perfil.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rgPxHZSu01v11lHdShuZUq/oK/bXb+kBrOrA336AX2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 19:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rgPxHZSu01v11lHdShuZUq/oK/bXb+kBrOrA336AX2s="
+        }
+      ]
+    },
+    {
+      "Route": "css/perfil.css.gz",
+      "AssetFile": "e:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\zn8rzj5zn7-2gxs445wei.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D9De8PVYj/pBUbM6p9ZSXuAlEw9UahlX8WUeDKFTdgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 19:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D9De8PVYj/pBUbM6p9ZSXuAlEw9UahlX8WUeDKFTdgM="
         }
       ]
     },
@@ -6222,7 +6222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 01:23:10 GMT"
+          "Value": "Sun, 15 Jun 2025 19:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6283,7 +6283,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 01:23:10 GMT"
+          "Value": "Sun, 15 Jun 2025 19:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6328,7 +6328,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 01:23:10 GMT"
+          "Value": "Sun, 15 Jun 2025 19:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6383,7 +6383,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 01:23:10 GMT"
+          "Value": "Sun, 15 Jun 2025 19:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6436,7 +6436,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 01:23:10 GMT"
+          "Value": "Sun, 15 Jun 2025 19:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6473,7 +6473,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 01:23:10 GMT"
+          "Value": "Sun, 15 Jun 2025 19:27:49 GMT"
         },
         {
           "Name": "Cache-Control",

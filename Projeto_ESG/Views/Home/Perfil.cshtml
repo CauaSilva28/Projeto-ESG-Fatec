@@ -1,3 +1,5 @@
+@model Projeto_ESG.Models.PerfilViewModel;
+
 @{
     ViewData["Title"] = "Perfil";
 }
@@ -56,53 +58,59 @@
         </div>
     </div>
 
-    <form class="formDepoimento" action="">
+    <form method="post" id="formDepoimento" asp-action="Perfil" asp-controller="Home">
         <h2>Fale sobre nosso <span>aplicativo!</span></h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diamporttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam.</p>
-        <textarea name="depoimento" maxlength="500"></textarea>
+        <textarea name="Depoimento" maxlength="500"></textarea>
         <button>Adicionar</button>
     </form>
 
-    <div class="depoimentosPessoal">
+    <div id="depoimentosPessoal">
         <h2>Seus depoimentos</h2>
-        <div class="depoimentoCard">
-            <img src="~/img/perfil.jpg" alt="Foto de perfil">
-            <div class="depoimentoCardText">
-                <h3>Nome</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-            <button>Excluir</button>
-        </div>
+        @if (Model?.Depoimentos != null && Model.Depoimentos.Any())
+        {
+            foreach (var item in Model.Depoimentos)
+            {
+                <div class="depoimentoCard">
+                    <img src="~/img/perfil.jpg" alt="Foto de perfil">
+                    <div class="depoimentoCardText">
+                        <h3>Usuário</h3>
+                        <p>@item.Depoimento</p>
+                    </div>
+                    <form method="post" asp-action="ExcluirDepoimento">
+                        <input type="hidden" name="depoimento" value="@item.Depoimento" />
+                        <button type="submit">Excluir</button>
+                    </form>
+                </div>
+            }
+        }
+        else
+        {
+            <span>Nenhum depoimento feito</span>
+        }
     </div>
 
-    <div class="depoimentosComunidade">
-        <h2>depoimentos da <span>comunidade</span></h2>
-        <div class="depoimentoCard">
-            <img src="~/img/perfil.jpg" alt="Foto de perfil">
-            <div class="depoimentoCardText">
-                <h3>Nome</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-            <i class="bi bi-heart-fill"></i>
-        </div>
+    <div id="depoimentosComunidade">
+        <h2>Depoimentos da <span>comunidade</span></h2>
 
-        <div class="depoimentoCard">
-            <img src="~/img/perfil.jpg" alt="Foto de perfil">
-            <div class="depoimentoCardText">
-                <h3>Nome</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        @foreach (var item in Model.Likes)
+        {
+            <div class="depoimentoCard">
+                <img src="~/img/perfil.jpg" alt="Foto de perfil">
+                <div class="depoimentoCardText">
+                    <h3>@item.Usuario</h3>
+                    <p>@item.DepoimentoComunidade</p>
+                </div>
+                <div class="depoimentoLike">
+                    <span>@item.Like</span>
+                    <form method="post" asp-action="AdicionarLike">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit">
+                            <i class="bi bi-heart-fill @(item.Curtido ? "active" : "")"></i>
+                        </button>
+                    </form>
+                </div>
             </div>
-            <i class="bi bi-heart-fill"></i>
-        </div>
-
-        <div class="depoimentoCard">
-            <img src="~/img/perfil.jpg" alt="Foto de perfil">
-            <div class="depoimentoCardText">
-                <h3>Nome</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-            <i class="bi bi-heart-fill"></i>
-        </div>
+        }
     </div>
 </section>
-
