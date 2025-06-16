@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mZYEqqgV16Wf6S0aRePYshieIItkoraoEtqA9hLZtQs=",
+  "Hash": "vPDF+bGXcQJq0+n/5x+y4yc60b6Ju3ESbV74MuZSL0E=",
   "Source": "Projeto_ESG",
   "BasePath": "_content/Projeto_ESG",
   "Mode": "Default",
@@ -1172,12 +1172,12 @@
       "OriginalItemSpec": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\w0v5jodpn5-6dc3aski1q.gz",
+      "Identity": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\w0v5jodpn5-ekb96jj546.gz",
       "SourceId": "Projeto_ESG",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Projeto_ESG",
-      "RelativePath": "css/index#[.{fingerprint=6dc3aski1q}]?.css.gz",
+      "RelativePath": "css/index#[.{fingerprint=ekb96jj546}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1186,8 +1186,8 @@
       "RelatedAsset": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\css\\index.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "k1okje1p8d",
-      "Integrity": "SA7GWHanaTuWa7nz0mmJuAqGuGywRx+kmUaibyEMWlk=",
+      "Fingerprint": "ql28tc6xgh",
+      "Integrity": "0rOuxvReVyfxfhaDWPIqUZSWwl3N1CchQFYJS2YdQGc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\css\\index.css"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6dc3aski1q",
-      "Integrity": "pqTcR58+To3L26VgNc+9hO7/NYXucZ8AS11248N2XeY=",
+      "Fingerprint": "ekb96jj546",
+      "Integrity": "MvsDKL3rrc7l/CLAiJze57KreD120yNYrnUFtCtAtUM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\index.css"
@@ -1674,6 +1674,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Abstrata4.png"
+    },
+    {
+      "Identity": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\Abstrata5.png",
+      "SourceId": "Projeto_ESG",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\",
+      "BasePath": "_content/Projeto_ESG",
+      "RelativePath": "img/Abstrata5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1us3wkcpkv",
+      "Integrity": "R1vrJ6t+3F2aD94KG2MQGKnVAZND4C7gDI5NtVD0ncM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Abstrata5.png"
+    },
+    {
+      "Identity": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\Abstrata6.png",
+      "SourceId": "Projeto_ESG",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\",
+      "BasePath": "_content/Projeto_ESG",
+      "RelativePath": "img/Abstrata6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zgo4f7skk1",
+      "Integrity": "4/+44DMkXz8fOPUctJvtwA/RTxhJMmN/j+8wg76vNYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Abstrata6.png"
     },
     {
       "Identity": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\appHome.png",
@@ -3274,13 +3316,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/index.6dc3aski1q.css",
-      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\w0v5jodpn5-6dc3aski1q.gz",
+      "Route": "css/index.css",
+      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\w0v5jodpn5-ekb96jj546.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000358294518"
+          "Quality": "0.000362976407"
         }
       ],
       "ResponseHeaders": [
@@ -3290,19 +3332,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2790"
+          "Value": "2754"
         },
         {
           "Name": "ETag",
-          "Value": "\"SA7GWHanaTuWa7nz0mmJuAqGuGywRx+kmUaibyEMWlk=\""
+          "Value": "\"0rOuxvReVyfxfhaDWPIqUZSWwl3N1CchQFYJS2YdQGc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 20:06:30 GMT"
+          "Value": "Mon, 16 Jun 2025 20:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3318,26 +3360,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pqTcR58+To3L26VgNc+9hO7/NYXucZ8AS11248N2XeY=\""
+          "Value": "W/\"MvsDKL3rrc7l/CLAiJze57KreD120yNYrnUFtCtAtUM=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "6dc3aski1q"
-        },
-        {
-          "Name": "label",
-          "Value": "css/index.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-pqTcR58+To3L26VgNc+9hO7/NYXucZ8AS11248N2XeY="
+          "Value": "sha256-MvsDKL3rrc7l/CLAiJze57KreD120yNYrnUFtCtAtUM="
         }
       ]
     },
     {
-      "Route": "css/index.6dc3aski1q.css",
+      "Route": "css/index.css",
       "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\css\\index.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3347,7 +3381,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16407"
+          "Value": "16256"
         },
         {
           "Name": "Content-Type",
@@ -3355,11 +3389,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pqTcR58+To3L26VgNc+9hO7/NYXucZ8AS11248N2XeY=\""
+          "Value": "\"MvsDKL3rrc7l/CLAiJze57KreD120yNYrnUFtCtAtUM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 20:06:30 GMT"
+          "Value": "Mon, 16 Jun 2025 20:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MvsDKL3rrc7l/CLAiJze57KreD120yNYrnUFtCtAtUM="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css.gz",
+      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\w0v5jodpn5-ekb96jj546.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0rOuxvReVyfxfhaDWPIqUZSWwl3N1CchQFYJS2YdQGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 20:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0rOuxvReVyfxfhaDWPIqUZSWwl3N1CchQFYJS2YdQGc="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.ekb96jj546.css",
+      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\w0v5jodpn5-ekb96jj546.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000362976407"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2754"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0rOuxvReVyfxfhaDWPIqUZSWwl3N1CchQFYJS2YdQGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 20:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MvsDKL3rrc7l/CLAiJze57KreD120yNYrnUFtCtAtUM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ekb96jj546"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MvsDKL3rrc7l/CLAiJze57KreD120yNYrnUFtCtAtUM="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.ekb96jj546.css",
+      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MvsDKL3rrc7l/CLAiJze57KreD120yNYrnUFtCtAtUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 20:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3369,7 +3548,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6dc3aski1q"
+          "Value": "ekb96jj546"
         },
         {
           "Name": "label",
@@ -3377,13 +3556,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pqTcR58+To3L26VgNc+9hO7/NYXucZ8AS11248N2XeY="
+          "Value": "sha256-MvsDKL3rrc7l/CLAiJze57KreD120yNYrnUFtCtAtUM="
         }
       ]
     },
     {
-      "Route": "css/index.6dc3aski1q.css.gz",
-      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\w0v5jodpn5-6dc3aski1q.gz",
+      "Route": "css/index.ekb96jj546.css.gz",
+      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\w0v5jodpn5-ekb96jj546.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3392,7 +3571,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2790"
+          "Value": "2754"
         },
         {
           "Name": "Content-Type",
@@ -3400,11 +3579,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SA7GWHanaTuWa7nz0mmJuAqGuGywRx+kmUaibyEMWlk=\""
+          "Value": "\"0rOuxvReVyfxfhaDWPIqUZSWwl3N1CchQFYJS2YdQGc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 20:06:30 GMT"
+          "Value": "Mon, 16 Jun 2025 20:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3422,7 +3601,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6dc3aski1q"
+          "Value": "ekb96jj546"
         },
         {
           "Name": "label",
@@ -3430,144 +3609,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SA7GWHanaTuWa7nz0mmJuAqGuGywRx+kmUaibyEMWlk="
-        }
-      ]
-    },
-    {
-      "Route": "css/index.css",
-      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\w0v5jodpn5-6dc3aski1q.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000358294518"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2790"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SA7GWHanaTuWa7nz0mmJuAqGuGywRx+kmUaibyEMWlk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 20:06:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"pqTcR58+To3L26VgNc+9hO7/NYXucZ8AS11248N2XeY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pqTcR58+To3L26VgNc+9hO7/NYXucZ8AS11248N2XeY="
-        }
-      ]
-    },
-    {
-      "Route": "css/index.css",
-      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\css\\index.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16407"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pqTcR58+To3L26VgNc+9hO7/NYXucZ8AS11248N2XeY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 20:06:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pqTcR58+To3L26VgNc+9hO7/NYXucZ8AS11248N2XeY="
-        }
-      ]
-    },
-    {
-      "Route": "css/index.css.gz",
-      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\Debug\\net9.0\\compressed\\w0v5jodpn5-6dc3aski1q.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2790"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SA7GWHanaTuWa7nz0mmJuAqGuGywRx+kmUaibyEMWlk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 20:06:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SA7GWHanaTuWa7nz0mmJuAqGuGywRx+kmUaibyEMWlk="
+          "Value": "sha256-0rOuxvReVyfxfhaDWPIqUZSWwl3N1CchQFYJS2YdQGc="
         }
       ]
     },
@@ -5170,6 +5212,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-5kgRt6b3U7NAgrIqTZOsDipoAPOP6oCc0mbRWJ7szlw="
+        }
+      ]
+    },
+    {
+      "Route": "img/Abstrata5.1us3wkcpkv.png",
+      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\Abstrata5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R1vrJ6t+3F2aD94KG2MQGKnVAZND4C7gDI5NtVD0ncM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 20:14:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1us3wkcpkv"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Abstrata5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R1vrJ6t+3F2aD94KG2MQGKnVAZND4C7gDI5NtVD0ncM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Abstrata5.png",
+      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\Abstrata5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R1vrJ6t+3F2aD94KG2MQGKnVAZND4C7gDI5NtVD0ncM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 20:14:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R1vrJ6t+3F2aD94KG2MQGKnVAZND4C7gDI5NtVD0ncM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Abstrata6.png",
+      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\Abstrata6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4/+44DMkXz8fOPUctJvtwA/RTxhJMmN/j+8wg76vNYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 20:14:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4/+44DMkXz8fOPUctJvtwA/RTxhJMmN/j+8wg76vNYs="
+        }
+      ]
+    },
+    {
+      "Route": "img/Abstrata6.zgo4f7skk1.png",
+      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\Abstrata6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4/+44DMkXz8fOPUctJvtwA/RTxhJMmN/j+8wg76vNYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 20:14:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zgo4f7skk1"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Abstrata6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4/+44DMkXz8fOPUctJvtwA/RTxhJMmN/j+8wg76vNYs="
         }
       ]
     },

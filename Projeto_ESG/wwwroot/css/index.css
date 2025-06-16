@@ -282,8 +282,6 @@ header nav i:not(:hover){
     position: absolute; 
     z-index: -1;
     right: 0;
-    width: 24%;
-    height: 8%;
 }
 
 @media (max-width: 1000px) {
@@ -299,14 +297,6 @@ header nav i:not(:hover){
         padding: 5vw;
         gap: 15vw;
         flex-direction: column;
-    }
-
-}
-
-@media (max-width: 600px) {
-    #casos .Abs1 img{
-        width: 45%;
-        height: 4%;
     }
 
 }
@@ -376,6 +366,7 @@ header nav i:not(:hover){
     #casos .casosAtencao .casosAtencaoContainer{
         width: 50%;
     }
+
     #casos .casosAtencao img{
         object-fit: cover;
         object-position: right;
@@ -415,15 +406,6 @@ header nav i:not(:hover){
     position: absolute; 
     z-index: -1;
     left: 0;
-    width: 25%;
-    height: 10%;
-}
-
-@media (max-width: 800px) {
-    #casos .Abs2 img{
-        width: 40%;
-        height: 5%;
-    }
 }
 
 #casos .casosNoticia .casosNoticiaContainer{
@@ -575,8 +557,6 @@ header nav i:not(:hover){
     position: absolute; 
     z-index: -1;
     right: 0;
-    width: 38%;
-    height: 11%;
 }
 
 #sobre .sobreFuncao{
@@ -720,6 +700,12 @@ header nav i:not(:hover){
     }  
 }
 
+#sobre .Abs5 img{
+    position: absolute; 
+    z-index: -1;
+    right: 0;
+}
+
 .sobreEsg img{
     width:400px;
 }
@@ -820,6 +806,12 @@ header nav i:not(:hover){
 
 .sobreComp .sobreCompItem .sobreItemText p{
     margin: 0;
+}
+
+#sobre .Abs6 img{
+    position: absolute; 
+    z-index: -1;
+    left: 0;
 }
 
 /* Denuncia */
