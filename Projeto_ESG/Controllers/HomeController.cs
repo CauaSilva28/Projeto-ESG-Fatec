@@ -10,11 +10,6 @@ public class HomeController : Controller
 
     private static List<FormViewDepoimento> _depoimentoList = new List<FormViewDepoimento>();
 
-    public HomeController(ILogger<HomeController> logger)
-    {
-        _logger = logger;
-    }
-
     private static List<LikeViewModel> _likes = new List<LikeViewModel>
     {
         new LikeViewModel { Id = 1, Like = 0, Curtido = false, DepoimentoComunidade = "Muito bom!", Usuario = "Ana" },
@@ -22,15 +17,38 @@ public class HomeController : Controller
         new LikeViewModel { Id = 3, Like = 0, Curtido = false, DepoimentoComunidade = "Fiz minha filha baixar kkk, sempre acompanho por onde ela anda, me da um alivio esse aplicativo.", Usuario = "Amanda"}
     };
 
+    private static DadosViewModel _dados = new DadosViewModel();
+    private static bool _editavel = true;
+
     [HttpGet]
     public IActionResult Perfil()
     {
+        ViewBag.Editavel = _editavel;
+
         var viewModel = new PerfilViewModel
         {
             Depoimentos = _depoimentoList,
-            Likes = _likes
+            Likes = _likes,
+            Dados = _dados
         };
+
         return View(viewModel);
+    }
+
+    [HttpPost]
+    public IActionResult AlterarDados(DadosViewModel dados)
+    {
+        _dados.Nome = dados.Nome;
+        _dados.Descricao = dados.Descricao;
+        _editavel = false;
+        return RedirectToAction("Perfil");
+    }
+
+    [HttpPost]
+    public IActionResult EditarDados()
+    {
+        _editavel = true;
+        return RedirectToAction("Perfil");
     }
 
     [HttpPost]
@@ -40,12 +58,6 @@ public class HomeController : Controller
         {
             _depoimentoList.Add(form);
         }
-
-        var viewModel = new PerfilViewModel
-        {
-            Depoimentos = _depoimentoList,
-            Likes = _likes
-        };
 
         return Redirect("/Home/Perfil#formDepoimento");
     }
@@ -70,7 +82,7 @@ public class HomeController : Controller
 
         return Redirect("/Home/Perfil#depoimentosComunidade");
     }
-    
+
     [HttpPost]
     public IActionResult ExcluirDepoimento(string depoimento)
     {

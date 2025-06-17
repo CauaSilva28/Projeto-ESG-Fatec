@@ -4,5 +4,6 @@ namespace Projeto_ESG.Models
     {
         public List<FormViewDepoimento> Depoimentos { get; set; } = new();
         public List<LikeViewModel> Likes { get; set; } = new();
+        public DadosViewModel Dados { get; set; } = new();
     }
 }

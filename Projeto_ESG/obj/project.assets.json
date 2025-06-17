@@ -8,24 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mathe\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
+      "projectUniqueName": "E:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
       "projectName": "Projeto_ESG",
-      "projectPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
-      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\ESG\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\",
+      "projectPath": "E:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\Área de Trabalho\\github meus projetos\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -75,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
