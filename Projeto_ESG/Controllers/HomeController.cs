@@ -6,6 +6,8 @@ namespace Projeto_ESG.Controllers;
 
 public class HomeController : Controller
 {
+    private readonly ILogger<HomeController> _logger;
+
     private static List<FormViewDepoimento> _depoimentoList = new List<FormViewDepoimento>();
 
     private static List<LikeViewModel> _likes = new List<LikeViewModel>
