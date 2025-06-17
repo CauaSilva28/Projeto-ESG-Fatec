@@ -1,0 +1,703 @@
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\bin\Debug\net9.0\appsettings.Development.json
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\bin\Debug\net9.0\appsettings.json
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.runtime.json
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.endpoints.json
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.exe
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.deps.json
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.runtimeconfig.json
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.dll
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.pdb
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.GeneratedMSBuildEditorConfig.editorconfig
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfoInputs.cache
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfo.cs
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.MvcApplicationPartsAssemblyInfo.cache
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cache
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cs
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\scopedcss\bundle\Projeto_ESG.styles.css
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\scopedcss\projectbundle\Projeto_ESG.bundle.scp.css
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\n7wdgzvdqw-61n19gt1b8.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-xtxxf3hu2r.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\8zg8rv5hrv-bqjiyaj88i.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\873mt89rjd-c2jlpeoesf.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\6ch57mx9p7-erw9l3u2r3.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\qcvoo4sxuy-aexeepp0ev.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\mqhjc8orte-d7shbmvgxk.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\04vji08z2g-ausgxo2sd3.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\cpwmypjusf-k8d9w2qqmf.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\f6d5p35oow-cosvhxvwiu.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\r9a8kc3ian-ub07r2b239.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\b5dfo5lvqa-fvhpjtyr6v.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\i5hbqedm5t-b7pk76d08c.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\w9chtufjoh-fsbi9cje9m.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\batvm0z46b-rzd6atqjts.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\yxzffud3el-ee0r1s7dh0.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\v6ma2h20p6-dxx9fxp4il.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\6m7rgr77x5-jd9uben2k1.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\ewrjq67euw-khv3u5hwcm.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\bqcvo3h4v2-r4e9w2rdcm.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\mk8mvp2t6r-lcd1t2u6c8.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\h5u30aj8bh-c2oey78nd0.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\u0otj6jv29-tdbxkamptv.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\7c5h3s7m77-j5mq2jizvt.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\53ir96ckiu-06098lyss8.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\jcxnm6m4on-nvvlpmu67g.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\q4qbex85my-s35ty4nyc5.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\jxvk64j754-pj5nd1wqec.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\i29wqxj3ya-46ein0sx1k.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\yz0nnwjp0i-v0zj4ognzu.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\xzb1l35dl3-37tfw0ft22.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\pic8r9z7f9-hrwsygsryq.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\9hcm433zsm-pk9g2wxc8p.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\e9kic2w6gi-ft3s53vfgj.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\r0734ycaej-6cfz1n2cew.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\p972wamil7-6pdc2jztkx.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\336ar76hfd-493y06b0oq.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\ase3urgj7s-iovd86k7lj.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\6u67viv2qm-vr1egmr9el.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\wyeqmngujk-kbrnm935zg.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\2qb578hl2a-jj8uyg4cgr.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\bb7kyalhbv-y7v9cxd14o.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\0puxk50uue-notf2xhcfb.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\tu2sjt2k8t-h1s4sie4z3.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\ajzuck99y2-63fj8s7r0e.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\fzsi19wvtf-0j3bgjxly4.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\z4j9jb88km-47otxtyo56.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\4o4hk7734m-4v8eqarkd7.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\woae78d1gv-356vix0kms.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\zshbbv4peu-83jwlth58m.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\9ltt6g9gqi-mrlpezrjn3.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\7dr4vdy6h3-lzl9nlhx6b.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\5kylsnmcwr-ag7o75518u.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\vols8j32nt-x0q3zqp4vz.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\47jo5tmxzw-0i3buxo5is.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\dw64vzh1mq-o1o13a6vjx.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\yepmekmxdm-ttgo8qnofa.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\4qyvdhupuq-2z0ns9nrw6.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\dzybi9mgkm-muycvpuwrr.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\wvvyfzdmr5-87fc7y1x7t.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\e5gs2m73bb-mlv21k5csn.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\jga8mg3qg6-8v4il5utvn.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\vldryq44yc-8v4il5utvn.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.json
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\staticwebassets.development.json
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto_ESG.props
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto_ESG.props
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto_ESG.props
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.dll
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\refint\Projeto_ESG.dll
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.pdb
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.genruntimeconfig.cache
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-dt5nft6ibn.gz
+E:\Área de Trabalho\licoes Caua\FATEC\DesenvolvimentoWeb\ESG\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-u4mcqds1un.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.runtime.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.endpoints.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.exe
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.deps.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.runtimeconfig.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.pdb
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfoInputs.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfo.cs
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.csproj.CoreCompileInputs.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cs
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.sourcelink.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\bundle\Projeto_ESG.styles.css
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\projectbundle\Projeto_ESG.bundle.scp.css
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-dt5nft6ibn.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\n7wdgzvdqw-61n19gt1b8.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-xtxxf3hu2r.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\8zg8rv5hrv-t1cqhe9u97.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\873mt89rjd-c2jlpeoesf.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6ch57mx9p7-sejl45xvog.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\qcvoo4sxuy-aexeepp0ev.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\mqhjc8orte-xvp3kq03qx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\04vji08z2g-ausgxo2sd3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\cpwmypjusf-22vffe00uq.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\f6d5p35oow-cosvhxvwiu.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\r9a8kc3ian-qesaa3a1fm.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\b5dfo5lvqa-fvhpjtyr6v.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\i5hbqedm5t-tmc1g35s3z.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w9chtufjoh-fsbi9cje9m.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\batvm0z46b-rxsg74s51o.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yxzffud3el-ee0r1s7dh0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\v6ma2h20p6-q9ht133ko3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6m7rgr77x5-jd9uben2k1.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ewrjq67euw-gye83jo8yx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\bqcvo3h4v2-r4e9w2rdcm.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\mk8mvp2t6r-wl58j5mj3v.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\h5u30aj8bh-c2oey78nd0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\u0otj6jv29-d4r6k3f320.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\7c5h3s7m77-j5mq2jizvt.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\53ir96ckiu-keugtjm085.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jcxnm6m4on-nvvlpmu67g.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\q4qbex85my-zub09dkrxp.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jxvk64j754-pj5nd1wqec.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\i29wqxj3ya-43atpzeawx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yz0nnwjp0i-v0zj4ognzu.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\xzb1l35dl3-ynyaa8k90p.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\pic8r9z7f9-hrwsygsryq.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\9hcm433zsm-c63t5i9ira.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\e9kic2w6gi-ft3s53vfgj.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\r0734ycaej-4094rpi4f9.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\p972wamil7-6pdc2jztkx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\336ar76hfd-hd3gran6i8.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ase3urgj7s-iovd86k7lj.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6u67viv2qm-ltid2c489k.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\wyeqmngujk-kbrnm935zg.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\2qb578hl2a-8vyfqsqgz1.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\bb7kyalhbv-y7v9cxd14o.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\0puxk50uue-u9q1upor1n.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\tu2sjt2k8t-h1s4sie4z3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ajzuck99y2-4d85u1mtcx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\fzsi19wvtf-0j3bgjxly4.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\z4j9jb88km-03hjc8e09r.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\4o4hk7734m-48y08845bh.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\woae78d1gv-356vix0kms.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zshbbv4peu-83jwlth58m.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\9ltt6g9gqi-mrlpezrjn3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\7dr4vdy6h3-worgj0nhwm.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\5kylsnmcwr-gk0pw8i4co.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vols8j32nt-x0q3zqp4vz.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\47jo5tmxzw-d6nrnj6jjx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dw64vzh1mq-m9qm4tazc0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yepmekmxdm-ttgo8qnofa.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\4qyvdhupuq-jjsuc0puko.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dzybi9mgkm-9vr69e8ynj.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\wvvyfzdmr5-87fc7y1x7t.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\e5gs2m73bb-mlv21k5csn.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jga8mg3qg6-8v4il5utvn.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vldryq44yc-8v4il5utvn.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto_ESG.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto_ESG.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto_ESG.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\refint\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.pdb
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.genruntimeconfig.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-4mj1qlg9px.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESGFront\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-1own7tuc9s.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.Development.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.runtime.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.endpoints.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.exe
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.deps.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.runtimeconfig.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.dll
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.pdb
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.GeneratedMSBuildEditorConfig.editorconfig
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfoInputs.cache
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfo.cs
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.csproj.CoreCompileInputs.cache
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.MvcApplicationPartsAssemblyInfo.cache
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cache
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cs
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.sourcelink.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\bundle\Projeto_ESG.styles.css
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\projectbundle\Projeto_ESG.bundle.scp.css
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\n7wdgzvdqw-61n19gt1b8.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\8zg8rv5hrv-bqjiyaj88i.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\873mt89rjd-c2jlpeoesf.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6ch57mx9p7-erw9l3u2r3.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\qcvoo4sxuy-aexeepp0ev.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\mqhjc8orte-d7shbmvgxk.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\04vji08z2g-ausgxo2sd3.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\cpwmypjusf-k8d9w2qqmf.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\f6d5p35oow-cosvhxvwiu.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\r9a8kc3ian-ub07r2b239.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\b5dfo5lvqa-fvhpjtyr6v.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\i5hbqedm5t-b7pk76d08c.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w9chtufjoh-fsbi9cje9m.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\batvm0z46b-rzd6atqjts.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yxzffud3el-ee0r1s7dh0.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\v6ma2h20p6-dxx9fxp4il.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6m7rgr77x5-jd9uben2k1.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ewrjq67euw-khv3u5hwcm.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\bqcvo3h4v2-r4e9w2rdcm.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\mk8mvp2t6r-lcd1t2u6c8.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\h5u30aj8bh-c2oey78nd0.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\u0otj6jv29-tdbxkamptv.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\7c5h3s7m77-j5mq2jizvt.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\53ir96ckiu-06098lyss8.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jcxnm6m4on-nvvlpmu67g.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\q4qbex85my-s35ty4nyc5.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jxvk64j754-pj5nd1wqec.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\i29wqxj3ya-46ein0sx1k.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yz0nnwjp0i-v0zj4ognzu.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\xzb1l35dl3-37tfw0ft22.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\pic8r9z7f9-hrwsygsryq.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\9hcm433zsm-pk9g2wxc8p.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\e9kic2w6gi-ft3s53vfgj.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\r0734ycaej-6cfz1n2cew.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\p972wamil7-6pdc2jztkx.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\336ar76hfd-493y06b0oq.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ase3urgj7s-iovd86k7lj.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6u67viv2qm-vr1egmr9el.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\wyeqmngujk-kbrnm935zg.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\2qb578hl2a-jj8uyg4cgr.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\bb7kyalhbv-y7v9cxd14o.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\0puxk50uue-notf2xhcfb.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\tu2sjt2k8t-h1s4sie4z3.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ajzuck99y2-63fj8s7r0e.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\fzsi19wvtf-0j3bgjxly4.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\z4j9jb88km-47otxtyo56.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\4o4hk7734m-4v8eqarkd7.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\woae78d1gv-356vix0kms.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zshbbv4peu-83jwlth58m.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\9ltt6g9gqi-mrlpezrjn3.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\7dr4vdy6h3-lzl9nlhx6b.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\5kylsnmcwr-ag7o75518u.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vols8j32nt-x0q3zqp4vz.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\47jo5tmxzw-0i3buxo5is.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dw64vzh1mq-o1o13a6vjx.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yepmekmxdm-ttgo8qnofa.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\4qyvdhupuq-2z0ns9nrw6.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dzybi9mgkm-muycvpuwrr.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\wvvyfzdmr5-87fc7y1x7t.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\e5gs2m73bb-mlv21k5csn.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.development.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssets.props
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto_ESG.props
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto_ESG.props
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto_ESG.props
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.pack.json
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.dll
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\refint\Projeto_ESG.dll
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.pdb
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.genruntimeconfig.cache
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.runtime.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.endpoints.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.exe
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.deps.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.runtimeconfig.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.pdb
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfoInputs.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfo.cs
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.csproj.CoreCompileInputs.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cs
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.sourcelink.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\bundle\Projeto_ESG.styles.css
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\projectbundle\Projeto_ESG.bundle.scp.css
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\n7wdgzvdqw-61n19gt1b8.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\8zg8rv5hrv-t1cqhe9u97.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\873mt89rjd-c2jlpeoesf.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6ch57mx9p7-sejl45xvog.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\qcvoo4sxuy-aexeepp0ev.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\mqhjc8orte-xvp3kq03qx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\04vji08z2g-ausgxo2sd3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\cpwmypjusf-22vffe00uq.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\f6d5p35oow-cosvhxvwiu.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\r9a8kc3ian-qesaa3a1fm.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\b5dfo5lvqa-fvhpjtyr6v.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\i5hbqedm5t-tmc1g35s3z.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w9chtufjoh-fsbi9cje9m.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\batvm0z46b-rxsg74s51o.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yxzffud3el-ee0r1s7dh0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\v6ma2h20p6-q9ht133ko3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6m7rgr77x5-jd9uben2k1.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ewrjq67euw-gye83jo8yx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\bqcvo3h4v2-r4e9w2rdcm.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\mk8mvp2t6r-wl58j5mj3v.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\h5u30aj8bh-c2oey78nd0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\u0otj6jv29-d4r6k3f320.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\7c5h3s7m77-j5mq2jizvt.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\53ir96ckiu-keugtjm085.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jcxnm6m4on-nvvlpmu67g.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\q4qbex85my-zub09dkrxp.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jxvk64j754-pj5nd1wqec.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\i29wqxj3ya-43atpzeawx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yz0nnwjp0i-v0zj4ognzu.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\xzb1l35dl3-ynyaa8k90p.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\pic8r9z7f9-hrwsygsryq.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\9hcm433zsm-c63t5i9ira.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\e9kic2w6gi-ft3s53vfgj.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\r0734ycaej-4094rpi4f9.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\p972wamil7-6pdc2jztkx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\336ar76hfd-hd3gran6i8.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ase3urgj7s-iovd86k7lj.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6u67viv2qm-ltid2c489k.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\wyeqmngujk-kbrnm935zg.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\2qb578hl2a-8vyfqsqgz1.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\bb7kyalhbv-y7v9cxd14o.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\0puxk50uue-u9q1upor1n.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\tu2sjt2k8t-h1s4sie4z3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ajzuck99y2-4d85u1mtcx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\fzsi19wvtf-0j3bgjxly4.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\z4j9jb88km-03hjc8e09r.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\4o4hk7734m-48y08845bh.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\woae78d1gv-356vix0kms.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zshbbv4peu-83jwlth58m.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\9ltt6g9gqi-mrlpezrjn3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\7dr4vdy6h3-worgj0nhwm.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\5kylsnmcwr-gk0pw8i4co.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vols8j32nt-x0q3zqp4vz.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\47jo5tmxzw-d6nrnj6jjx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dw64vzh1mq-m9qm4tazc0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yepmekmxdm-ttgo8qnofa.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\4qyvdhupuq-jjsuc0puko.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dzybi9mgkm-9vr69e8ynj.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\wvvyfzdmr5-87fc7y1x7t.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\e5gs2m73bb-mlv21k5csn.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto_ESG.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto_ESG.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto_ESG.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\refint\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.pdb
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.genruntimeconfig.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-dm0vo1nsvg.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.runtime.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.endpoints.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.exe
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.deps.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.runtimeconfig.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.dll
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.pdb
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfoInputs.cache
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfo.cs
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.csproj.CoreCompileInputs.cache
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cache
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cs
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.sourcelink.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\bundle\Projeto_ESG.styles.css
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\projectbundle\Projeto_ESG.bundle.scp.css
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-qdcnh77smt.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-qc0h8qlhd0.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-65ssez1dqm.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\n7wdgzvdqw-61n19gt1b8.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-dm0vo1nsvg.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\8zg8rv5hrv-t1cqhe9u97.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\873mt89rjd-c2jlpeoesf.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6ch57mx9p7-sejl45xvog.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\qcvoo4sxuy-aexeepp0ev.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\mqhjc8orte-xvp3kq03qx.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\04vji08z2g-ausgxo2sd3.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\cpwmypjusf-22vffe00uq.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\f6d5p35oow-cosvhxvwiu.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\r9a8kc3ian-qesaa3a1fm.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\b5dfo5lvqa-fvhpjtyr6v.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\i5hbqedm5t-tmc1g35s3z.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w9chtufjoh-fsbi9cje9m.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\batvm0z46b-rxsg74s51o.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yxzffud3el-ee0r1s7dh0.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\v6ma2h20p6-q9ht133ko3.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6m7rgr77x5-jd9uben2k1.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ewrjq67euw-gye83jo8yx.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\bqcvo3h4v2-r4e9w2rdcm.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\mk8mvp2t6r-wl58j5mj3v.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\h5u30aj8bh-c2oey78nd0.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\u0otj6jv29-d4r6k3f320.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\7c5h3s7m77-j5mq2jizvt.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\53ir96ckiu-keugtjm085.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jcxnm6m4on-nvvlpmu67g.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\q4qbex85my-zub09dkrxp.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jxvk64j754-pj5nd1wqec.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\i29wqxj3ya-43atpzeawx.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yz0nnwjp0i-v0zj4ognzu.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\xzb1l35dl3-ynyaa8k90p.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\pic8r9z7f9-hrwsygsryq.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\9hcm433zsm-c63t5i9ira.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\e9kic2w6gi-ft3s53vfgj.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\r0734ycaej-4094rpi4f9.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\p972wamil7-6pdc2jztkx.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\336ar76hfd-hd3gran6i8.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ase3urgj7s-iovd86k7lj.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6u67viv2qm-ltid2c489k.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\wyeqmngujk-kbrnm935zg.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\2qb578hl2a-8vyfqsqgz1.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\bb7kyalhbv-y7v9cxd14o.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\0puxk50uue-u9q1upor1n.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\tu2sjt2k8t-h1s4sie4z3.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ajzuck99y2-4d85u1mtcx.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\fzsi19wvtf-0j3bgjxly4.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\z4j9jb88km-03hjc8e09r.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\4o4hk7734m-48y08845bh.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\woae78d1gv-356vix0kms.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zshbbv4peu-83jwlth58m.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\9ltt6g9gqi-mrlpezrjn3.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\7dr4vdy6h3-worgj0nhwm.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\5kylsnmcwr-gk0pw8i4co.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vols8j32nt-x0q3zqp4vz.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\47jo5tmxzw-d6nrnj6jjx.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dw64vzh1mq-m9qm4tazc0.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yepmekmxdm-ttgo8qnofa.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\4qyvdhupuq-jjsuc0puko.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dzybi9mgkm-9vr69e8ynj.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\wvvyfzdmr5-87fc7y1x7t.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\e5gs2m73bb-mlv21k5csn.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jga8mg3qg6-chtihh52oe.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vldryq44yc-chtihh52oe.gz
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto_ESG.props
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto_ESG.props
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto_ESG.props
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.dll
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\refint\Projeto_ESG.dll
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.pdb
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.genruntimeconfig.cache
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
+c:\Users\Caua\Desktop\GITHUB\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-5ipweew5fc.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-qc0h8qlhd0.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jga8mg3qg6-chtihh52oe.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vldryq44yc-chtihh52oe.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\appsettings.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.runtime.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.endpoints.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.exe
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.deps.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.runtimeconfig.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.pdb
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfoInputs.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfo.cs
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.csproj.CoreCompileInputs.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cs
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.sourcelink.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\bundle\Projeto_ESG.styles.css
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\projectbundle\Projeto_ESG.bundle.scp.css
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-qc0h8qlhd0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-ftste2ulij.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\n7wdgzvdqw-61n19gt1b8.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-dm0vo1nsvg.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\8zg8rv5hrv-t1cqhe9u97.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\873mt89rjd-c2jlpeoesf.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6ch57mx9p7-sejl45xvog.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\qcvoo4sxuy-aexeepp0ev.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\mqhjc8orte-xvp3kq03qx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\04vji08z2g-ausgxo2sd3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\cpwmypjusf-22vffe00uq.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\f6d5p35oow-cosvhxvwiu.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\r9a8kc3ian-qesaa3a1fm.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\b5dfo5lvqa-fvhpjtyr6v.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\i5hbqedm5t-tmc1g35s3z.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w9chtufjoh-fsbi9cje9m.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\batvm0z46b-rxsg74s51o.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yxzffud3el-ee0r1s7dh0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\v6ma2h20p6-q9ht133ko3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6m7rgr77x5-jd9uben2k1.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ewrjq67euw-gye83jo8yx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\bqcvo3h4v2-r4e9w2rdcm.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\mk8mvp2t6r-wl58j5mj3v.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\h5u30aj8bh-c2oey78nd0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\u0otj6jv29-d4r6k3f320.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\7c5h3s7m77-j5mq2jizvt.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\53ir96ckiu-keugtjm085.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jcxnm6m4on-nvvlpmu67g.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\q4qbex85my-zub09dkrxp.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jxvk64j754-pj5nd1wqec.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\i29wqxj3ya-43atpzeawx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yz0nnwjp0i-v0zj4ognzu.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\xzb1l35dl3-ynyaa8k90p.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\pic8r9z7f9-hrwsygsryq.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\9hcm433zsm-c63t5i9ira.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\e9kic2w6gi-ft3s53vfgj.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\r0734ycaej-4094rpi4f9.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\p972wamil7-6pdc2jztkx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\336ar76hfd-hd3gran6i8.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ase3urgj7s-iovd86k7lj.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\6u67viv2qm-ltid2c489k.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\wyeqmngujk-kbrnm935zg.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\2qb578hl2a-8vyfqsqgz1.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\bb7kyalhbv-y7v9cxd14o.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\0puxk50uue-u9q1upor1n.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\tu2sjt2k8t-h1s4sie4z3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\ajzuck99y2-4d85u1mtcx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\fzsi19wvtf-0j3bgjxly4.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\z4j9jb88km-03hjc8e09r.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\4o4hk7734m-48y08845bh.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\woae78d1gv-356vix0kms.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zshbbv4peu-83jwlth58m.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\9ltt6g9gqi-mrlpezrjn3.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\7dr4vdy6h3-worgj0nhwm.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\5kylsnmcwr-gk0pw8i4co.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vols8j32nt-x0q3zqp4vz.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\47jo5tmxzw-d6nrnj6jjx.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dw64vzh1mq-m9qm4tazc0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\yepmekmxdm-ttgo8qnofa.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\4qyvdhupuq-jjsuc0puko.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dzybi9mgkm-9vr69e8ynj.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\wvvyfzdmr5-87fc7y1x7t.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\e5gs2m73bb-mlv21k5csn.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jga8mg3qg6-chtihh52oe.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vldryq44yc-chtihh52oe.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto_ESG.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto_ESG.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto_ESG.props
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\refint\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.pdb
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.genruntimeconfig.cache
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-rgk22mjzm1.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-qdkzj596uk.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-qdkzj596uk.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-vs0wqnff6k.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-dm0vo1nsvg.gz
+e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-2gxs445wei.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-qc0h8qlhd0.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-2gxs445wei.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-vs0wqnff6k.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\jga8mg3qg6-chtihh52oe.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\vldryq44yc-chtihh52oe.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-ekb96jj546.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\bin\Debug\net9.0\appsettings.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.runtime.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.staticwebassets.endpoints.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.exe
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.deps.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.runtimeconfig.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.dll
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\bin\Debug\net9.0\Projeto_ESG.pdb
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfoInputs.cache
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.AssemblyInfo.cs
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.csproj.CoreCompileInputs.cache
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cache
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.RazorAssemblyInfo.cs
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.sourcelink.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\scopedcss\bundle\Projeto_ESG.styles.css
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\scopedcss\projectbundle\Projeto_ESG.bundle.scp.css
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-la86hcfzp1.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-px0vtjq4a3.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-bvnh5tz4ag.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\n7wdgzvdqw-61n19gt1b8.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-3r2e6o7ecz.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\8zg8rv5hrv-bqjiyaj88i.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\873mt89rjd-c2jlpeoesf.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\6ch57mx9p7-erw9l3u2r3.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\qcvoo4sxuy-aexeepp0ev.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\mqhjc8orte-d7shbmvgxk.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\04vji08z2g-ausgxo2sd3.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\cpwmypjusf-k8d9w2qqmf.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\f6d5p35oow-cosvhxvwiu.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\r9a8kc3ian-ub07r2b239.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\b5dfo5lvqa-fvhpjtyr6v.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\i5hbqedm5t-b7pk76d08c.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\w9chtufjoh-fsbi9cje9m.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\batvm0z46b-rzd6atqjts.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\yxzffud3el-ee0r1s7dh0.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\v6ma2h20p6-dxx9fxp4il.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\6m7rgr77x5-jd9uben2k1.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\ewrjq67euw-khv3u5hwcm.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\bqcvo3h4v2-r4e9w2rdcm.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\mk8mvp2t6r-lcd1t2u6c8.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\h5u30aj8bh-c2oey78nd0.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\u0otj6jv29-tdbxkamptv.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\7c5h3s7m77-j5mq2jizvt.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\53ir96ckiu-06098lyss8.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\jcxnm6m4on-nvvlpmu67g.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\q4qbex85my-s35ty4nyc5.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\jxvk64j754-pj5nd1wqec.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\i29wqxj3ya-46ein0sx1k.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\yz0nnwjp0i-v0zj4ognzu.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\xzb1l35dl3-37tfw0ft22.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\pic8r9z7f9-hrwsygsryq.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\9hcm433zsm-pk9g2wxc8p.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\e9kic2w6gi-ft3s53vfgj.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\r0734ycaej-6cfz1n2cew.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\p972wamil7-6pdc2jztkx.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\336ar76hfd-493y06b0oq.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\ase3urgj7s-iovd86k7lj.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\6u67viv2qm-vr1egmr9el.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\wyeqmngujk-kbrnm935zg.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\2qb578hl2a-jj8uyg4cgr.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\bb7kyalhbv-y7v9cxd14o.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\0puxk50uue-notf2xhcfb.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\tu2sjt2k8t-h1s4sie4z3.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\ajzuck99y2-63fj8s7r0e.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\fzsi19wvtf-0j3bgjxly4.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\z4j9jb88km-47otxtyo56.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\4o4hk7734m-4v8eqarkd7.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\woae78d1gv-l3n5xuwxn8.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\zshbbv4peu-ilo7uva0vt.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\9ltt6g9gqi-qlccset4i1.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\7dr4vdy6h3-lzl9nlhx6b.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\5kylsnmcwr-ag7o75518u.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\vols8j32nt-xzw0cte36n.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\47jo5tmxzw-0i3buxo5is.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\dw64vzh1mq-o1o13a6vjx.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\yepmekmxdm-ttgo8qnofa.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\4qyvdhupuq-2z0ns9nrw6.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\dzybi9mgkm-muycvpuwrr.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\wvvyfzdmr5-87fc7y1x7t.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\e5gs2m73bb-jfsiqqwiad.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\jga8mg3qg6-chtihh52oe.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\vldryq44yc-chtihh52oe.gz
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto_ESG.props
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto_ESG.props
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto_ESG.props
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.dll
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\refint\Projeto_ESG.dll
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.pdb
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\Projeto_ESG.genruntimeconfig.cache
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\ref\Projeto_ESG.dll
+c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-g8dmjb36ai.gz

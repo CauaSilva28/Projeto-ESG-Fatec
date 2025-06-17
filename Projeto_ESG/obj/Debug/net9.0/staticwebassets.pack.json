@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Projeto_ESG.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Projeto_ESG.chtihh52oe.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\css\\MockupApagado.png",
+      "PackagePath": "staticwebassets\\css\\MockupApagado.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\css\\perfil.css",
+      "PackagePath": "staticwebassets\\css\\perfil.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\Abstrata1.png",
+      "PackagePath": "staticwebassets\\img\\Abstrata1.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\Abstrata2.png",
+      "PackagePath": "staticwebassets\\img\\Abstrata2.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\Abstrata3.png",
+      "PackagePath": "staticwebassets\\img\\Abstrata3.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\Abstrata4.png",
+      "PackagePath": "staticwebassets\\img\\Abstrata4.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\Abstrata5.png",
+      "PackagePath": "staticwebassets\\img\\Abstrata5.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\Abstrata6.png",
+      "PackagePath": "staticwebassets\\img\\Abstrata6.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\EfeitoRoxo.png",
+      "PackagePath": "staticwebassets\\img\\EfeitoRoxo.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\appHome.png",
+      "PackagePath": "staticwebassets\\img\\appHome.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\appSobre.png",
+      "PackagePath": "staticwebassets\\img\\appSobre.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\caso1.jpg",
+      "PackagePath": "staticwebassets\\img\\caso1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\caso6.jpg",
+      "PackagePath": "staticwebassets\\img\\caso6.jpg"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\caso7.jpg",
+      "PackagePath": "staticwebassets\\img\\caso7.jpg"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\caso8.jpg",
+      "PackagePath": "staticwebassets\\img\\caso8.jpg"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\fundoAtencao.jpg",
+      "PackagePath": "staticwebassets\\img\\fundoAtencao.jpg"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\fundoHome.jpg",
+      "PackagePath": "staticwebassets\\img\\fundoHome.jpg"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\fundoPerfil.png",
+      "PackagePath": "staticwebassets\\img\\fundoPerfil.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\fundoTelas.jpg",
+      "PackagePath": "staticwebassets\\img\\fundoTelas.jpg"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\imgEsg.png",
+      "PackagePath": "staticwebassets\\img\\imgEsg.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\perfil.jpg",
+      "PackagePath": "staticwebassets\\img\\perfil.jpg"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\img\\telas\\celularTela1.png",
+      "PackagePath": "staticwebassets\\img\\telas\\celularTela1.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\Downloads\\Projeto-ESG\\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\\Projeto_ESG\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Projeto_ESG.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Projeto_ESG.props",
+      "PackagePath": "build\\Projeto_ESG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Projeto_ESG.props",
+      "PackagePath": "buildMultiTargeting\\Projeto_ESG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Projeto_ESG.props",
+      "PackagePath": "buildTransitive\\Projeto_ESG.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,203 @@
+.containerLogin { /* Contâiner que engloba toda a tela */
+    display: flex; /* Disponibiliza o elemento de forma flexível */
+    width: 100vw; /* Largura */
+    height: 100vh; /* Altura */
+    overflow: hidden; /* Não permite scrollar a tela */
+}
+
+.container #info .logo { /* Mexendo de forma conjunta nos contâineres da direita e esquerda */
+    margin: 4em; /* Espaçamento entre um elemento e outro */
+    width: 40px;
+}
+
+#info, #login { /* Adicionando tamanho aos contâineres dividos ao meio horizontalmente */
+    width: 50%;
+    height: 100vh;
+}
+
+#info { 
+    background-color: var(--cor-fundo3);
+    display: flex;
+    padding: 5em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+}
+
+#info .logo {
+    width: 40px;
+    position: absolute;
+    margin-bottom: 33em;
+}
+
+#info .efeitoSup img {
+    position: absolute;
+     z-index:0;
+    top: 0;
+    width: 75%;
+    height: 60%;
+    z-index: 0;
+}
+
+#info .efeitoInf img {
+    position: absolute;
+    z-index:0;
+    top: 0;
+    width: 55%;
+    height: 60%;
+    z-index: 0;
+}
+
+#info h2 {
+    color: #fff;
+    font-size: 2.5em;
+    font-weight: normal;
+    margin-top: 1.5em;
+
+}
+
+#info p {
+    color: #fff;
+    font-size: .8em;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    text-align: justify;
+}
+
+#info .btnLogin {
+    width: 50%;
+    padding: 10px 0;
+    font-size: 18px;
+    border-radius: 2em;
+    border: none;
+    background-color: var(--cor-padrao);
+    color: #fff;
+    box-shadow: 1px 1px 5px 2px #000;
+}
+
+#info .btnLogin:hover {
+    background-color: var(--cor-fundo3);
+    transition: 1s;
+}
+
+#info .btnLogin:not(:hover) {
+    background-color: var(--cor-padrao);
+    transition: 1s;
+}
+
+.infoText {
+    position: relative;
+    z-index:1;
+}
+
+#login {
+    background-color: #E7E7E7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-image: url('MockupApagado.png');
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#loginText  {
+    color: #000;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 2em;
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    width: 100%;
+    opacity: .7;
+}
+
+.inputContainer label {
+    font-size: 1em;
+    margin-bottom: .5em;
+    color: #000;
+}
+
+.inputContainer input {
+    border: none;
+    border-bottom: 2px solid var(--cor-padrao);
+    background: #b8b8b8;
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: var(--cor-padrao-escura);
+    outline: none;
+}
+
+.inputContainer input::placeholder {
+    color: transparent;
+}
+
+#btnEntrar {
+    margin-top: 3.5em;
+    background-color: var(--cor-padrao);
+    color: #fff;
+    width: 100%;
+    padding: 8px 10px;
+    border:none;
+}
+
+#btnEntrar:hover {
+    background-color: var(--cor-padrao-escura);
+    transition: 1s;
+}
+
+#btnEntrar:not(:hover) {
+    transition: 3s;
+}
+
+#irLogin {
+    margin-top: 1.5em;
+    justify-content: end;
+    width: 67.5%;
+    z-index: 1;
+}
+
+/* Inputs não estão responsivos */
+#loginFormatacao {
+    width: 67.5%;
+    max-width: 100%;
+}
+
+#loginFormatacao input {
+    width: 100%;
+}
+
+.containerHr {
+    padding-top: 5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 67.5%;
+    gap: 30%;
+}
+
+.linha {
+    flex: 1;
+    height: 2px;
+    background-color: var(--cor-padrao);
+}
+
+.containerHrCad {
+    padding-top: 3em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 67.5%;
+    gap: 30%;
+}

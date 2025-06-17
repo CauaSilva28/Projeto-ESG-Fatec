@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Projeto_ESG
+build_property.RootNamespace = Projeto_ESG
+build_property.ProjectDir = c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\mathe\Downloads\Projeto-ESG\Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9\Projeto_ESG
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[c:/Users/mathe/Downloads/Projeto-ESG/Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9/Projeto_ESG/Views/Home/Cadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mathe/Downloads/Projeto-ESG/Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9/Projeto_ESG/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mathe/Downloads/Projeto-ESG/Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9/Projeto_ESG/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mathe/Downloads/Projeto-ESG/Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9/Projeto_ESG/Views/Home/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mathe/Downloads/Projeto-ESG/Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9/Projeto_ESG/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mathe/Downloads/Projeto-ESG/Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9/Projeto_ESG/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mathe/Downloads/Projeto-ESG/Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9/Projeto_ESG/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mathe/Downloads/Projeto-ESG/Projeto-ESG-Fatec-a8ccf2351b60d3b0d751044ff065dc742279c0f9/Projeto_ESG/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-19ktz6iqgo

@@ -1,0 +1,863 @@
+/*header*/
+header {
+    background-image: linear-gradient(#000, transparent); /* Imagem de fundo */
+    display: flex; 
+    justify-content: space-between; /* Espaçamento entre um e outro link */
+    align-items: center;
+    padding: 1vw 10vw; /* Espaçamento interno */
+    width: 100%; /* Largura */
+    position: fixed; /* Mantém fixo mesmo scrollando a tela */
+    z-index: 9999; /* Garante que o header fique acima de qualquer elemento */
+}
+
+@media (max-width: 1400px) { /* Responsividade */
+    header{
+        padding: 2vw 5vw;
+    }
+}
+
+header .logoHeader { /* Logo SafeWay */
+    width: 40px; /* Tamanho do logo */
+}
+
+header nav {
+    display: flex;
+    gap: 4vw; /* Espaçamento entre um link e outro do navbar */
+    align-items: center; /* Centraliza os elementos */
+}
+
+header nav a {
+    text-decoration: none; /* Remove o sublinhado do link */
+    color: #fff; /* Cor da fonte do link */
+    transition: 0.5s; /* Tempo de transição */
+}
+
+header nav a:hover { /* Efeito de animação no link */
+    color: var(--cor-padrao); /* Cor do texto após animação */
+    scale: 1.05; /* Aumenta o tamanho do elemento */
+}
+header nav a:not(:hover) {
+    transition: 1.5s; /* Tempo de transição quando não está em hover */
+}
+
+header nav i{ 
+    color: #fff; /* Cor do ícone */
+    background-color: var(--cor-padrao);
+    border-radius: 100%; /* Deixando borda arredondada */
+    width: 30px;
+    height: 30px;
+    display: flex; /* Flexbox para centralizar o ícone */
+    align-items: center;
+    justify-content: center; /* Centraliza o ícone dentro do círculo */
+    transition: 0.5s;
+    padding: 5px;
+}
+
+header nav i:hover {
+    background-color: #fff;
+    color: var(--cor-padrao);
+}
+
+header nav i:not(:hover) {
+    transition: 1.5s;
+}
+
+/*Home*/
+.Perfil {
+    position: relative;
+    display: inline-block;
+}
+
+.Perfil:hover .dropdown-menu { /* Exibe um menu */
+    display: block; /* Exibe o menu ao passar o mouse */
+}
+
+.dropdown-menu {
+    display: none; /* Esconde o menu por padrão */
+    position: absolute; /* Fixa o elemento */
+    top: 100%; /* Margem superior */
+    right: 0; /* Margem direita */
+    background: var(--cor-padrao);
+    border: 1px solid #ccc; /* Tamanho, estilo e cor da borda */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Sombra */
+    padding: 10px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.dropdown-menu i { /* Ícone dentro do menu*/
+    margin-top: 10px; /* Margem superior */
+    background-color: #fff;
+    color: var(--cor-padrao);
+}
+
+.dropdown-menu i:hover { /* Animação do ícone */
+    background-color: #fff;
+    color: var(--cor-padrao-escura);
+}
+
+.dropdown-menu a { /* Links dentro do menu */
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.dropdown-menu a:hover { /* Animação dos links dentro do menu */
+    background: var(--cor-padrao-escura);
+    color: #fff;
+}
+
+.dropdown-menu h2 { /* Links */
+    text-transform: none; /* Deixa o texto normal */
+    margin-top: 10px;
+    font-size: 13px; /* Tamanho da fonte */
+    color: #fff;
+}
+
+.divisor { /* Divisória do menu */
+    height: 1px; /* Altura */
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-top: 0;
+    margin-bottom: 10px; /* Margem inferior */
+}
+
+#home {
+    width: 100%;
+    padding: 5vw 12vw 6vw 12vw; /* Espaçamento com unidade relativa */
+    background-image: url(../img/fundoHome.jpg); /* Link da imagem de fundo */
+    background-repeat: no-repeat; /* Garante que a imagem não repita */
+    background-size: cover; /* Cobre o contâiner inteiro com a imagem */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5vw;
+}
+
+@media (max-width: 1400px) {
+    #home {
+        padding: 10vw 5vw;
+    }
+}
+
+@media (max-width: 1000px) {
+    #home {
+        flex-direction: column-reverse; /* Inverte os elementos */
+        justify-content: center;
+        padding: 22vw 5vw;
+        background-position: center;
+    }
+}
+
+#home img {
+    animation: imgScale 5s infinite ease-in-out; /* Animação contínua */
+    width: 550px; /* Tamanho da imagem */
+}
+
+@keyframes imgScale { /* Animação de pulsação da imagem na home */
+    0% { /* Início da animação */
+        scale: 1;
+        transform: translateY(0vw); 
+    }
+    50% {
+        scale: 1.02;
+        transform: translateY(-1vw); /* Altera o posicionamento Y do elemento */
+    }
+    100% { /* Final da animação */
+        scale: 1;
+        transform: translateY(0vw);
+    }
+}
+
+@media (max-width: 1200px) {
+    #home img {
+        width: 450px;
+    }
+}
+
+@media (max-width: 900px) {
+    #home img {
+        width: 300px;
+    }
+}
+
+#home .homeText { /* Contâiner com título e texto da home */
+    color: #fff;
+    display: flex;
+    flex-direction: column; /* Coloca os elementos em coluna */
+    gap: 1vw;
+    width: 40%;
+}
+
+@media (max-width: 1500px) {
+    #home .homeText {
+        width:80%;
+    }
+}
+
+@media (max-width: 1000px) {
+    #home .homeText {
+        width: 90%;
+        text-align: center;
+        align-items: center;
+    }
+}
+
+#home .homeText h1 { /* Título */
+    text-transform: uppercase; /* Deixa o texto todo em maiúsculo */
+    font-weight: bold; /* Grossura da fonte, no caso, negrito */
+    font-size: 45px;
+}
+
+@media (max-width: 1100px) {
+    #home .homeText h1 {
+        font-size: 35px;
+    }
+}
+
+#home .homeText button { /* Botão home */
+    width: 60%;
+    padding: 10px 0;
+    font-size: 18px;
+    border-radius: 0.5em;
+    border: none;
+    background-image: linear-gradient(90deg, var(--cor-padrao), #000 150%); /* Degradê */
+    color: #fff;
+    box-shadow: 1px 1px 5px 2px #000;
+    transition: 0.5s;
+}
+
+#home .homeText button:hover {
+    scale: 1.05;
+}
+
+@media (max-width: 400px) {
+    #home .homeText h1 {
+        font-size: 25px;
+    }
+
+    #home .homeText button {
+        font-size: 14px;
+    }
+}
+
+/*Casos*/
+#casos {
+    margin-top: -2vw;
+}
+
+@media (max-width: 1000px) {
+    #casos {
+        margin-top: -6vw;
+    }
+}
+
+#casos .casosDados { /* Contâiner principal */
+    background-image: linear-gradient(90deg, #000, var(--cor-padrao));
+    box-shadow: 1px 1px 7px 3px #000;
+    color: #fff;
+    z-index: 10;
+    text-align: center;
+    width: 60%;
+    padding: 1.5vw 1vw;
+    border-radius: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 8vw;
+}
+
+#casos .casosDados:hover { /* Animação do contâiner */
+    filter: invert(5%); /* Inverte as cores do elemento ao passar o mouse */
+}
+
+#casos .casosDados:not(:hover) { /* Animação após deslocar o mouse para fora do elemento */
+    transition: 2s;
+}
+
+#casos .casosDados h2 { /* Números dos dados */
+    color: #fff;
+}
+
+.AbsRight img { /* Imagens abstratas à direita */
+    position: absolute; 
+    z-index: -1;
+    right: 0;
+}
+
+.AbsLeft img { /* Imagens abstratas à esquerda */
+    position: absolute; 
+    z-index: -1;
+    left: 0;
+}
+
+@media (max-width: 1000px) {
+    #casos .casosDados {
+        width: 80%;
+    }
+}
+
+@media (max-width: 800px) {
+    #casos .casosDados {
+        width: 40%;
+        border-radius: 2em;
+        padding: 5vw;
+        gap: 15vw;
+        flex-direction: column;
+    }
+
+}
+
+#casos .casosDados h2 {
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+@media (max-width: 400px) {
+    #casos .casosDados h2 {
+        font-size: 32px;
+    }
+}
+
+#casos .casosText { /* Texto após os dados */
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+    margin-top: 5vw;
+}
+
+@media (max-width: 1100px) {
+    #casos .casosText {
+        width: 70%;
+    }
+}
+
+#casos .casosAtencao { /* Contâiner principal */
+    margin-top: 5vw;
+    width: 100%;
+    height: 55vh;
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 800px) {
+    #casos .casosText {
+        margin-top: 10vw;
+    } 
+
+    #casos .casosAtencao {
+        margin-top: 10vw;
+    }
+}
+
+#casos .casosAtencao img { /* Imagem de fundo */
+    width: 75%;
+    height: 100%;
+    object-fit: cover; /* Cobre o contâiner inteiro */
+    object-position: top; /* Posiciona a imagem no topo */
+}
+
+#casos .casosAtencao .casosAtencaoContainer {
+    position: absolute;
+    right: 0;
+    width: 35%;
+    text-align: end; /* Alinha os textos à direita */
+    display: flex;
+    flex-direction: column; /* Dispõe em colunas */
+    align-items: center;
+    justify-content: center;
+    gap: 1vw;
+    padding-right: 10vw; /* Espaçamento à direita */
+}
+
+@media (max-width: 1400px) {
+    #casos .casosAtencao .casosAtencaoContainer {
+        width: 50%;
+    }
+
+    #casos .casosAtencao img {
+        object-fit: cover;
+        object-position: right; /* Posiciona a imagem à direita */
+    }
+}
+
+@media (max-width: 1000px) {
+    #casos .casosAtencao img {
+        width: 100%;
+        object-position: top;
+    }
+
+    #casos .casosAtencao .casosAtencaoContainer {
+        background-image: linear-gradient(-90deg, var(--cor-fundo) 10%, #e7e7e786 70%, transparent);
+        height: 57vh;
+        width: 55%;
+    }
+}
+
+#casos .casosNoticia { /* Contâiner principal abaixo da imagem e texto */
+    margin-top: 4vw;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+}
+
+@media (max-width: 800px) {
+    #casos .casosNoticia {
+        margin-top: 10vw;
+        gap: 6vw;
+    }
+}
+
+#casos .casosNoticia .casosNoticiaContainer { /* Contâiner dos cards */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6vw;
+}
+
+@media (max-width: 1000px) {
+    #casos .casosNoticia .casosNoticiaContainer {
+        flex-direction: column;
+    }
+}
+
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard { /* Cards */
+    background-color: var(--cor-fundo2);
+    box-shadow: 0px 0px 8px #636363;
+    border-radius: 1em 1em 0 0;
+    overflow: hidden; /* Esconde o conteúdo que ultrapassa os limites do card */
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1vw; 
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    transition: 0.5s;
+}
+
+@media (max-width: 1000px) {
+    #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard {
+        width: 300px;
+    }
+}
+
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard:hover { /* Animação dos cards */
+    scale: 1.03;
+}
+
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg { /* Imagem do card */
+    width: 100%;
+    height: 220px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg span { /* Título do card */
+    font-size: 20px;
+    color: #fff;
+    padding: 0 0 20px 20px;
+}
+
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg span::after { /* Hr abaixo do título */
+    content: ""; /* Conteúdo */
+    width: 70px;
+    height: 2px;
+    background-color: var(--cor-padrao);
+    display: block;
+}
+
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard p { /* Texto do card */
+    padding: 15px;
+    text-align: center;
+}
+
+/*Sobre*/
+#sobre {
+    margin-top: 5vw;
+}
+
+@media (max-width: 1000px) {
+    #sobre {
+        margin-top: 10vw;
+    }
+}
+
+#sobre .sobreContainer { /* Contâiner principal */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10vw;
+}
+
+@media (max-width: 1000px) {
+    #sobre .sobreContainer {
+        flex-direction: column;
+        gap:5vw;
+    }
+}
+
+#sobre .sobreContainer .sobreText { /* Contâiner do texto */
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+}
+
+#sobre .sobreContainer .sobreText p { /* Texto da sobre */
+    text-indent: 20px; /* Indenta o texto */
+}
+
+#sobre .sobreContainer img {
+    width: 250px;
+    transition: 0.5s;
+}
+
+#sobre .sobreContainer img:hover {
+    rotate: 10deg; /* Rotação do elemento */
+    scale: 1.1;
+}
+
+#sobre .sobreContainer img:not(:hover) {
+    transition: 1s;
+}
+
+@media (max-width: 1400px) {
+    #sobre .sobreContainer .sobreText {
+        width: 50%;
+    }
+}
+
+@media (max-width: 1000px) {
+    #sobre .sobreContainer .sobreText {
+        width: 75%;
+    }
+
+    #sobre .sobreContainer .sobreText h2 { /* Título da sobre*/
+        text-align: center;
+    }
+
+    #sobre .sobreContainer .sobreText p {
+        text-align: justify;
+    }
+
+}
+
+@media (max-width: 1000px) {
+    #sobre .sobreContainer img {
+        width: 200px;
+    }
+}
+
+#sobre .sobreFuncao { /* Contâiner principal das engrenagens */
+    margin-top: 4vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5vw;
+}
+
+@media (max-width: 1000px) {
+    #sobre .sobreFuncao {
+        margin-top: 10vw;
+        flex-wrap: wrap; /* Permite que os elementos se ajustem em várias linhas */
+    }
+}
+
+#sobre .sobreFuncao .sobreFuncaoElemento { /* Contâiner secundário */
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5vw;
+    text-align: center;
+}
+
+#sobre .sobreFuncao .sobreFuncaoElemento i { /* Ícones das engrenagens */
+    font-size: 50px;
+    color: var(--cor-padrao);
+}
+
+#sobre .sobreFuncao .sobreFuncaoElemento i:hover { /* Animação das engrenagens */
+    transform: translateY(-10px);
+    transition: 700ms;
+    color: var(--cor-padrao-escura);
+}
+
+#sobre .sobreFuncao .sobreFuncaoElemento i:not(hover) { /* Animação após deslocar o mouse para fora do elemento */
+    transition: 700ms;
+    color: var(--cor-padrao);
+}
+
+#sobre .Abs4 img { /* Imagem abstrata à esquerda no final da sobre */
+    position: absolute; 
+    z-index: -1;
+    left: 0;
+    width: 20%;
+    height: 7%;
+}
+
+@keyframes bordaAnimada { /* Animação circulando a seção de mockups */
+    0% {
+        border-image-source: linear-gradient(0deg, var(--cor-fundo3), var(--cor-padrao));
+    }
+    25% {
+        border-image-source: linear-gradient(90deg, var(--cor-fundo3), var(--cor-padrao));
+    }
+    50% {
+        border-image-source: linear-gradient(180deg, var(--cor-fundo3), var(--cor-padrao));
+    }
+    75% {
+        border-image-source: linear-gradient(270deg, var(--cor-fundo3), var(--cor-padrao));
+    }
+    100% {
+        border-image-source: linear-gradient(360deg, var(--cor-fundo3), var(--cor-padrao));
+    }
+}
+
+.sobreTelas { /* Contâiner principal */
+    margin-top: 5vw;
+    width: 100%;
+    height: 80vh;
+    background-image: url(../img/fundoTelas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    animation: bordaAnimada 5s linear infinite;
+    border: 5px solid transparent;
+    border-image-slice: 1; 
+}
+
+.sobreTelas h2 { /* Título da seção com mockups */
+    color: #fff;
+}
+
+/* Slide swiper */
+.sobreTelas .telas-swiper .swiper-slide img { /* Tamanho dos mockups */
+    width: 250px;
+}
+
+.sobreTelas .telas-swiper { /* Contâiner do swiper */
+    width: 35%;
+    height: 85%;
+}
+
+@media (max-width: 1000px) {
+    .sobreTelas {
+        padding: 5vw 0;
+        height: 80vh;
+    }
+
+    .sobreTelas .telas-swiper .swiper-slide img {
+        width: 200px;
+    }
+
+    .sobreTelas .telas-swiper {
+        height: 90%;
+        width: 50%;
+    }
+}
+
+.sobreTelas .telas-swiper .swiper-slide { /* Estilo dos slides */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.telas-swiper .swiper-pagination-bullet { /* Estilo das bolinhas de paginação */
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+}
+/* Fim Slide swiper */
+
+.sobreEsg{ /* Contâiner principal da seção ESG */
+    margin-top: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10vw;
+    text-align: justify;
+}
+
+@media (max-width: 1000px) {
+    .sobreEsg {
+        margin-top: 10vw;
+        flex-direction: column;
+    }  
+}
+
+.sobreEsg img { /* Imagem da seção ESG */
+    width: 400px;
+}
+
+.sobreEsg .sobreEsgText { /* Contâiner do texto da seção ESG */
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+    width: 30%;
+}
+
+@media (max-width: 1400px) {
+    .sobreEsg .sobreEsgText {
+        width: 40%;
+    }  
+}
+
+.sobreEsg .sobreEsgText p { /* Texto da seção ESG */
+    text-indent: 20px;
+}
+
+@media (max-width: 1000px) {
+    .sobreEsg .sobreEsgText {
+        width:80%;
+    } 
+
+    .sobreEsg .sobreEsgText p {
+        text-align: justify; /* Justifica o texto */
+    }
+
+    .sobreEsg img {
+        width: 300px;
+    }
+}
+
+.sobreComp { /* Contâiner principal com os cards horizontais */
+    margin-top: 5vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2vw;
+}
+
+@media (max-width: 1000px) {
+    .sobreComp {
+        margin-top: 10vw;
+        gap: 8vw;
+    }
+}
+
+.sobreComp .sobreCompItem { /* Contâiner de cada card separadamente */
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3vw;
+    background-color: var(--cor-padrao-escura);
+    color: #fff;
+    padding: 1vw 2vw;
+    border-radius: 2em;
+    box-shadow: 0px 0px 5px #000;
+}
+
+.sobreComp .sobreCompItem:hover { /* Animação dos cards */
+    transition: 1s;
+    background-color: var(--cor-fundo3);
+    scale: 1.02;
+}
+
+.sobreComp .sobreCompItem:not(hover) { /* Animação após deslocar o mouse para fora do elemento */
+    transition: 1s;
+    background-color: var(--cor-padrao-escura);
+}
+
+@media (max-width: 1000px) {
+    .sobreComp .sobreCompItem {
+        flex-direction: column;
+        text-align: center;
+        padding: 3vw;
+    }
+}
+
+@media (max-width: 1400px) {
+    .sobreComp .sobreCompItem {
+        width: 80%;
+    }
+}
+
+.sobreComp .sobreCompItem i { /* Ícones dos cards */
+    font-size: 60px;
+}
+
+.sobreComp .sobreCompItem .sobreItemText h3 { /* Título de cada card */
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.sobreComp .sobreCompItem .sobreItemText p { /* Texto de cada card */
+    margin: 0;
+}
+
+/* Denúncia */
+#denuncia {
+    width: 50%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+    margin: 5vw auto 0 auto;
+}
+
+@media (max-width: 1400px) {
+    #denuncia{
+        margin-top: 10vw;
+        width: 80%;
+    }
+}
+
+#denuncia .denunciaContainer { /* Contâiner com círculos de denúncia */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media (max-width: 1000px) {
+    #denuncia .denunciaContainer {
+        flex-direction: column;
+        gap: 8vw;
+    }
+}
+
+#denuncia .denunciaContainer a { /* Links dos círculos de denúncia */
+    text-decoration: none;
+}
+
+#denuncia .denunciaContainer .denunciaBtn { /* Botão presente no círculo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 220px;
+    height: 220px;
+    padding: 10px;
+    border-radius: 100%;
+    border: 3px solid var(--cor-padrao);
+    transition: 0.5s;
+}
+
+#denuncia .denunciaContainer .denunciaBtn:hover { /* Animação dos círculos */
+    background-color: #dacaeb;
+    scale: 1.05;
+}
+
+#denuncia .denunciaContainer .denunciaBtn h3, #denuncia .denunciaContainer .denunciaBtn i { /* Ícone dos círculos */ 
+    font-size: 50px;
+    color: var(--cor-padrao);
+    font-weight: bolder;
+}
+
+#denuncia .denunciaContainer .denunciaBtn span { /* Descrição dentro de cada círculo */
+    font-size: 14px;
+}
