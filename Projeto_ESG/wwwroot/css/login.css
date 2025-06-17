@@ -1,21 +1,21 @@
-.containerLogin {
-    display: flex;
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden;
+.containerLogin { /* Contâiner que engloba toda a tela */
+    display: flex; /* Disponibiliza o elemento de forma flexível */
+    width: 100vw; /* Largura */
+    height: 100vh; /* Altura */
+    overflow: hidden; /* Não permite scrollar a tela */
 }
 
-.container #info .logo{
-    margin: 4em;
+.container #info .logo { /* Mexendo de forma conjunta nos contâineres da direita e esquerda */
+    margin: 4em; /* Espaçamento entre um elemento e outro */
     width: 40px;
 }
 
-#info, #login {
+#info, #login { /* Adicionando tamanho aos contâineres dividos ao meio horizontalmente */
     width: 50%;
     height: 100vh;
 }
 
-#info {
+#info { 
     background-color: var(--cor-fundo3);
     display: flex;
     padding: 5em;
@@ -25,13 +25,13 @@
     text-align: left;
 }
 
-#info .logo{
+#info .logo {
     width: 40px;
     position: absolute;
     margin-bottom: 33em;
 }
 
-#info .efeitoSup img{
+#info .efeitoSup img {
     position: absolute;
      z-index:0;
     top: 0;
@@ -40,7 +40,7 @@
     z-index: 0;
 }
 
-#info .efeitoInf img{
+#info .efeitoInf img {
     position: absolute;
     z-index:0;
     top: 0;
@@ -65,7 +65,7 @@
     text-align: justify;
 }
 
-#info .btnLogin{
+#info .btnLogin {
     width: 50%;
     padding: 10px 0;
     font-size: 18px;
@@ -76,17 +76,17 @@
     box-shadow: 1px 1px 5px 2px #000;
 }
 
-#info .btnLogin:hover{
+#info .btnLogin:hover {
     background-color: var(--cor-fundo3);
     transition: 1s;
 }
 
-#info .btnLogin:not(:hover){
+#info .btnLogin:not(:hover) {
     background-color: var(--cor-padrao);
     transition: 1s;
 }
 
-.infoText{
+.infoText {
     position: relative;
     z-index:1;
 }
@@ -193,7 +193,7 @@
     background-color: var(--cor-padrao);
 }
 
-.containerHrCad{
+.containerHrCad {
     padding-top: 3em;
     display: flex;
     justify-content: space-between;
