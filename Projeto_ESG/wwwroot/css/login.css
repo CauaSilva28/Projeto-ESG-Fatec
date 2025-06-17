@@ -1,21 +1,21 @@
-.containerLogin {
-    display: flex;
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden;
+.containerLogin { /* Contâiner que engloba toda a tela */
+    display: flex; /* Disponibiliza o elemento de forma flexível */
+    width: 100vw; /* Largura */
+    height: 100vh; /* Altura */
+    overflow: hidden; /* Não permite scrollar a tela */
 }
 
-.container #info .logo {
-    margin: 4em;
+.container #info .logo { /* Mexendo de forma conjunta nos contâineres da direita e esquerda */
+    margin: 4em; /* Espaçamento entre um elemento e outro */
     width: 40px;
 }
 
-#info, #login {
+#info, #login { /* Adicionando tamanho aos contâineres dividos ao meio horizontalmente */
     width: 50%;
     height: 100vh;
 }
 
-#info {
+#info { 
     background-color: var(--cor-fundo3);
     display: flex;
     padding: 5em;

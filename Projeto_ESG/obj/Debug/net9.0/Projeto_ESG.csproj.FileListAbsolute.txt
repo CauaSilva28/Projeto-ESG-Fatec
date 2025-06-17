@@ -604,3 +604,6 @@ c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-ekb96jj546.gz
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-dmfj98reb9.gz
 >>>>>>> 8c8c18d8331ab6f844e50e8fee7a2936450fd41c
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-5lmh04exd8.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\blj0zyrhv1-e1e3kj7g68.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\ESG\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-t1o0agq21q.gz
