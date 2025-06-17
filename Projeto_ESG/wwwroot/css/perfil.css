@@ -5,10 +5,18 @@
     background-position: bottom;
     width:100%;
     display:flex;
+    flex-direction: column;
+    padding:8vh 5vw 0 5vw;
+    gap:20px;
+}
+.perfilInicio .dadosAplicar{
+    width:100%;
+    display:flex;
     align-items: end;
-    padding-left:10vw;
-    padding-top:8vh;
     gap:40px;
+}
+.perfilInicio .formDadosEditar{
+    padding-left:10px;
 }
 .perfilInicio img{
     width:180px;
@@ -43,11 +51,10 @@
     padding:5px;
     box-shadow:1px 1px 3px;
 }
-.perfilInicio .formDadosInicio .botoes{
-    display:flex;
-    gap:10px;
+.perfilInicio .formDadosInicio button{
+    width:20%;
 }
-.perfilInicio .formDadosInicio .botoes button{
+.perfilInicio .formDadosInicio button, .perfilInicio .formDadosEditar button{
     font-size:14px;
     border:none;
     padding:5px 10px;
@@ -56,9 +63,15 @@
     color:#fff;
     transition:0.5s;
 }
-.perfilInicio .formDadosInicio .botoes button:hover{
+.perfilInicio .formDadosInicio button:hover, .perfilInicio .formDadosEditar button:hover{
     background-color:#fff;
     color:var(--cor-padrao);
+}
+.inputDesabilitado{
+    background-color: transparent !important;
+    border:none !important;
+    box-shadow: none !important;
+    font-size:18px !important;
 }
 
 .perfilHome{
@@ -66,7 +79,7 @@
     flex-direction: column;
     gap:10px;
     width:70%;
-    margin:15vh auto 0 auto;
+    margin:15vh auto 10vh auto;
 }
 .perfilHome p{
     text-indent: 20px;

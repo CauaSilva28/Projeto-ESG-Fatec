@@ -28,14 +28,30 @@
 </header>
 
 <section class="perfilInicio">
-    <img src="~/img/perfil.jpg" alt="Foto de perfil">
-    <form class="formDadosInicio">
-        <input type="text" name="nome" placeholder="Nome">
-        <input type="text" name="descricao" placeholder="Descrição">
-        <div class="botoes">
-            <button>Aplicar</button>
-            <button>Editar</button>
-        </div>
+    <div class="dadosAplicar">
+        <img src="~/img/perfil.jpg" alt="Foto de perfil">
+        
+        <form method="post" asp-action="AlterarDados" class="formDadosInicio">
+            <input type="text"
+                name="Nome"
+                value="@Model.Dados.Nome"
+                placeholder="Nome"
+                @(ViewBag.Editavel ? "" : "readonly")
+                class="@(ViewBag.Editavel ? "" : "inputDesabilitado")" />
+
+            <input type="text"
+                name="Descricao"
+                value="@Model.Dados.Descricao"
+                placeholder="Descrição"
+                @(ViewBag.Editavel ? "" : "readonly")
+                class="@(ViewBag.Editavel ? "" : "inputDesabilitado")" />
+
+            <button type="submit" @(ViewBag.Editavel ? "" : "disabled")>Aplicar</button>
+        </form>
+    </div>
+
+    <form method="post" asp-action="EditarDados" class="formDadosEditar">
+        <button type="submit" @(ViewBag.Editavel ? "disabled" : "")>Editar</button>
     </form>
 </section>
 
