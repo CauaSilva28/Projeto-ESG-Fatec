@@ -38,20 +38,20 @@
         <h1 id="loginText">Cadastro</h1>
        
         <div id="loginFormatacao">
-            <form method="post" action="#">
+            <form asp-action="Cadastro" asp-controller="Conta" method="post">
                 <div class="inputContainer">
-                    <label for="username">Nome</label>
-                    <input type="text" name="nome" id="nome" required>
+                    <label for="Nome">Nome</label>
+                    <input type="text" name="Nome" id="Nome" required>
                 </div>
                 <div class="inputContainer">
-                    <label for="email">Email</label>
-                    <input type="email" name="email" id="email" required>
+                    <label for="Email">Email</label>
+                    <input type="email" name="Email" id="Email" required>
                 </div>
                 <div class="inputContainer">
-                    <label for="password">Senha</label>
-                    <input type="password" name="password" id="password" required>
+                    <label for="Senha">Senha</label>
+                    <input type="password" name="Senha" id="Senha" required>
                 </div>
-                <button type="submit" id="btnEntrar">Entrar</button>
+                <button type="submit" id="btnEntrar">Cadastrar</button>
             </form>
         </div>
 
@@ -63,6 +63,11 @@
             <div class="linha"></div>
             <div class="linha"></div>
         </div>
+
+        @if (ViewBag.Mensagem != null)
+        {
+            <p style="color: green;">@ViewBag.Mensagem</p>
+        }
 
     </section>
 </div>

@@ -16,15 +16,30 @@
         <div class="Perfil">
             <i class="bi bi-person-fill"></i>
             
+            @{
+                var nomeUsuario = Context.Session.GetString("UsuarioNome"); // Recuperando o nome do usuário
+            }
+
             <div class="dropdown-menu">
                 <div class="d-flex flex-column align-items-center justify-content-center">
                     <i class="bi bi-person-fill"></i>
-                    <h2>Desconectado</h2>
+                    <h2>@(string.IsNullOrEmpty(nomeUsuario) ? "Desconectado" : $"{nomeUsuario}")</h2>
                 </div>
                 <a asp-controller="Home" asp-action="Index">Página Inicial</a>
                 <div class="divisor"></div>
-                <a asp-controller="Home" asp-action="Login">Entrar na conta</a>
-                <div class="divisor"></div>
+
+                @if (!string.IsNullOrEmpty(nomeUsuario))
+                {
+                    <a asp-controller="Conta" asp-action="Logout">Sair</a>
+                    <div class="divisor"></div>
+                }
+
+                @if (string.IsNullOrEmpty(nomeUsuario))
+                {
+                    <a asp-controller="Conta" asp-action="Login">Entrar na conta</a>
+                    <div class="divisor"></div>
+                }
+                
             </div>
         </div>
 

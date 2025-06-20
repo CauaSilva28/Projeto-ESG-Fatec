@@ -37,14 +37,14 @@
         <h1 id="loginText">Login</h1>
        
         <div id="loginFormatacao">
-            <form method="post" action="#">
+            <form method="post" asp-controller="Conta" asp-action="Login">
                 <div class="inputContainer">
-                    <label for="username">Email</label>
-                    <input type="text" name="email" id="email" required>
+                    <label for="Email">Email</label>
+                    <input type="text" name="Email" id="Email" required>
                 </div>
                 <div class="inputContainer">
-                    <label for="password">Senha</label>
-                    <input type="password" name="password" id="password" required>
+                    <label for="Senha">Senha</label>
+                    <input type="password" name="Senha" id="Senha" required>
                 </div>
                 <button type="submit" id="btnEntrar">Entrar</button>
             </form>
@@ -58,6 +58,11 @@
             <div class="linha"></div>
             <div class="linha"></div>
         </div>
+
+        @foreach (var erro in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p style="color:red;">@erro.ErrorMessage</p>
+        }
 
     </section>
 </div>

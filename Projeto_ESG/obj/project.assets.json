@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
       "projectName": "Projeto_ESG",
-      "projectPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
+      "projectPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

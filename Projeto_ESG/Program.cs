@@ -3,6 +3,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddSession(); // Conectado
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -16,6 +18,8 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseRouting();
 
+app.UseSession(); // Conectado
+
 app.UseAuthorization();
 
 app.MapStaticAssets();
@@ -27,3 +31,4 @@ app.MapControllerRoute(
 
 
 app.Run();
+

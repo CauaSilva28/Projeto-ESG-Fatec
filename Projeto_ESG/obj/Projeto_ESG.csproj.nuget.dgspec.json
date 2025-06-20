@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj": {}
+    "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj": {
+    "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
+        "projectUniqueName": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
         "projectName": "Projeto_ESG",
-        "projectPath": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
+        "projectPath": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\Projeto_ESG.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\",
+        "outputPath": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
