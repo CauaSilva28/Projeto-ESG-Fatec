@@ -54,15 +54,15 @@
             <p style="margin-bottom: 20px; color: var(--cor-padrao-escura);">Não tem conta? <a style="color: var(--cor-padrao); text-decoration: underline;" asp-controller="Home" asp-action="Cadastro">Cadastrar</a></p>
         </div>
 
+        @foreach (var erro in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p id="error">@erro.ErrorMessage</p>
+        }
+
         <div class="containerHr">
             <div class="linha"></div>
             <div class="linha"></div>
         </div>
-
-        @foreach (var erro in ViewData.ModelState.Values.SelectMany(v => v.Errors))
-        {
-            <p style="color:red;">@erro.ErrorMessage</p>
-        }
 
     </section>
 </div>

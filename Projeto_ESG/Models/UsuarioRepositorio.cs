@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
-using Projeto_ESG.Models;
+using Projeto_ESG.Models; // Importa as classes
 
 namespace Projeto_ESG
 {

@@ -9,6 +9,10 @@
         <img src="~/img/logo.png" alt="Logo-SafeWay" class="logoHeader">
     </a>
 
+    @{
+        var nomeUsuario = Context.Session.GetString("UsuarioNome"); // Recuperando o nome do usuário
+    }
+
     <nav>
         <div class="Perfil">
             <i class="bi bi-person-fill"></i>
@@ -16,11 +20,11 @@
             <div class="dropdown-menu">
                 <div class="d-flex flex-column align-items-center justify-content-center">
                     <i class="bi bi-person-fill"></i>
-                    <h2>Desconectado</h2>
+                    <h2 style="text-transform: uppercase;">@(string.IsNullOrEmpty(nomeUsuario) ? "Desconectado" : $"{nomeUsuario}")</h2>
                 </div>
                 <a asp-controller="Home" asp-action="Index">Página Inicial</a>
                 <div class="divisor"></div>
-                <a asp-controller="Home" asp-action="Login">Entrar na conta</a>
+                <a asp-controller="Conta" asp-action="Logout">Sair da Conta</a>
                 <div class="divisor"></div>
             </div>
         </div>
@@ -87,10 +91,11 @@
         {
             foreach (var item in Model.Depoimentos)
             {
+                
                 <div class="depoimentoCard">
                     <img src="~/img/perfil.jpg" alt="Foto de perfil">
                     <div class="depoimentoCardText">
-                        <h3>Usuário</h3>
+                        <h3>@(string.IsNullOrEmpty(nomeUsuario) ? "Anônimo" : $"{nomeUsuario}")</h3>
                         <p>@item.Depoimento</p>
                     </div>
                     <form method="post" asp-action="ExcluirDepoimento">

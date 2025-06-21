@@ -3,15 +3,15 @@ using Projeto_ESG.Models;
 
 namespace Projeto_ESG.Controllers
 {
-    public class ContaController : Controller
+    public class ContaController : Controller // Definindo a controller
     {
-        public IActionResult Cadastro()
+        public IActionResult Cadastro() // View para exibir o formulário de cadastro
         {
             return View();
         }
 
         [HttpPost]
-        public IActionResult Cadastro(string Nome, string Email, string Senha)
+        public IActionResult Cadastro(string Nome, string Email, string Senha) // Método para processar o cadastro
         {
             if (UsuarioRepositorio.BuscarPorEmail(Email) != null)
             {
@@ -31,14 +31,14 @@ namespace Projeto_ESG.Controllers
         }
 
         [HttpGet]
-        public IActionResult Login()
+        public IActionResult Login() // View para exibir o formulário de login
         {
             ViewBag.Mensagem = TempData["Mensagem"];
             return View();
         }
 
         [HttpPost]
-        public IActionResult Login(Login model)
+        public IActionResult Login(Login model) // Método para processar o login
         {
             if (!ModelState.IsValid)
                 return View(model);
@@ -55,14 +55,14 @@ namespace Projeto_ESG.Controllers
             else
             {
                 ModelState.AddModelError(string.Empty, "Email ou senha inválidos.");
-                return View(model);
+                return View(model); 
             }
         }
 
-        public IActionResult Logout()
+        public IActionResult Logout() // Método para processar o logout
         {
-            HttpContext.Session.Clear();
-            return RedirectToAction("Index", "Home");
+            HttpContext.Session.Clear(); // Apaga sessão, ou seja, o nome armazenado do usuário
+            return RedirectToAction("Index", "Home"); // Redireciona para a página inicial
         }
 
     }

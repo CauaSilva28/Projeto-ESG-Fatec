@@ -23,19 +23,21 @@
             <div class="dropdown-menu">
                 <div class="d-flex flex-column align-items-center justify-content-center">
                     <i class="bi bi-person-fill"></i>
-                    <h2>@(string.IsNullOrEmpty(nomeUsuario) ? "Desconectado" : $"{nomeUsuario}")</h2>
+                    <h2 style="text-transform: uppercase;">@(string.IsNullOrEmpty(nomeUsuario) ? "Desconectado" : $"{nomeUsuario}")</h2>
                 </div>
-                <a asp-controller="Home" asp-action="Index">Página Inicial</a>
-                <div class="divisor"></div>
 
-                @if (!string.IsNullOrEmpty(nomeUsuario))
+                @if (!string.IsNullOrEmpty(nomeUsuario)) // Se o usuário estiver logado, exibe as opções
                 {
-                    <a asp-controller="Conta" asp-action="Logout">Sair</a>
+                    <a asp-controller="Home" asp-action="Perfil">Acessar Perfil</a>
+                    <div class="divisor"></div>
+                    <a asp-controller="Conta" asp-action="Logout">Sair da Conta</a>
                     <div class="divisor"></div>
                 }
 
-                @if (string.IsNullOrEmpty(nomeUsuario))
-                {
+                @if (string.IsNullOrEmpty(nomeUsuario)) // Se o usuário não estiver logado, exibe as opções
+                {   
+                    <a asp-controller="Home" asp-action="Index">Página Inicial</a>
+                    <div class="divisor"></div>
                     <a asp-controller="Conta" asp-action="Login">Entrar na conta</a>
                     <div class="divisor"></div>
                 }

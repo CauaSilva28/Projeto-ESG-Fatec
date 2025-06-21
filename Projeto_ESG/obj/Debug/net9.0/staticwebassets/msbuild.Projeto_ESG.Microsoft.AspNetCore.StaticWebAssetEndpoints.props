@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ec5m7z1ekp"},{"Name":"integrity","Value":"sha256-jieGcMrSNxwWqqpB/vNiKnq4cR7jwPVZfxgGsZgdIR0="},{"Name":"label","Value":"_content/Projeto_ESG/css/index.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20201"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jieGcMrSNxwWqqpB/vNiKnq4cR7jwPVZfxgGsZgdIR0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 20:51:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Projeto_ESG/css/login.8ql2xf5uv9.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\login.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8ql2xf5uv9"},{"Name":"integrity","Value":"sha256-gAdpLnNpvWEX7jAjfAo4gD6uuuj9irc58DyrXETFDaQ="},{"Name":"label","Value":"_content/Projeto_ESG/css/login.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4141"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022gAdpLnNpvWEX7jAjfAo4gD6uuuj9irc58DyrXETFDaQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Jun 2025 14:59:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Projeto_ESG/css/login.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\login.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0pmQd7KadIoggSKECfQnZJJEgfqmJl9SYYJZVaJSfXA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3893"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220pmQd7KadIoggSKECfQnZJJEgfqmJl9SYYJZVaJSfXA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 20:51:10 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Projeto_ESG/css/login.e1e3kj7g68.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\login.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e1e3kj7g68"},{"Name":"integrity","Value":"sha256-0pmQd7KadIoggSKECfQnZJJEgfqmJl9SYYJZVaJSfXA="},{"Name":"label","Value":"_content/Projeto_ESG/css/login.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3893"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220pmQd7KadIoggSKECfQnZJJEgfqmJl9SYYJZVaJSfXA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Jun 2025 20:51:10 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gAdpLnNpvWEX7jAjfAo4gD6uuuj9irc58DyrXETFDaQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4141"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022gAdpLnNpvWEX7jAjfAo4gD6uuuj9irc58DyrXETFDaQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Jun 2025 14:59:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Projeto_ESG/css/MockupApagado.n4qsx740qm.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\MockupApagado.png'))</AssetFile>

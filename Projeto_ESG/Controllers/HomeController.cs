@@ -4,7 +4,7 @@ using Projeto_ESG.Models;
 
 namespace Projeto_ESG.Controllers;
 
-public class HomeController : Controller
+public class HomeController : Controller // Definindo a controller
 {
     private readonly ILogger<HomeController> _logger;
 
