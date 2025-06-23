@@ -143,6 +143,20 @@
     color: transparent;
 }
 
+#linkSub {
+    color: var(--cor-padrao);
+    text-decoration: underline;
+}
+
+#linkSub:hover {
+    color: #8264fa;
+    transition: 1s;
+}
+
+#linkSub:not(:hover) {
+    transition: 1s;
+}
+
 #btnEntrar {
     margin-top: 3.5em;
     background-color: var(--cor-padrao);
@@ -178,12 +192,12 @@
 }
 
 .containerHr {
-    padding-top: 5em;
+    padding-top: 2em;
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 67.5%;
-    gap: 30%;
+    gap: 5%;
 }
 
 .linha {
@@ -193,12 +207,16 @@
 }
 
 .containerHrCad {
-    padding-top: 3em;
+    padding-top: 0em;
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 67.5%;
-    gap: 30%;
+    gap: 5%;
+}
+
+.LogoInf {
+    width: 70px;
 }
 
 #error {

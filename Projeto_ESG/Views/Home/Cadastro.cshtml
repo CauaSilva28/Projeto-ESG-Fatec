@@ -1,9 +1,8 @@
 ﻿@{
-    ViewData["Title"] = "Cadastro";
+    ViewData["Title"] = "Cadastro"; // Título da página
 }
 
 <div class="containerLogin">
-
     <style>
         body {
             overflow: hidden; /* Impede o scroll da página */
@@ -11,23 +10,30 @@
     </style>
    
     <section id="info">
+
+        <!-- Logo -->
         <img src="~/img/logo.png" alt="Logo-SafeWay" class="logo">
 
+        <!-- Efeitos visuais no canto superior -->
         <div class="efeitoSup">
             <img src="~/img/EfeitoRoxo.png" alt="Efeito roxo">
         </div>
         
+        <!-- Texto de boas-vindas -->
         <div class="infoText">
             <h2>Seja bem vindo(a)!</h2>
             <p>Preencha os campos abaixo com suas informações pessoais para criar sua conta.
                 Após o envio, você poderá acessar todos os recursos disponíveis na plataforma.
                 Caso não deseje se cadastrar, clique no botão abaixo.
             </p>
+
+            <!-- Botão para entrar sem conta -->
             <a asp-controller="Home" asp-action="Index">
                 <button class="btnLogin">Entrar sem conta</button>
             </a>
         </div>
 
+        <!-- Efeitos visuais intensificando o canto superior -->
         <div class="efeitoInf">
             <img src="~/img/EfeitoRoxo.png" alt="Efeito roxo">
         </div>
@@ -35,8 +41,10 @@
 
     <section id="login">
 
+        <!-- Título da seção de cadastro -->
         <h1 id="loginText">Cadastro</h1>
        
+        <!-- Formulário de cadastro -->
         <div id="loginFormatacao">
             <form asp-action="Cadastro" asp-controller="Conta" method="post">
                 <div class="inputContainer">
@@ -55,19 +63,17 @@
             </form>
         </div>
 
+        <!-- Ir para a página de login -->
         <div id="irLogin">
-            <p style="margin-bottom: 20px; color: var(--cor-padrao-escura);">Possui cadastro? <a style="color: var(--cor-padrao); text-decoration: underline;" asp-controller="Home" asp-action="Login">Entrar</a></p>
+            <p style="margin-bottom: 20px; color: var(--cor-padrao-escura);">Possui cadastro? <a id="linkSub" asp-controller="Conta" asp-action="Login">Entrar</a></p>
         </div>
 
+        <!-- Contâiner de linha e logo no final da página -->
         <div class="containerHrCad">
             <div class="linha"></div>
+                <img src="~/img/logo_roxa.png" alt="Logo-SafeWay-Roxa" class="LogoInf">
             <div class="linha"></div>
         </div>
-
-        @if (ViewBag.Mensagem != null)
-        {
-            <p style="color: green;">@ViewBag.Mensagem</p>
-        }
 
     </section>
 </div>

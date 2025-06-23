@@ -105,6 +105,14 @@
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
+      "Id": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\logo_roxa.png",
+      "PackagePath": "staticwebassets\\img\\logo_roxa.png"
+    },
+    {
+      "Id": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\logo_roxo.png",
+      "PackagePath": "staticwebassets\\img\\logo_roxo.png"
+    },
+    {
       "Id": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\perfil.jpg",
       "PackagePath": "staticwebassets\\img\\perfil.jpg"
     },

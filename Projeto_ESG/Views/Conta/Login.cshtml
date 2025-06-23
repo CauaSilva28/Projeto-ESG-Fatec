@@ -1,9 +1,8 @@
 @{
-    ViewData["Title"] = "Login";
+    ViewData["Title"] = "Login"; // Título da página
 }
 
 <div class="containerLogin">
-
     <style>
         body {
             overflow: hidden; /* Impede o scroll da página */
@@ -11,31 +10,42 @@
     </style>
    
     <section id="info">
+
+        <!-- Logo -->
         <img src="~/img/logo.png" alt="Logo-SafeWay" class="logo">
 
+        <!-- Efeitos visuais no canto superior -->
         <div class="efeitoSup">
             <img src="~/img/EfeitoRoxo.png" alt="Efeito roxo">
         </div>
         
+        <!-- Texto de boas-vindas -->
         <div class="infoText">
             <h2>Que bom te ver novamente!</h2>
             <p>Faça login para continuar acessando suas informações com segurança.
                 Estamos felizes pelo seu retorno.
                 Insira seus dados de acesso e aproveite todos os recursos disponíveis na nossa plataforma!
             </p>
+
+            <!-- Botão para entrar sem conta -->
             <a asp-controller="Home" asp-action="Index">
                 <button class="btnLogin">Entrar sem conta</button>
             </a>
         </div>
 
+        <!-- Efeitos visuais intensificando o canto superior -->
         <div class="efeitoInf">
             <img src="~/img/EfeitoRoxo.png" alt="Efeito roxo">
         </div>
+
     </section>
 
     <section id="login">
+
+        <!-- Título da seção de login -->
         <h1 id="loginText">Login</h1>
        
+        <!-- Formulário de login -->
         <div id="loginFormatacao">
             <form method="post" asp-controller="Conta" asp-action="Login">
                 <div class="inputContainer">
@@ -50,17 +60,21 @@
             </form>
         </div>
 
+        <!-- Ir para a página de cadastro -->
         <div id="irLogin">
-            <p style="margin-bottom: 20px; color: var(--cor-padrao-escura);">Não tem conta? <a style="color: var(--cor-padrao); text-decoration: underline;" asp-controller="Home" asp-action="Cadastro">Cadastrar</a></p>
+            <p style="margin-bottom: 20px; color: var(--cor-padrao-escura);">Não tem conta? <a id="linkSub" asp-controller="Home" asp-action="Cadastro">Cadastrar</a></p>
         </div>
 
-        @foreach (var erro in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        <!-- Erros de validação -->
+        @foreach (var erro in ViewData.ModelState.Values.SelectMany(v => v.Errors)) // Apresenta os erros na validação
         {
-            <p id="error">@erro.ErrorMessage</p>
+            <p id="error">@erro.ErrorMessage</p> // Mensagem de erro exibida
         }
 
-        <div class="containerHr">
+        <!-- Contâiner de linha e logo no final da página -->
+        <div class="containerHr"> 
             <div class="linha"></div>
+                <img src="~/img/logo_roxa.png" alt="Logo-SafeWay-Roxa" class="LogoInf">
             <div class="linha"></div>
         </div>
 
