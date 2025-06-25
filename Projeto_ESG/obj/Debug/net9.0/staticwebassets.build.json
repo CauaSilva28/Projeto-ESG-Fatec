@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JZSoBYLBwBBH1u3W7fi5KCDJm6jDIEE2LIYuQ5rWKVo=",
+  "Hash": "WSMrbJwtpvd7iPqPr1/UTNxnyeZKNNZmCJlyqQGaryk=",
   "Source": "Projeto_ESG",
   "BasePath": "_content/Projeto_ESG",
   "Mode": "Default",
@@ -1989,27 +1989,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\logo_roxa.png"
-    },
-    {
-      "Identity": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\logo_roxo.png",
-      "SourceId": "Projeto_ESG",
-      "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\",
-      "BasePath": "_content/Projeto_ESG",
-      "RelativePath": "img/logo_roxo#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "x6a2fvr07q",
-      "Integrity": "52T+dS7WrMydMLLQ6uDWUrpfpC89VkzYoYw10wDT9Rs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\logo_roxo.png"
     },
     {
       "Identity": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\logo.png",
@@ -6484,88 +6463,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-V5nbPYObWjBjdMohwJvSZmrniZEZ456WmTeksiKoPhw="
-        }
-      ]
-    },
-    {
-      "Route": "img/logo_roxo.png",
-      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\logo_roxo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "25738"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"52T+dS7WrMydMLLQ6uDWUrpfpC89VkzYoYw10wDT9Rs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Jun 2025 23:41:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-52T+dS7WrMydMLLQ6uDWUrpfpC89VkzYoYw10wDT9Rs="
-        }
-      ]
-    },
-    {
-      "Route": "img/logo_roxo.x6a2fvr07q.png",
-      "AssetFile": "c:\\Users\\mathe\\OneDrive\\Documentos\\Projetos Programação\\teste\\Projeto-ESG-Fatec\\Projeto_ESG\\wwwroot\\img\\logo_roxo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "25738"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"52T+dS7WrMydMLLQ6uDWUrpfpC89VkzYoYw10wDT9Rs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Jun 2025 23:41:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "x6a2fvr07q"
-        },
-        {
-          "Name": "label",
-          "Value": "img/logo_roxo.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-52T+dS7WrMydMLLQ6uDWUrpfpC89VkzYoYw10wDT9Rs="
         }
       ]
     },

@@ -3,93 +3,121 @@
 }
 
 <header>
+
+    <!-- Logo -->
     <a href="#home">
         <img src="~/img/logo.png" alt="Logo-SafeWay" class="logoHeader">
     </a>
 
     <nav>
+        <!-- Links do navbar -->
         <a href="#home">Home</a>
         <a href="#casos">Casos</a>
         <a href="#sobre">Sobre</a>
         <a href="#denuncia">Denúncia</a>
 
+        <!-- Início do Menu -->
         <div class="Perfil">
+
+            <!-- Ícone -->
             <i class="bi bi-person-fill"></i>
             
-            @{
+            @{ // Verifica se o usuário está logado e recupera o nome do usuário da sessão
                 var nomeUsuario = Context.Session.GetString("UsuarioNome"); // Recuperando o nome do usuário
             }
-
+            
+            <!-- Menu do perfil -->
             <div class="dropdown-menu">
                 <div class="d-flex flex-column align-items-center justify-content-center">
+                    
+                    <!-- Ícone do perfil -->
                     <i class="bi bi-person-fill"></i>
+
+                    <!-- Caso o usuário esteja conectado aparece seu nome, se não aparece "Desconectado" -->
                     <h2 style="text-transform: uppercase;">@(string.IsNullOrEmpty(nomeUsuario) ? "Desconectado" : $"{nomeUsuario}")</h2>
                 </div>
 
                 @if (!string.IsNullOrEmpty(nomeUsuario)) // Se o usuário estiver logado, exibe as opções
                 {
-                    <a asp-controller="Home" asp-action="Perfil">Acessar Perfil</a>
-                    <div class="divisor"></div>
-                    <a asp-controller="Conta" asp-action="Logout">Sair da Conta</a>
-                    <div class="divisor"></div>
+                    <a asp-controller="Home" asp-action="Perfil">Acessar Perfil</a> // Link para acessar o perfil
+                    <div class="divisor"></div> // Hr branca
+                    <a asp-controller="Conta" asp-action="Logout">Sair da Conta</a> // Link para sair da conta
+                    <div class="divisor"></div> // Hr branca
                 }
 
                 @if (string.IsNullOrEmpty(nomeUsuario)) // Se o usuário não estiver logado, exibe as opções
                 {   
-                    <a asp-controller="Home" asp-action="Index">Página Inicial</a>
-                    <div class="divisor"></div>
-                    <a asp-controller="Conta" asp-action="Login">Entrar na conta</a>
-                    <div class="divisor"></div>
+                    <a asp-controller="Home" asp-action="Index">Página Inicial</a> // Link para a página inicial
+                    <div class="divisor"></div> // Hr branca
+                    <a asp-controller="Conta" asp-action="Login">Entrar na conta</a> // Link para login
+                    <div class="divisor"></div> // Hr branca
                 }
-                
             </div>
-        </div>
 
+        </div>
     </nav>
 </header>
 
+<!-- Seção inicial -->
 <section id="home">
+
+    <!-- Texto principal da seção home-->
     <div class="homeText">
         <h1>O aplicativo que vai <b>salvar</b> sua vida</h1>
         <p>SafeWay é um app de segurança pessoal que protege você contra sequestros.
             Apenas em um clique, aciona rapidamente as autoridades competentes.
             Segurança eficaz, simples e sempre à mão.</p>
-        <button>Clique para baixar <i class="bi bi-arrow-up-right"></i></button>
+
+        <!-- Botão para download do aplicativo -->
+        <button>Clique para baixar <i class="bi bi-arrow-up-right"></i></button> 
     </div>
 
+    <!-- Imagem do celular com animação -->
     <img src="~/img/appHome.png" alt="Celular com o aplicativo SafeWay">
+
 </section>
 
+<!-- Seção de casos reais -->
 <section id="casos">
 
+    <!-- Efeito roxa abstrata -->
     <div class="AbsRight">
         <img src="~/img/Abstrata1.png" alt="Forma roxa abstrata">
     </div>
 
+    <!-- Dados estatísticos -->
     <div class="casosDados">
         <div>
+            <!-- Dados e conteúdo -->
             <h2>1800+</h2>
             <span>Feminicídios (2024)</span>
         </div>
         
         <div>
+            <!-- Dados e conteúdo -->
             <h2>1200+</h2>
             <span>Feminicídios (2023)</span>
         </div>
 
         <div>
+            <!-- Dados e conteúdo -->
             <h2>1100+</h2>
             <span>Feminicídios (2022)</span>
         </div>
     </div>
 
+    <!-- Texto abaixo dos dados estatísticos -->
     <div class="casosText">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam. </p>
     </div>
 
+    <!-- Seção de "Cuidado" -->
     <div class="casosAtencao">
+
+        <!-- Imagem de atenção no fundo -->
         <img src="~/img/fundoAtencao.jpg">
 
+        <!-- Título e conteúdo à direita -->
         <div class="casosAtencaoContainer">
             <h2>Cuidado ao andar <span>sozinho(a)!</span></h2>
             <p>Evite trajetos isolados, escolha caminhos iluminados. Mantenha contato com alguém de confiança. 
@@ -98,34 +126,53 @@
         </div>
     </div>
 
+    <!-- Efeito roxo abstrata -->
     <div class="AbsLeft">
         <img src="~/img/Abstrata2.png" alt="Forma roxa abstrata">
     </div>
 
+    <!-- Cards de casos reais -->
     <div class="casosNoticia">
+
+        <!-- Título -->
         <h2>Casos reais</h2>
+
+        <!-- Contâiner dos cards -->
         <div class="casosNoticiaContainer">
+
+            <!-- Card Ana -->
             <div class="casosNoticiaCard">
+
+                <!-- Imagem do caso -->
                 <div class="cardImg" style="background-image: url(../img/caso6.jpg);">
                     <span>Caso Ana</span>
                 </div>
 
+                <!-- Texto do card -->
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam. </p>
             </div>
 
+            <!-- Card Luísa -->
             <div class="casosNoticiaCard">
+                
+                <!-- Imagem do caso  -->
                 <div class="cardImg" style="background-image: url(../img/caso7.jpg);">
-                    <span>Caso Luisa</span>
+                    <span>Caso Luísa</span>
                 </div>
 
+                <!-- Texto do card -->
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam. </p>
             </div>
 
+            <!-- Card Maria -->
             <div class="casosNoticiaCard">
+
+                <!-- Imagem do caso -->
                 <div class="cardImg" style="background-image: url(../img/caso8.jpg);">
                     <span>Caso Maria</span>
                 </div>
 
+                <!-- Texto do card -->
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam. </p>
             </div>
         </div>
@@ -133,10 +180,15 @@
     
 </section>
 
+<!-- Seção "Sobre" -->
 <section id="sobre">
+
+    <!-- Efeito roxo abstrata -->
     <div class="AbsRight">
         <img src="~/img/Abstrata3.png" alt="Forma roxa abstrata">
     </div>
+
+    <!-- Conteúdo do aplicativo -->
     <div class="sobreContainer">
         <div class="sobreText">
             <h2>Sobre o <span>aplicativo</span></h2>
@@ -145,95 +197,156 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis erat sodales, faucibus vulputate diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien, vehicula eu viverra et, porttitor ut augue. Maecenas metus justo, pretium quis.</p>
             </div>
         </div>
+
+        <!-- Mockup do aplicativo -->
         <img src="~/img/appSobre.png" alt="Tela do celular com o aplicativo">
     </div>
 
+    <!-- Engrenagens -->
     <div class="sobreFuncao"> 
+
+        <!-- Engrenagem 1 -->
         <div class="sobreFuncaoElemento">
+
+            <!-- Ícone -->
             <i class="bi bi-gear"></i>
+
+            <!-- Texto -->
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
         </div>
 
+        <!-- Engrenagem 2 -->
         <div class="sobreFuncaoElemento">
+
+            <!-- Ícone -->
             <i class="bi bi-gear"></i>
+
+            <!-- Texto -->
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
         </div>
 
+        <!-- Engrenagem 3 -->
         <div class="sobreFuncaoElemento">
+
+            <!-- Ícone -->
             <i class="bi bi-gear"></i>
+
+            <!-- Texto -->
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
         </div>
 
+        <!-- Engrenagem 4 -->
         <div class="sobreFuncaoElemento">
+
+            <!-- Ícone -->
             <i class="bi bi-gear"></i>
+
+            <!-- Texto -->
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
         </div>
 
+        <!-- Efeito roxo abstrata -->
         <div class="Abs4">
             <img src="~/img/Abstrata4.png" alt="Forma roxa abstrata">
         </div>
     </div>
 
+    <!-- Fundo escuro com carrousel -->
     <div class="sobreTelas">
+
+        <!-- Título -->
         <h2>Disponível no mobile!</h2>
 
-        <!-- Slide Swiper -->
+        <!-- Carrousel -->
         <div class="swiper telas-swiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
+
+                    <!-- Mockup 1 -->
                     <img src="~/img/telas/celularTela1.png" alt="Tela inicial do aplicativo">
                 </div>
 
                 <div class="swiper-slide">
+
+                   <!-- Mockup 2 -->
                    <img src="~/img/telas/celularTela1.png" alt="Tela inicial do aplicativo">
                 </div>
 
                 <div class="swiper-slide">
+
+                    <!-- Mockup 3 -->
                    <img src="~/img/telas/celularTela1.png" alt="Tela inicial do aplicativo">
                 </div>
             </div>
+
+            <!-- Botões de navegação do carrousel -->
             <div id="btn-servicos" class="swiper-pagination"></div>
             <div id="back-slides-servicos"></div>
         </div>
     </div>
 
+    <!-- Seção ESG -->
     <div class="sobreEsg">
+
+        <!-- Imagem do ESG -->
         <div class="imgContainer">
-        <img src="~/img/imgEsg.png" class="imgEsg" alt="Siglas do ESG">
+            <img src="~/img/imgEsg.png" class="imgEsg" alt="Siglas do ESG">
         </div>
 
+        <!-- Efeito roxo abstrata -->
         <div class="AbsRight">
             <img src="~/img/Abstrata5.png" alt="Forma roxa abstrata">
         </div>
 
+        <!-- Conteúdo sobre o ESG-->
         <div class="sobreEsgText">
             <h2>Como o <span>aplicativo</span> se enquadra nos pilares <span>esg?</span></h2>
             <p>No pilar social, promove segurança a quem retorna do trabalho à noite, com rotas seguras e alertas em tempo real. No ambiental, incentiva trajetos sustentáveis, com menor impacto ambiental. Na governança, adota políticas de privacidade e dados transparentes, com foco na ética e na inclusão digital. A solução contribui para cidades mais seguras e igualitárias. Ao mitigar riscos e promover o bem-estar social, o aplicativo mostra como tecnologia e responsabilidade caminham juntas rumo a um futuro mais justo, seguro e sustentável.</p>
         </div>
+
     </div>
 
+    <!-- Seção de cards horizontais  -->
     <div class="sobreComp">
+
+        <!-- Efeito roxo abstrata -->
         <div class="AbsLeft">
             <img src="~/img/Abstrata6.png" alt="Forma roxa abstrata">
         </div>
+
+        <!-- Card 1 -->
         <div class="sobreCompItem">
+
+            <!-- Ícone -->
             <i class="bi bi-person-standing-dress"></i>
+
+            <!-- Conteúdo do card -->
             <div class="sobreItemText">
                 <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
             </div>
         </div>
 
+        <!-- Card 2 -->
         <div class="sobreCompItem">
+
+            <!-- Ícone -->
             <i class="bi bi-person-standing-dress"></i>
+
+            <!-- Conteúdo do card -->
             <div class="sobreItemText">
                 <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
             </div>
         </div>
 
+        <!-- Card 3 -->
         <div class="sobreCompItem">
+
+            <!-- Ícone -->
             <i class="bi bi-person-standing-dress"></i>
+
+            <!-- Conteúdo do card -->
             <div class="sobreItemText">
                 <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In neque sapien.</p>
@@ -243,22 +356,36 @@
 
 </section>
 
+<!-- Seção de denúncia -->
 <section id="denuncia">
+
+    <!-- Título dos canais de denúncia -->
     <h2>Canais de denúncia</h2>
     <p>Os canais de denúncia desempenham um papel essencial na sociedade ao fornecerem um meio seguro e acessível para que vítimas e testemunhas possam relatar crimes, abusos ou situações de risco.</p>
+    
+    <!-- Contâiner -->
     <div class="denunciaContainer">
+
+        <!-- Contato da Central de ajuda à mulher -->
         <a href="tel:180"><button class="denunciaBtn">
             <h3>180</h3>
             <span>Clique para entrar em contato com à central de ajuda a mulher</span>
         </button></a>
+
+        <!-- Contato da Polícia Militar -->
         <a href="tel:190"><button class="denunciaBtn">
             <h3>190</h3>
             <span>Clique para entrar em contato com a policia militar em caso de perigo imediato.</span>
         </button></a>
+
+        <!-- Localização de Delegacias da Mulher -->
         <a href="https://azmina.com.br/projetos/delegacia-da-mulher/" target="_blank"><button class="denunciaBtn">
             <i class="bi bi-geo-alt-fill"></i>
             <span>Clique e acesse o mapa com a localização das delegacias para mulheres</span>
         </button></a>
     </div>
+
 </section>
+
+<!-- Espaço entre o final do conteúdo e o copyright -->
 <br><br>
