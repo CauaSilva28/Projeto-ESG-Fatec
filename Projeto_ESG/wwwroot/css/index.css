@@ -436,19 +436,15 @@ header nav i:not(:hover) {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 1vw; 
-    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    gap: 0.4vw; 
     transition: 0.5s;
+    padding-bottom:20px;
 }
 
 @media (max-width: 1000px) {
     #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard {
         width: 300px;
     }
-}
-
-#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard:hover { /* Animação dos cards */
-    scale: 1.03;
 }
 
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg { /* Imagem do card */
@@ -466,6 +462,8 @@ header nav i:not(:hover) {
     font-size: 20px;
     color: #fff;
     padding: 0 0 20px 20px;
+    background-color: #0000007e;
+    padding-top:10px;
 }
 
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard .cardImg span::after { /* Hr abaixo do título */
@@ -479,6 +477,17 @@ header nav i:not(:hover) {
 #casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard p { /* Texto do card */
     padding: 15px;
     text-align: center;
+    margin:0;
+}
+
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard a{
+    text-align:center;
+    color:var(--cor-padrao);
+    font-size:14px;
+    transition: 0.5s;
+}
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard a:hover{
+    color:#fff;
 }
 
 /*Sobre*/

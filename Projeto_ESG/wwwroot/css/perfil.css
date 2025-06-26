@@ -33,14 +33,29 @@
     .perfilInicio{
         padding-left:4vw;
     }
+    .perfilInicio .dadosAplicar{
+        gap:20px;
+    }
     .perfilInicio img{
         width:140px;
     }
     .perfilInicio .formDadosInicio{
-        width:45%;
+        width:50%;
     }
 }
-.perfilInicio .formDadosInicio input{
+.perfilInicio .formDadosInicio h2{
+    font-size:26px;
+}
+@media (max-width: 1000px) {
+    .perfilInicio .formDadosInicio h2{
+        font-size:16px;
+    }
+}
+.perfilInicio .formDadosInicio textarea{
+    max-width:100%;
+    min-width: 100%;
+    min-height: 70px;
+    max-height:70px;
     width:100%;
     background-color: #fff;
     border-top:none;
@@ -53,6 +68,11 @@
 }
 .perfilInicio .formDadosInicio button{
     width:20%;
+}
+@media (max-width: 1000px) {
+    .perfilInicio .formDadosInicio button{
+        width:50%;
+    }
 }
 .perfilInicio .formDadosInicio button, .perfilInicio .formDadosEditar button{
     font-size:14px;
@@ -71,7 +91,12 @@
     background-color: transparent !important;
     border:none !important;
     box-shadow: none !important;
-    font-size:18px !important;
+    font-size:17px !important;
+    resize: none;
+}
+.inputDesabilitado:focus {
+    outline: none;
+    box-shadow: none;
 }
 
 .perfilHome{

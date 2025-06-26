@@ -6,8 +6,6 @@ namespace Projeto_ESG.Controllers;
 
 public class HomeController : Controller // Definindo a controller
 {
-    private readonly ILogger<HomeController> _logger;
-
     private static List<FormViewDepoimento> _depoimentoList = new List<FormViewDepoimento>();
 
     private static List<LikeViewModel> _likes = new List<LikeViewModel>
@@ -38,7 +36,6 @@ public class HomeController : Controller // Definindo a controller
     [HttpPost]
     public IActionResult AlterarDados(DadosViewModel dados)
     {
-        _dados.Nome = dados.Nome;
         _dados.Descricao = dados.Descricao;
         _editavel = false;
         return RedirectToAction("Perfil");
