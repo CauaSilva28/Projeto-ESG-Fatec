@@ -1,3 +1,4 @@
+/* Parte inicial do perfil*/
 .perfilInicio{
     background-image:url(../img/fundoPerfil.png);
     background-repeat: no-repeat;
@@ -6,7 +7,7 @@
     width:100%;
     display:flex;
     flex-direction: column;
-    padding:8vh 5vw 0 5vw;
+    padding:10vh 5vw 0 5vw;
     gap:20px;
 }
 .perfilInicio .dadosAplicar{
@@ -18,10 +19,14 @@
 .perfilInicio .formDadosEditar{
     padding-left:10px;
 }
-.perfilInicio img{
+.perfilInicio .imagemPerfil{
     width:180px;
+    height:180px;
     border-radius:100%;
     border:3px solid var(--cor-padrao);
+    overflow: hidden;
+    object-fit: cover;
+    object-position: center;
 }
 .perfilInicio .formDadosInicio{
     width:30%;
@@ -50,6 +55,18 @@
     .perfilInicio .formDadosInicio h2{
         font-size:16px;
     }
+}
+.perfilInicio .formDadosInicio .selecaoImg{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+.perfilInicio .formDadosInicio .selecaoImg span{
+    font-size:16px;
+    font-weight:bold;
+}
+.perfilInicio .formDadosInicio .selecaoImg input{
+    font-size:14px;
 }
 .perfilInicio .formDadosInicio textarea{
     max-width:100%;
@@ -98,13 +115,15 @@
     outline: none;
     box-shadow: none;
 }
+/* Fim parte inicial do perfil*/
 
+/* Perfil home */
 .perfilHome{
     display:flex;
     flex-direction: column;
     gap:10px;
     width:70%;
-    margin:15vh auto 10vh auto;
+    margin:10vh auto 10vh auto;
 }
 .perfilHome p{
     text-indent: 20px;
@@ -136,6 +155,11 @@
     height:270px;
     background-color: #F3E8FF;
 }
+
+/* Fim perfil home */
+
+/* Depoimentos */
+
 #formDepoimento{
     margin-top:10vh;
     display:flex;
@@ -209,6 +233,10 @@
 }
 .depoimentoCard img{
     width:110px;
+    height:110px;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: center;
     border-radius:100%;
 }
 .depoimentoCard h3{
@@ -252,3 +280,5 @@
 .depoimentoCard .depoimentoLike .active{
     color:#fd3287 !important;
 }
+
+/* Fim depoimentos */

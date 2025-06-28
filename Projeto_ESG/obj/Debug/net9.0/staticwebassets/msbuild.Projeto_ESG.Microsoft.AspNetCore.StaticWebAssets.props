@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ja4yvbnvye</Fingerprint>
-      <Integrity>OwVm9QzLendwIzvbYpCOGEVT5oVZ+MogHkEgI9EAGPk=</Integrity>
+      <Fingerprint>qx5ta9vhzp</Fingerprint>
+      <Integrity>TgHhGJZdh6g0esQ3c/yVVrIOIiDQRZ3/AtRt875oybQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\perfil.css'))</OriginalItemSpec>
@@ -228,8 +228,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ecody0h8a2</Fingerprint>
-      <Integrity>fi41kVEcmH8q0OO1b0bd4cQbBfKhSUvU259lQ3f/Amk=</Integrity>
+      <Fingerprint>9m16yhsf4l</Fingerprint>
+      <Integrity>T+yrnArMEdbY4KrHp75o6aFrRcfj3Cjn80mVbhaLa9M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\appHome.png'))</OriginalItemSpec>
@@ -246,8 +246,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xi5wy0zhhl</Fingerprint>
-      <Integrity>+bVklRaesptf9SAiIxPfbPj3L3TBptTaZMh7NZwJKcA=</Integrity>
+      <Fingerprint>9g59u9kh74</Fingerprint>
+      <Integrity>J1rS4lpQN/LxGMrUdposgdyRZcrMipyllbWy5UT1cnU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\appSobre.png'))</OriginalItemSpec>
@@ -498,8 +498,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>akq0jqlwae</Fingerprint>
-      <Integrity>ho7dwPxPey7OfhW+YKW2sV6isi6c9mwjTJpNHxY03D8=</Integrity>
+      <Fingerprint>j17p4kkm7e</Fingerprint>
+      <Integrity>GfwMCEjsQpCdD1r7H9qfQPPnlhgAepjJDAOcLxxAd2g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\telas\celularTela1.png'))</OriginalItemSpec>

@@ -31,12 +31,17 @@
     </nav>
 </header>
 
-<section class="perfilInicio">
+<section class="perfilInicio"> <!-- Seção inicial do perfil -->
     <div class="dadosAplicar">
-        <img src="~/img/perfil.jpg" alt="Foto de perfil">
+        <img src="@Model.Dados.CaminhoImagem" alt="Foto de perfil" class="imagemPerfil" /> <!-- Imagem de perfil com um caminho sendo a variavel da imagem selecionada pelo usuário -->
         
-        <form method="post" asp-action="AlterarDados" class="formDadosInicio">
-            <h2>@(string.IsNullOrEmpty(nomeUsuario) ? "Desconectado" : $"{nomeUsuario}")</h2>
+        <form method="post" asp-action="AlterarDados" class="formDadosInicio" enctype="multipart/form-data"> <!-- Formulario para seleção da imagem de perfil e a descrição-->
+            <h2>@(string.IsNullOrEmpty(nomeUsuario) ? "Desconectado" : $"{nomeUsuario}")</h2> <!-- Nome do usuario de acordo com o cadastrado -->
+            
+            <div class="selecaoImg" style="@(ViewBag.Editavel ? "display:block;" : "display:none;")"> <!-- Div que aparece quando a variavel Editavel é verdadeira -->
+                <span>Foto de perfil: </span>
+                <input type="file" name="FotoPerfil" accept="image/*" @(ViewBag.Editavel ? "" : "disabled") />
+            </div>
 
             <textarea type="text"
                 name="Descricao"
@@ -45,16 +50,16 @@
                 class="@(ViewBag.Editavel ? "" : "inputDesabilitado")" 
                 maxlength="70">@Model.Dados.Descricao</textarea>
 
-            <button style="@(ViewBag.Editavel ? "display:block;" : "display:none;")" type="submit" @(ViewBag.Editavel ? "" : "disabled")>Aplicar</button>
+            <button style="@(ViewBag.Editavel ? "display:block;" : "display:none;")" type="submit" @(ViewBag.Editavel ? "" : "disabled")>Aplicar</button> <!-- botao para aplicar os dados inseridos -->
         </form>
     </div>
 
-    <form method="post" asp-action="EditarDados" class="formDadosEditar">
+    <form method="post" asp-action="EditarDados" class="formDadosEditar"> <!-- Form para habilitar edição dos dados iniciais do perfil -->
         <button type="submit" @(ViewBag.Editavel ? "disabled" : "")>Editar</button>
     </form>
 </section>
 
-<section class="perfilHome">
+<section class="perfilHome"> <!-- Perfil home com dados sincronizados com o aplicativo -->
     <h2>O Que é seu <span>perfil?</span></h2>
     <p>Na área de perfil, cada usuária pode acompanhar sua trajetória dentro do aplicativo de forma personalizada. É possível visualizar dados importantes, como rotas percorridas e alertas ativados. Além disso, o espaço permite deixar depoimentos sobre como o app tem ajudado no dia a dia, criando uma rede de apoio e inspiração para outras mulheres. Aqui, cada experiência conta e contribui para tornar a comunidade mais forte, informada e protegida.</p>
 
@@ -70,27 +75,31 @@
             <div class="dados">
 
             </div>
+            <div class="dados">
+
+            </div>
         </div>
     </div>
 
-    <form method="post" id="formDepoimento" asp-action="Perfil" asp-controller="Home">
+    <form method="post" id="formDepoimento" asp-action="Perfil" asp-controller="Home"> <!-- Form para escrever e adicionar depoimentos -->
         <h2>Fale sobre nosso <span>aplicativo!</span></h2>
         <p>Sua opinião transforma! Esta é a sua oportunidade de nos contar como o aplicativo tem feito a diferença no seu dia a dia. Queremos ouvir suas sugestões, elogios ou até críticas construtivas, tudo isso nos ajuda a evoluir e oferecer uma experiência cada vez mais segura e eficaz.</p>
         <textarea name="Depoimento" maxlength="500"></textarea>
         <button>Adicionar</button>
     </form>
 
-    <div id="depoimentosPessoal">
+    <div id="depoimentosPessoal"> <!-- Div onde aparecem os depoimentos adicionados pelo usuario -->
         <h2>Seus depoimentos</h2>
+        <!-- Condição que verifica se o Depoimento não é nulo, caso for, aparece uma mensagem de nenhum depoimento feito -->
         @if (Model?.Depoimentos != null && Model.Depoimentos.Any())
         {
             foreach (var item in Model.Depoimentos)
             {
-                
+                <!-- os Depoimentos são adicionados em uma lista e inseridos nessa Div como cards -->
                 <div class="depoimentoCard">
-                    <img src="~/img/perfil.jpg" alt="Foto de perfil">
+                    <img src="@Model.Dados.CaminhoImagem" alt="Foto de perfil">
                     <div class="depoimentoCardText">
-                        <h3>@(string.IsNullOrEmpty(nomeUsuario) ? "Anônimo" : $"{nomeUsuario}")</h3>
+                        <h3>@(string.IsNullOrEmpty(nomeUsuario) ? "Desconectado" : $"{nomeUsuario}")</h3>
                         <p>@item.Depoimento</p>
                     </div>
                     <form method="post" asp-action="ExcluirDepoimento">
@@ -106,6 +115,7 @@
         }
     </div>
 
+    <!-- Depoimentos feitos por outros usuarios -->
     <div id="depoimentosComunidade">
         <h2>Depoimentos da <span>comunidade</span></h2>
 
@@ -122,7 +132,7 @@
                     <form method="post" asp-action="AdicionarLike">
                         <input type="hidden" name="id" value="@item.Id" />
                         <button type="submit">
-                            <i class="bi bi-heart-fill @(item.Curtido ? "active" : "")"></i>
+                            <i class="bi bi-heart-fill @(item.Curtido ? "active" : "")"></i> <!-- Se curtido for verdadeiro, uma classe é adicionada ao icone -->
                         </button>
                     </form>
                 </div>
