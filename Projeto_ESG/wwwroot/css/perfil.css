@@ -107,7 +107,7 @@
 .perfilInicio .formDadosEditar button {
     font-size: 16px;
     border: none;
-    padding: .5em 4em;
+    padding: 5px 30px;
     border-radius: 1em;
     background-color: var(--cor-padrao);
     color: #fff;
@@ -199,7 +199,7 @@
 }
 
 .perfilHome .perfilHomeDados .perfilDadosContainer .dados {
-    width: 250px;
+    width: 220px;
     height: 270px;
     background-color: #F3E8FF;
 }
@@ -268,6 +268,7 @@
     width: 100%;
     display: flex;
     justify-content: space-between;
+    gap:20px;
     align-items: center;
     padding: 10px 50px;
     background-color: var(--cor-fundo2);
@@ -289,8 +290,11 @@
     word-wrap: break-word;
 }
 
-.depoimentoCard .depoimentoCardText {
+#depoimentosComunidade .depoimentoCard .depoimentoCardText {
     width: 80%;
+}
+#depoimentosPessoal .depoimentoCard .depoimentoCardText {
+    width: 75%;
 }
 
 .depoimentoCard img {
@@ -310,7 +314,7 @@
 #depoimentosPessoal .depoimentoCard button {
     border: none;
     border-radius: 1em;
-    padding: .5em 2em;
+    padding: 8px 15px;
     color: #fff;
     background-color: var(--cor-padrao);
 }

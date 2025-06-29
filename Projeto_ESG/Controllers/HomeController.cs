@@ -43,8 +43,8 @@ namespace Projeto_ESG.Controllers
             if (FotoPerfil != null && FotoPerfil.Length > 0)
             {
                 var extensao = Path.GetExtension(FotoPerfil.FileName);
-                var nomeArquivo = $"{usuario}{extensao}";
-                var caminhoCompleto = Path.Combine(pastaPerfis, nomeArquivo);
+                var nomeArquivo = $"{usuario}{extensao}"; // Faz com que o nome do arquivo seja o nome do usuario para melhor organizacao
+                var caminhoCompleto = Path.Combine(pastaPerfis, nomeArquivo); // caminho ao qual ira a imagem adicionada
 
                 if (System.IO.File.Exists(caminhoCompleto))
                 {
