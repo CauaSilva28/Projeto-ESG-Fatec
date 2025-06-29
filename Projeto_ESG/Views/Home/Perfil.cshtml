@@ -50,7 +50,7 @@
                 class="@(ViewBag.Editavel ? "" : "inputDesabilitado")" 
                 maxlength="70">@Model.Dados.Descricao</textarea>
 
-            <button style="@(ViewBag.Editavel ? "display:block;" : "display:none;")" type="submit" @(ViewBag.Editavel ? "" : "disabled")>Aplicar</button> <!-- botao para aplicar os dados inseridos -->
+            <button style="@(ViewBag.Editavel ? "display:block;" : "display:none;")" type="submit" @(ViewBag.Editavel ? "" : "disabled")>Aplicar</button> <!-- Botão para aplicar os dados inseridos -->
         </form>
     </div>
 
@@ -99,7 +99,7 @@
                 <div class="depoimentoCard">
                     <img src="@Model.Dados.CaminhoImagem" alt="Foto de perfil">
                     <div class="depoimentoCardText">
-                        <h3>@(string.IsNullOrEmpty(nomeUsuario) ? "Desconectado" : $"{nomeUsuario}")</h3>
+                        <h3>@(string.IsNullOrEmpty(nomeUsuario) ? "Desconhecido" : $"{nomeUsuario}")</h3>
                         <p>@item.Depoimento</p>
                     </div>
                     <form method="post" asp-action="ExcluirDepoimento">

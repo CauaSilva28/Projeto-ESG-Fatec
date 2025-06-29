@@ -716,8 +716,6 @@ c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fate
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\bundle\Projeto_ESG.styles.css
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\scopedcss\projectbundle\Projeto_ESG.bundle.scp.css
-c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-ec5m7z1ekp.gz
-c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-t1o0agq21q.gz
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\n7wdgzvdqw-61n19gt1b8.gz
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\415og7hk3l-dm0vo1nsvg.gz
 c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\8zg8rv5hrv-t1cqhe9u97.gz
@@ -801,3 +799,5 @@ e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debu
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\dku5r3uj39-soa7cu6t4u.gz
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-qthy2dtm5t.gz
 e:\Área de Trabalho\github meus projetos\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-qx5ta9vhzp.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\w0v5jodpn5-no2poxprgo.gz
+c:\Users\mathe\OneDrive\Documentos\Projetos Programação\teste\Projeto-ESG-Fatec\Projeto_ESG\obj\Debug\net9.0\compressed\zn8rzj5zn7-tu8ke841vz.gz

@@ -1,116 +1,158 @@
 /* Parte inicial do perfil*/
-.perfilInicio{
-    background-image:url(../img/fundoPerfil.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: bottom;
-    width:100%;
-    display:flex;
-    flex-direction: column;
-    padding:10vh 5vw 0 5vw;
-    gap:20px;
+.perfilInicio {
+    background-image: url(../img/fundoPerfil.png); /* Imagem de fundo do perfil */
+    background-repeat: no-repeat; /* Não permite que a imagem de fundo se repita */
+    background-size: cover; /* Cobre todo o espaço disponível */
+    background-position: bottom; /* Posiciona a imagem de fundo na parte inferior */
+    width: 100%; /* Ocupa toda a largura disponível  */
+    display: flex; 
+    flex-direction: column; /* Dispõe os elementos em colunas */
+    padding: 10vh 5vw 0 5vw; /* Espaçamento interno  */
+    gap: 20px;
 }
-.perfilInicio .dadosAplicar{
-    width:100%;
-    display:flex;
+
+.perfilInicio .dadosAplicar {
+    width: 100%;
+    display: flex;
     align-items: end;
-    gap:40px;
+    gap: 40px;
 }
-.perfilInicio .formDadosEditar{
-    padding-left:10px;
+
+.perfilInicio .formDadosEditar {
+    padding-left: 10px;
 }
-.perfilInicio .imagemPerfil{
-    width:180px;
-    height:180px;
-    border-radius:100%;
-    border:3px solid var(--cor-padrao);
+
+.perfilInicio .imagemPerfil {
+    width: 180px;
+    height: 180px;
+    border-radius: 100%; /* Deixando imagem circular */
+    border: 3px solid var(--cor-padrao);
     overflow: hidden;
     object-fit: cover;
     object-position: center;
 }
-.perfilInicio .formDadosInicio{
-    width:30%;
-    display:flex;
+
+.perfilInicio .formDadosInicio {
+    width: 30%;
+    display: flex;
     flex-direction: column;
-    gap:10px;
+    gap: 10px;
 }
+
 @media (max-width: 1000px) {
-    .perfilInicio{
-        padding-left:4vw;
+    .perfilInicio {
+        padding-left: 4vw;
     }
-    .perfilInicio .dadosAplicar{
-        gap:20px;
+
+    .perfilInicio .dadosAplicar {
+        gap: 20px;
     }
-    .perfilInicio img{
-        width:140px;
+
+    .perfilInicio img {
+        width: 140px;
     }
-    .perfilInicio .formDadosInicio{
-        width:50%;
+
+    .perfilInicio .formDadosInicio {
+        width: 50%;
     }
 }
-.perfilInicio .formDadosInicio h2{
-    font-size:26px;
+
+.perfilInicio .formDadosInicio h2 {
+    font-size: 26px;
 }
+
 @media (max-width: 1000px) {
-    .perfilInicio .formDadosInicio h2{
-        font-size:16px;
+    .perfilInicio .formDadosInicio h2 {
+        font-size: 16px;
     }
 }
-.perfilInicio .formDadosInicio .selecaoImg{
-    display:flex;
-    align-items:center;
-    gap:10px;
+
+.perfilInicio .formDadosInicio .selecaoImg {
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
-.perfilInicio .formDadosInicio .selecaoImg span{
-    font-size:16px;
-    font-weight:bold;
+
+.perfilInicio .formDadosInicio .selecaoImg span {
+    font-size: 16px;
+    font-weight: bold;
 }
-.perfilInicio .formDadosInicio .selecaoImg input{
-    font-size:14px;
+
+.perfilInicio .formDadosInicio .selecaoImg input {
+    font-size: 14px;
 }
-.perfilInicio .formDadosInicio textarea{
-    max-width:100%;
+
+.perfilInicio .formDadosInicio textarea {
+    max-width: 100%;
     min-width: 100%;
     min-height: 70px;
-    max-height:70px;
-    width:100%;
+    max-height: 70px;
+    width: 100%;
     background-color: #fff;
-    border-top:none;
-    border-right:none;
-    border-left:4px solid var(--cor-padrao);
-    border-bottom:none;
-    font-size:16px;
-    padding:5px;
-    box-shadow:1px 1px 3px;
+    border-top: none;
+    border-right: none;
+    border-left: 4px solid var(--cor-padrao);
+    border-bottom: none;
+    font-size: 16px;
+    padding: 5px;
+    box-shadow: 1px 1px 3px;
 }
-.perfilInicio .formDadosInicio button{
-    width:20%;
-}
+
 @media (max-width: 1000px) {
-    .perfilInicio .formDadosInicio button{
-        width:50%;
+    .perfilInicio .formDadosInicio button {
+        width: 50%;
     }
 }
-.perfilInicio .formDadosInicio button, .perfilInicio .formDadosEditar button{
-    font-size:14px;
-    border:none;
-    padding:5px 10px;
-    border-radius:1em;
-    background-color:var(--cor-padrao);
-    color:#fff;
-    transition:0.5s;
+
+.perfilInicio .formDadosEditar button {
+    font-size: 16px;
+    border: none;
+    padding: .5em 4em;
+    border-radius: 1em;
+    background-color: var(--cor-padrao);
+    color: #fff;
+    box-shadow: 1px 1px 4px #000;
 }
-.perfilInicio .formDadosInicio button:hover, .perfilInicio .formDadosEditar button:hover{
-    background-color:#fff;
-    color:var(--cor-padrao);
+
+.perfilInicio .formDadosInicio button {
+    width: 40%;
+    font-size: 16px;
+    border: none;
+    padding: .5em 10px;
+    border-radius: 1em;
+    background-color: var(--cor-padrao);
+    color: #fff;
+    box-shadow: 1px 1px 4px #000;
 }
-.inputDesabilitado{
+
+.perfilInicio .formDadosInicio button:hover {
+    background-color: var(--cor-padrao-escura);
+    transition: 0.7s;
+}
+
+.perfilInicio .formDadosEditar button:hover {
+    background-color: var(--cor-padrao-escura);
+    transition: 0.7s;
+}
+
+.perfilInicio .formDadosInicio button:not(hover) {
+    background-color: var(--cor-padrao);
+    transition: 0.7s;
+}
+
+.perfilInicio .formDadosEditar button:not(hover) {
+    background-color: var(--cor-padrao);
+    transition: 0.7s;
+}
+
+.inputDesabilitado {
     background-color: transparent !important;
-    border:none !important;
+    border: none !important;
     box-shadow: none !important;
-    font-size:17px !important;
+    font-size: 17px !important;
     resize: none;
 }
+
 .inputDesabilitado:focus {
     outline: none;
     box-shadow: none;
@@ -118,167 +160,199 @@
 /* Fim parte inicial do perfil*/
 
 /* Perfil home */
-.perfilHome{
-    display:flex;
+.perfilHome {
+    display: flex;
     flex-direction: column;
-    gap:10px;
-    width:70%;
-    margin:10vh auto 10vh auto;
+    gap: 10px;
+    width: 70%;
+    margin: 10vh auto 10vh auto;
 }
-.perfilHome p{
+
+.perfilHome p {
     text-indent: 20px;
 }
-.perfilHome .perfilHomeDados{
-    margin-top:5vh;
-    display:flex;
+
+.perfilHome .perfilHomeDados {
+    margin-top: 5vh;
+    display: flex;
     flex-direction: column;
-    gap:10px;
+    gap: 10px;
 }
-.perfilHome .perfilHomeDados h3{
+
+.perfilHome .perfilHomeDados h3 {
     font-size:16px;
     font-weight: bold;
 }
-.perfilHome .perfilHomeDados .perfilDadosContainer{
-    display:flex;
-    align-items:center;
+
+.perfilHome .perfilHomeDados .perfilDadosContainer {
+    display: flex;
+    align-items: center;
     justify-content: space-between;
 }
+
 @media (max-width: 1000px) {
-    .perfilHome .perfilHomeDados .perfilDadosContainer{
+    .perfilHome .perfilHomeDados .perfilDadosContainer {
         flex-direction: column;
         justify-content: center;
-        gap:20px;
+        gap: 20px;
     }
 }
-.perfilHome .perfilHomeDados .perfilDadosContainer .dados{
-    width:250px;
-    height:270px;
+
+.perfilHome .perfilHomeDados .perfilDadosContainer .dados {
+    width: 250px;
+    height: 270px;
     background-color: #F3E8FF;
 }
-
 /* Fim perfil home */
 
 /* Depoimentos */
-
-#formDepoimento{
-    margin-top:10vh;
-    display:flex;
+#formDepoimento {
+    margin-top: 10vh;
+    display: flex;
     flex-direction: column;
-    gap:10px;
+    gap: 10px;
 }
-#formDepoimento textarea{
-    max-height:15vh;
+
+#formDepoimento textarea {
+    max-height: 15vh;
     min-height: 15vh;
-    border:2px solid var(--cor-padrao);
+    border: 2px solid var(--cor-padrao);
 }
-#formDepoimento button{
-    width:20%;
-    padding:10px 0;
-    border:none;
-    border-radius:1em;
+
+#formDepoimento button {
+    width: 20%;
+    padding: 10px 0;
+    border: none;
+    border-radius: 1em;
     background-color: var(--cor-padrao);
-    color:#fff;
-    box-shadow:1px 1px 4px #000;
-    margin-top:2vh;
-    transition: 0.5s;
+    color: #fff;
+    box-shadow: 1px 1px 4px #000;
+    margin-top: 2vh;
 }
-#formDepoimento button:hover{
-    scale:1.05;
+
+#formDepoimento button:hover {
+    background-color: var(--cor-padrao-escura);
+    transition: 0.7s;
 }
+
+#formDepoimento button:not(hover) {
+    background-color: var(--cor-padrao);
+    transition: 0.7s;
+}
+
 @media (max-width: 1000px) {
-    #formDepoimento button{
-        width:40%;
+    #formDepoimento button {
+        width: 40%;
     }
 }
-#depoimentosPessoal, #depoimentosComunidade{
-    margin-top:10vh;
-    display:flex;
+
+#depoimentosPessoal, #depoimentosComunidade {
+    margin-top: 10vh;
+    display: flex;
     flex-direction: column;
     justify-content: center;
-    gap:20px;
+    gap: 20px;
 }
 
-#depoimentosPessoal h2, #depoimentosComunidade h2{
+#depoimentosPessoal h2, #depoimentosComunidade h2 {
     text-align: center;
 }
-#depoimentosPessoal span{
-    text-align:center;
-    color:#969696;
-    font-size:16px;
+
+#depoimentosPessoal span {
+    text-align: center;
+    color: #969696;
+    font-size: 16px;
 }
-.depoimentoCard{
-    width:100%;
-    display:flex;
+
+.depoimentoCard {
+    width: 100%;
+    display: flex;
     justify-content: space-between;
     align-items: center;
-    padding:10px 50px;
+    padding: 10px 50px;
     background-color: var(--cor-fundo2);
-    box-shadow:1px 1px 4px #000;
+    box-shadow: 1px 1px 4px #000;
 }
+
 @media (max-width: 1000px) {
-    .depoimentoCard{
+    .depoimentoCard {
         flex-direction: column;
         justify-content: center;
-        gap:20px;
-        padding:30px 10px;
+        gap: 20px;
+        padding: 30px 10px;
         text-align: center;
     }
 }
-.depoimentoCard p{
-    margin:0;
+
+.depoimentoCard p {
+    margin: 0;
     word-wrap: break-word;
 }
-.depoimentoCard .depoimentoCardText{
-    width:80%;
+
+.depoimentoCard .depoimentoCardText {
+    width: 80%;
 }
-.depoimentoCard img{
-    width:110px;
-    height:110px;
+
+.depoimentoCard img {
+    width: 110px;
+    height: 110px;
     overflow: hidden;
     object-fit: cover;
     object-position: center;
-    border-radius:100%;
+    border-radius: 100%;
 }
-.depoimentoCard h3{
-    font-size:20px;
-    font-weight:bold;
+
+.depoimentoCard h3 {
+    font-size: 20px;
+    font-weight: bold;
 }
-#depoimentosPessoal .depoimentoCard button{
-    border:none;
-    border-radius:1em;
-    padding:5px 15px;
-    color:#fff;
+
+#depoimentosPessoal .depoimentoCard button {
+    border: none;
+    border-radius: 1em;
+    padding: .5em 2em;
+    color: #fff;
     background-color: var(--cor-padrao);
-    transition: 0.5s;
 }
-#depoimentosPessoal .depoimentoCard button:hover{
-    background-color: #fff;
-    color:var(--cor-padrao);
+
+#depoimentosPessoal .depoimentoCard button:hover {
+    background-color: var(--cor-padrao-escura);
+    transition: 0.7s;
 }
-.depoimentoCard .depoimentoLike{
-    display:flex;
+
+#depoimentosPessoal .depoimentoCard button:not(hover) {
+    background-color: var(--cor-padrao);
+    transition: 0.7s;
+}
+
+.depoimentoCard .depoimentoLike {
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
-.depoimentoCard .depoimentoLike span{
-    font-size:14px;
-}
-.depoimentoLike button{
-    background-color: transparent;
-    border:none;
-}
-.depoimentoCard .depoimentoLike button i{
-    color:#898989;
-    font-size:25px;
-    cursor:pointer;
-    transition: 0.5s;
-}
-.depoimentoCard .depoimentoLike button i:hover{
-    color:#5e5e5e;
-}
-.depoimentoCard .depoimentoLike .active{
-    color:#fd3287 !important;
+
+.depoimentoCard .depoimentoLike span {
+    font-size: 14px;
 }
 
+.depoimentoLike button {
+    background-color: transparent;
+    border: none;
+}
+
+.depoimentoCard .depoimentoLike button i {
+    color: #898989;
+    font-size: 25px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.depoimentoCard .depoimentoLike button i:hover {
+    color: #5e5e5e;
+}
+
+.depoimentoCard .depoimentoLike .active {
+    color: #fd3287 !important;
+}
 /* Fim depoimentos */

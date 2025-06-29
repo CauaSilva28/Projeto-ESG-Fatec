@@ -480,14 +480,26 @@ header nav i:not(:hover) {
     margin:0;
 }
 
-#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard a{
-    text-align:center;
-    color:var(--cor-padrao);
-    font-size:14px;
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard a { /* Link do card */
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 1em;
+    margin: 0 2em;
+    border-radius: 50px;
+    background-color: var(--cor-fundo3);
+    color: #fff;
+    font-size: 14px;
     transition: 0.5s;
 }
-#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard a:hover{
-    color:#fff;
+
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard:hover { /* Animação do link */
+    scale: 1.02; /* Aumenta o tamanho do card */
+    box-shadow: 0px 0px 10px #000; /* Sombra do card */
+}
+
+#casos .casosNoticia .casosNoticiaContainer .casosNoticiaCard a:hover { /* Animação do link */
+    color: #a18afd; /* Cor do link após hover */
 }
 
 /*Sobre*/
